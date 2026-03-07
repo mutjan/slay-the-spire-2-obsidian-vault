@@ -1,0 +1,36 @@
+# Pact's End
+
+> **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 0
+
+## 基本信息
+
+- **所属角色**: [[铁甲战士]]
+- **卡牌类型**: [[攻击牌]]
+- **稀有度**: [[罕见]]
+- **能量消耗**: 0
+
+## 效果描述
+
+Can only be played if you have 3 or more cards in your Exhaust Pile. Deal 17 damage to ALL enemies.
+
+## 数据字段
+
+```yaml
+name:: Pact's End
+type:: [[攻击牌]]
+character:: [[铁甲战士]]
+rarity:: [[罕见]]
+energy_cost:: 0
+```
+
+## 相关链接
+
+- [在Untapped.gg查看](https://sts2.untapped.gg/en/cards/pacts_end)
+
+## 标签
+
+#卡牌 #攻击牌 #罕见 #铁甲战士
+
+---
+
+*返回 [[卡牌目录]] | [[铁甲战士]]*

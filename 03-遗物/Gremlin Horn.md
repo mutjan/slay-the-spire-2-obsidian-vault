@@ -1,0 +1,28 @@
+# Gremlin Horn
+
+> **稀有度**: [[稀有]] | **所属**: [[无色]]
+
+## 基本信息
+
+- **所属角色**: [[无色]]
+- **稀有度**: [[稀有]]
+
+## 效果描述
+
+Whenever an enemy dies, gain  and draw 1 card.
+
+## 数据字段
+
+```yaml
+name:: Gremlin Horn
+character:: [[无色]]
+rarity:: [[稀有]]
+```
+
+## 标签
+
+#遗物 #稀有
+
+---
+
+*返回 [[遗物目录]] | [[无色]]*

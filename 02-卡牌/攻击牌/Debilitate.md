@@ -1,0 +1,36 @@
+# Debilitate
+
+> **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 1
+
+## 基本信息
+
+- **所属角色**: [[死灵法师]]
+- **卡牌类型**: [[攻击牌]]
+- **稀有度**: [[稀有]]
+- **能量消耗**: 1
+
+## 效果描述
+
+Deal 7 damage. Vulnerable and Weak are twice as effective against the enemy for the next 3 turns.
+
+## 数据字段
+
+```yaml
+name:: Debilitate
+type:: [[攻击牌]]
+character:: [[死灵法师]]
+rarity:: [[稀有]]
+energy_cost:: 1
+```
+
+## 相关链接
+
+- [在Untapped.gg查看](https://sts2.untapped.gg/en/cards/debilitate)
+
+## 标签
+
+#卡牌 #攻击牌 #稀有 #死灵法师
+
+---
+
+*返回 [[卡牌目录]] | [[死灵法师]]*
