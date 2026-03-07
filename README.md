@@ -67,6 +67,10 @@ SlayTheSpire2/
 
 卡牌数据来自 [cjodo/sts2](https://github.com/cjodo/sts2) 仓库。
 
+## 技术说明
+
+本知识库使用 [Obsidian Vault Creator Skill](./OBSIDIAN_SKILL.md) 自动生成，该 Skill 可用于创建任何结构化的 Obsidian 知识库。
+
 ## License
 
 MIT License - 数据归游戏开发者所有，本库仅用于学习交流。
