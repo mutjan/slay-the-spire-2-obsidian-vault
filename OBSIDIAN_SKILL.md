@@ -248,6 +248,18 @@ Today I worked on [[Project A]] with [[Alice]].
 - End with navigation links
 - Include Dataview queries for dynamic content
 
+### Markdown Tables
+- **Always add a blank line before tables** for proper rendering:
+  ```markdown
+  **Table Title**:
+
+  | Column 1 | Column 2 |
+  |----------|----------|
+  | Data 1   | Data 2   |
+  ```
+- Use consistent column alignment
+- Keep table widths reasonable for readability
+
 ## Example: Complete Vault Generation
 
 See bundled script for full implementation:
