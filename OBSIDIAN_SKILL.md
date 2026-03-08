@@ -293,6 +293,55 @@ du -sh vault-path
 ### Validate Links
 Use Obsidian's Graph view or third-party plugins to detect broken links.
 
+## Obsidian URI Scheme
+
+When referencing files in an Obsidian vault (e.g., in reports or responses), use the **Obsidian URI** format:
+
+```
+obsidian://open?vault=VaultName&file=Path/To/File
+```
+
+### URI Format Rules
+
+1. **Vault name**: Use the vault folder name (URL-encoded if containing spaces)
+2. **File path**: Relative path from vault root, without `.md` extension
+3. **URL encoding**: Encode spaces as `%20`, special characters as needed
+
+### Examples
+
+| File Path | Obsidian URI |
+|-----------|--------------|
+| `05-导航/主页.md` | `obsidian://open?vault=SlayTheSpire2&file=05-%E5%AF%BC%E8%88%AA/%E4%B8%BB%E9%A1%B5` |
+| `01-角色/铁甲战士/铁甲战士.md` | `obsidian://open?vault=SlayTheSpire2&file=01-%E8%A7%92%E8%89%B2/%E9%93%81%E7%94%B2%E6%88%98%E5%A3%AB/%E9%93%81%E7%94%B2%E6%88%98%E5%A3%AB` |
+| `02-卡牌/攻击牌/Strike.md` | `obsidian://open?vault=SlayTheSpire2&file=02-%E5%8D%A1%E7%89%8C/%E6%94%BB%E5%87%BB%E7%89%8C/Strike` |
+
+### Generating URIs
+
+```python
+from urllib.parse import quote
+
+def generate_obsidian_uri(vault_name, file_path):
+    # Remove .md extension if present
+    if file_path.endswith('.md'):
+        file_path = file_path[:-3]
+
+    # URL encode the file path
+    encoded_path = quote(file_path, safe='/')
+
+    return f"obsidian://open?vault={vault_name}&file={encoded_path}"
+
+# Example
+uri = generate_obsidian_uri("SlayTheSpire2", "05-导航/主页.md")
+# Result: obsidian://open?vault=SlayTheSpire2&file=05-%E5%AF%BC%E8%88%AA/%E4%B8%BB%E9%A1%B5
+```
+
+### Best Practices
+
+- Always use Obsidian URIs when sharing vault file references
+- URIs are clickable in most applications and will open directly in Obsidian
+- Prefer URIs over file paths (`file://`) for better cross-platform compatibility
+- Include vault name to avoid ambiguity when user has multiple vaults
+
 ## Resources
 
 - [Obsidian Documentation](https://help.obsidian.md/)
