@@ -1,5 +1,14 @@
 # Glow
 
+---
+name:: Glow
+type:: [[技能牌]]
+character:: [[储君]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain . Draw 2 cards.
-
-## 数据字段
-
-```yaml
-name:: Glow
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

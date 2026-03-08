@@ -1,5 +1,14 @@
 # Equilibrium
 
+---
+name:: Equilibrium
+type:: [[技能牌]]
+character:: [[无色]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 13 [[格挡|Block]]. [[保留|Retain]] your Hand this turn.
-
-## 数据字段
-
-```yaml
-name:: Equilibrium
-type:: [[技能牌]]
-character:: [[无色]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

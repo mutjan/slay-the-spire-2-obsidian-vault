@@ -1,5 +1,14 @@
 # Beat into Shape
 
+---
+name:: Beat into Shape
+type:: [[攻击牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 5 damage. [[锻造|Forge]] 5. Forges an additional 5 for every other time you've hit the enemy this turn.
-
-## 数据字段
-
-```yaml
-name:: Beat into Shape
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Storm of Steel
 
+---
+name:: Storm of Steel
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Discard your Hand. Add 1 [[Shiv]] into your Hand for each card discarded.
-
-## 数据字段
-
-```yaml
-name:: Storm of Steel
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

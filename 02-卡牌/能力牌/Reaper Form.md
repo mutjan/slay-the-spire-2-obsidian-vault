@@ -1,5 +1,14 @@
 # Reaper Form
 
+---
+name:: Reaper Form
+type:: [[能力牌]]
+character:: [[死灵契约师]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever Attacks deal damage, they also apply that much [[厄运|Doom]].
-
-## 数据字段
-
-```yaml
-name:: Reaper Form
-type:: [[能力牌]]
-character:: [[死灵契约师]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Predator
 
+---
+name:: Predator
+type:: [[攻击牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 15 damage. Next turn, draw 2 cards.
-
-## 数据字段
-
-```yaml
-name:: Predator
-type:: [[攻击牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

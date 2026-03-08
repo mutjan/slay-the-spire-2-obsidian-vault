@@ -1,5 +1,14 @@
 # Fetch
 
+---
+name:: Fetch
+type:: [[攻击牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[奥斯蒂|Osty]] deals 3 damage. If this is the first time this card has been played this turn, draw 1 card.
-
-## 数据字段
-
-```yaml
-name:: Fetch
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

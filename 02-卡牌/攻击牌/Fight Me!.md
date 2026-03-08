@@ -1,5 +1,14 @@
 # Fight Me!
 
+---
+name:: Fight Me!
+type:: [[攻击牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 5 damage twice. Gain 2 [[力量|Strength]]. The enemy gains 1 [[力量|Strength]].
-
-## 数据字段
-
-```yaml
-name:: Fight Me!
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

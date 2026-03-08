@@ -1,5 +1,14 @@
 # Call of the Void
 
+---
+name:: Call of the Void
+type:: [[能力牌]]
+character:: [[死灵契约师]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the start of your turn, add 1 random card into your Hand. It gains [[虚无|Ethereal]].
-
-## 数据字段
-
-```yaml
-name:: Call of the Void
-type:: [[能力牌]]
-character:: [[死灵契约师]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

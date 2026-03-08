@@ -1,5 +1,14 @@
 # Cruelty
 
+---
+name:: Cruelty
+type:: [[能力牌]]
+character:: [[铁甲战士]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[易伤|Vulnerable]] enemies take an additional 25% damage.
-
-## 数据字段
-
-```yaml
-name:: Cruelty
-type:: [[能力牌]]
-character:: [[铁甲战士]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

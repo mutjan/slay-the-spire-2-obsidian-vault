@@ -1,5 +1,14 @@
 # Eradicate
 
+---
+name:: Eradicate
+type:: [[攻击牌]]
+character:: [[死灵契约师]]
+rarity:: [[罕见]]
+energy_cost:: X
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: X
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[保留|Retain]]. Deal 11 damage X times.
-
-## 数据字段
-
-```yaml
-name:: Eradicate
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[罕见]]
-energy_cost:: X
-```
 
 ## 相关链接
 

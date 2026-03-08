@@ -1,5 +1,14 @@
 # Barrage
 
+---
+name:: Barrage
+type:: [[攻击牌]]
+character:: [[故障机器人]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 5 damage for each Channeled [[充能球|Orb]].
-
-## 数据字段
-
-```yaml
-name:: Barrage
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

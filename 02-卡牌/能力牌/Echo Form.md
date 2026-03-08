@@ -1,5 +1,14 @@
 # Echo Form
 
+---
+name:: Echo Form
+type:: [[能力牌]]
+character:: [[故障机器人]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 The first card you play each turn is played an extra time.
-
-## 数据字段
-
-```yaml
-name:: Echo Form
-type:: [[能力牌]]
-character:: [[故障机器人]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

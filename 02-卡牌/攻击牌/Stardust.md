@@ -1,5 +1,14 @@
 # Stardust
 
+---
+name:: Stardust
+type:: [[攻击牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 5 damage to a random enemy X times.
-
-## 数据字段
-
-```yaml
-name:: Stardust
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

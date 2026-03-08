@@ -1,5 +1,14 @@
 # Tempest
 
+---
+name:: Tempest
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[稀有]]
+energy_cost:: X
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: X
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[充能|Channel]] X [[闪电球|Lightning]].
-
-## 数据字段
-
-```yaml
-name:: Tempest
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
-energy_cost:: X
-```
 
 ## 相关链接
 

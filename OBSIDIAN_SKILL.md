@@ -37,7 +37,7 @@ Generate rich markdown files with:
 - Enables dynamic queries and relationship mapping
 - Supports linking: `author:: [[Person Name]]`
 
-**Frontmatter YAML**:
+**Frontmatter YAML** (必须放在文件顶部，紧跟标题后):
 ```yaml
 ---
 title: Page Title
@@ -46,6 +46,8 @@ tags: [tag1, tag2]
 created: 2024-01-01
 ---
 ```
+
+**重要**: YAML frontmatter 应该放在文件顶部，在 `# 标题` 之后。这样 Dataview 插件才能正确读取元数据。
 
 ### 3. Dataview Query Integration
 
@@ -105,6 +107,13 @@ def create_entity_file(vault_path, entity_name, entity_data, category):
     file_path = vault_path / category / f"{entity_name}.md"
 
     content = f"""# {entity_name}
+
+---
+name:: {entity_name}
+type:: [[{entity_data['type']}]]
+category:: [[{entity_data['category']}]]
+created:: {entity_data.get('created', '2024-01-01')}
+---
 
 > **Type**: {entity_data['type']} | **Category**: [[{entity_data['category']}]]
 
@@ -247,18 +256,6 @@ Today I worked on [[Project A]] with [[Alice]].
 - Use headers for major sections
 - End with navigation links
 - Include Dataview queries for dynamic content
-
-### Markdown Tables
-- **Always add a blank line before tables** for proper rendering:
-  ```markdown
-  **Table Title**:
-
-  | Column 1 | Column 2 |
-  |----------|----------|
-  | Data 1   | Data 2   |
-  ```
-- Use consistent column alignment
-- Keep table widths reasonable for readability
 
 ## Example: Complete Vault Generation
 

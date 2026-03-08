@@ -1,5 +1,14 @@
 # Barricade
 
+---
+name:: Barricade
+type:: [[能力牌]]
+character:: [[铁甲战士]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[格挡|Block]] is not removed at the start of your turn.
-
-## 数据字段
-
-```yaml
-name:: Barricade
-type:: [[能力牌]]
-character:: [[铁甲战士]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

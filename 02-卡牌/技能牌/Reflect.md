@@ -1,5 +1,14 @@
 # Reflect
 
+---
+name:: Reflect
+type:: [[技能牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 17 [[格挡|Block]]. Blocked attack damage is reflected to your attacker this turn.
-
-## 数据字段
-
-```yaml
-name:: Reflect
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

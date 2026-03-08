@@ -1,5 +1,14 @@
 # Lightning Rod
 
+---
+name:: Lightning Rod
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 4 [[格挡|Block]]. At the start of the next 2 turns, [[充能|Channel]] 1 [[闪电球|Lightning]].
-
-## 数据字段
-
-```yaml
-name:: Lightning Rod
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

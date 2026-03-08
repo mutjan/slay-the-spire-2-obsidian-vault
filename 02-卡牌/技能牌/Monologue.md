@@ -1,5 +1,14 @@
 # Monologue
 
+---
+name:: Monologue
+type:: [[技能牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever you play a card this turn, gain 1 [[力量|Strength]] this turn.
-
-## 数据字段
-
-```yaml
-name:: Monologue
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

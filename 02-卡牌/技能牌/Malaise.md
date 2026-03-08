@@ -1,5 +1,14 @@
 # Malaise
 
+---
+name:: Malaise
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[罕见]]
+energy_cost:: X
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: X
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Enemy loses X [[力量|Strength]]. Apply X [[虚弱|Weak]]. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Malaise
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
-energy_cost:: X
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Glacier
 
+---
+name:: Glacier
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 6 [[格挡|Block]]. [[充能|Channel]] 2 [[冰霜球|Frost]].
-
-## 数据字段
-
-```yaml
-name:: Glacier
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

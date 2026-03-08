@@ -1,5 +1,14 @@
 # Kingly Kick
 
+---
+name:: Kingly Kick
+type:: [[攻击牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 4
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 4
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 24 damage. Whenever you draw this card, reduce its cost by 1.
-
-## 数据字段
-
-```yaml
-name:: Kingly Kick
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 4
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Know Thy Place
 
+---
+name:: Know Thy Place
+type:: [[技能牌]]
+character:: [[储君]]
+rarity:: [[普通]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[普通]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Apply 1 [[虚弱|Weak]]. Apply 1 [[易伤|Vulnerable]].
-
-## 数据字段
-
-```yaml
-name:: Know Thy Place
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[普通]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

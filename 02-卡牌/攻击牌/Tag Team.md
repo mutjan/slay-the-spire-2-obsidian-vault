@@ -1,5 +1,14 @@
 # Tag Team
 
+---
+name:: Tag Team
+type:: [[攻击牌]]
+character:: [[无色]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 11 damage. The next Attack another player plays on the enemy is played an extra time.
-
-## 数据字段
-
-```yaml
-name:: Tag Team
-type:: [[攻击牌]]
-character:: [[无色]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

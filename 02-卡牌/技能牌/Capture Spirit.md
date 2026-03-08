@@ -1,5 +1,14 @@
 # Capture Spirit
 
+---
+name:: Capture Spirit
+type:: [[技能牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Enemy loses 3 HP. Add 3 [[Soul|Souls]] into your Draw Pile.
-
-## 数据字段
-
-```yaml
-name:: Capture Spirit
-type:: [[技能牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

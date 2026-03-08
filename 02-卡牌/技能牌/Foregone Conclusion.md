@@ -1,5 +1,14 @@
 # Foregone Conclusion
 
+---
+name:: Foregone Conclusion
+type:: [[技能牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Next turn, put 2 cards from your Draw Pile into your Hand.
-
-## 数据字段
-
-```yaml
-name:: Foregone Conclusion
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

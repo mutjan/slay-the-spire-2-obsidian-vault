@@ -1,5 +1,14 @@
 # Expose
 
+---
+name:: Expose
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Remove all [[神器|Artifact]] and [[格挡|Block]] from the enemy. Apply 2 [[易伤|Vulnerable]]. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Expose
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

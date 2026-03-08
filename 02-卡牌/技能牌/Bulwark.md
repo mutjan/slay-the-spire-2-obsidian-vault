@@ -1,5 +1,14 @@
 # Bulwark
 
+---
+name:: Bulwark
+type:: [[技能牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 13 [[格挡|Block]]. [[锻造|Forge]] 10.
-
-## 数据字段
-
-```yaml
-name:: Bulwark
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

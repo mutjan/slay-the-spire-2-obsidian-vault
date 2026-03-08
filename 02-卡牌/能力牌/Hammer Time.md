@@ -1,5 +1,14 @@
 # Hammer Time
 
+---
+name:: Hammer Time
+type:: [[能力牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever you [[锻造|Forge]], all allies [[锻造|Forge]] as well.
-
-## 数据字段
-
-```yaml
-name:: Hammer Time
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Rampage
 
+---
+name:: Rampage
+type:: [[攻击牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 9 damage. Increase this card's damage by 5 this combat.
-
-## 数据字段
-
-```yaml
-name:: Rampage
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

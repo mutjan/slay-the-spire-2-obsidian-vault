@@ -1,5 +1,14 @@
 # Speedster
 
+---
+name:: Speedster
+type:: [[能力牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever you draw a card during your turn, deal 2 damage to ALL enemies.
-
-## 数据字段
-
-```yaml
-name:: Speedster
-type:: [[能力牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

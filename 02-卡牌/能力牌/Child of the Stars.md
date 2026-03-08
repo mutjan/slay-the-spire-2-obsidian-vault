@@ -1,5 +1,14 @@
 # Child of the Stars
 
+---
+name:: Child of the Stars
+type:: [[能力牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever you spend , gain 2 [[格挡|Block]] for each  spent.
-
-## 数据字段
-
-```yaml
-name:: Child of the Stars
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Sword Sage
 
+---
+name:: Sword Sage
+type:: [[能力牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Increase the cost of [[Sovereign Blade]] by 1. [[Sovereign Blade]] now hits an additional time.
-
-## 数据字段
-
-```yaml
-name:: Sword Sage
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

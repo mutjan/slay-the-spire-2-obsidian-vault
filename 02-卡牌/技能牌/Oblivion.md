@@ -1,5 +1,14 @@
 # Oblivion
 
+---
+name:: Oblivion
+type:: [[技能牌]]
+character:: [[死灵契约师]]
+rarity:: [[罕见]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever you play a card this turn, apply 3 [[厄运|Doom]] to the enemy.
-
-## 数据字段
-
-```yaml
-name:: Oblivion
-type:: [[技能牌]]
-character:: [[死灵契约师]]
-rarity:: [[罕见]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

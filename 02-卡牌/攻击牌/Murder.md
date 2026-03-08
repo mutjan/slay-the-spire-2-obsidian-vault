@@ -1,5 +1,14 @@
 # Murder
 
+---
+name:: Murder
+type:: [[攻击牌]]
+character:: [[静默猎手]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 1 damage. Deals 1 additional damage for each card drawn this combat.
-
-## 数据字段
-
-```yaml
-name:: Murder
-type:: [[攻击牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

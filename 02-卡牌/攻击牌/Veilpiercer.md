@@ -1,5 +1,14 @@
 # Veilpiercer
 
+---
+name:: Veilpiercer
+type:: [[攻击牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 10 damage. The next [[虚无|Ethereal]] card you play costs 0 .
-
-## 数据字段
-
-```yaml
-name:: Veilpiercer
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

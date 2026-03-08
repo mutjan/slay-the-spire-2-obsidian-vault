@@ -1,5 +1,14 @@
 # Hang
 
+---
+name:: Hang
+type:: [[攻击牌]]
+character:: [[死灵契约师]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 10 damage. Double the damage ALL Hang cards deal to this enemy.
-
-## 数据字段
-
-```yaml
-name:: Hang
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

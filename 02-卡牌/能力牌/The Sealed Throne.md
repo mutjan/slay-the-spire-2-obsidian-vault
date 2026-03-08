@@ -1,5 +1,14 @@
 # The Sealed Throne
 
+---
+name:: The Sealed Throne
+type:: [[能力牌]]
+character:: [[储君]]
+rarity:: [[]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever you play a card, gain .
-
-## 数据字段
-
-```yaml
-name:: The Sealed Throne
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

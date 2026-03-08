@@ -1,5 +1,14 @@
 # Flame Barrier
 
+---
+name:: Flame Barrier
+type:: [[技能牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 12 [[格挡|Block]]. Whenever you are attacked this turn, deal 4 damage back.
-
-## 数据字段
-
-```yaml
-name:: Flame Barrier
-type:: [[技能牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

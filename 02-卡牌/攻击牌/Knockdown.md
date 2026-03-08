@@ -1,5 +1,14 @@
 # Knockdown
 
+---
+name:: Knockdown
+type:: [[攻击牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 10 damage. The enemy takes double damage from other players this turn.
-
-## 数据字段
-
-```yaml
-name:: Knockdown
-type:: [[攻击牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

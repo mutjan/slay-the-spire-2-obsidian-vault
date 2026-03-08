@@ -1,5 +1,14 @@
 # Skewer
 
+---
+name:: Skewer
+type:: [[攻击牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: X
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: X
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 7 damage X times.
-
-## 数据字段
-
-```yaml
-name:: Skewer
-type:: [[攻击牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: X
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Backstab
 
+---
+name:: Backstab
+type:: [[攻击牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[固有|Innate]]. Deal 11 damage. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Backstab
-type:: [[攻击牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

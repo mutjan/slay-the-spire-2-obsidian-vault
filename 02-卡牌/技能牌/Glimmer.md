@@ -1,5 +1,14 @@
 # Glimmer
 
+---
+name:: Glimmer
+type:: [[技能牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Draw 3 cards. Put 1 card from your Hand on top of your Draw Pile.
-
-## 数据字段
-
-```yaml
-name:: Glimmer
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

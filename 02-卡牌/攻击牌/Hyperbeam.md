@@ -1,5 +1,14 @@
 # Hyperbeam
 
+---
+name:: Hyperbeam
+type:: [[攻击牌]]
+character:: [[故障机器人]]
+rarity:: [[罕见]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 26 damage to ALL enemies. Lose 3 [[集中|Focus]].
-
-## 数据字段
-
-```yaml
-name:: Hyperbeam
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[罕见]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

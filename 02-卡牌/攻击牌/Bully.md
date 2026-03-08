@@ -1,5 +1,14 @@
 # Bully
 
+---
+name:: Bully
+type:: [[攻击牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 4 damage. Deals 2 additional damage for each [[易伤|Vulnerable]] on the enemy.
-
-## 数据字段
-
-```yaml
-name:: Bully
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Second Wind
 
+---
+name:: Second Wind
+type:: [[技能牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[消耗|Exhaust]] all non-Attack cards in your Hand. Gain 5 [[格挡|Block]] for each card Exhausted.
-
-## 数据字段
-
-```yaml
-name:: Second Wind
-type:: [[技能牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

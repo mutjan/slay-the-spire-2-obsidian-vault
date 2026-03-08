@@ -1,5 +1,14 @@
 # Supercritical
 
+---
+name:: Supercritical
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[罕见]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 4. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Supercritical
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[罕见]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

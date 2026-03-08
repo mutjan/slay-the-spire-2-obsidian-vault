@@ -1,5 +1,14 @@
 # Dying Star
 
+---
+name:: Dying Star
+type:: [[攻击牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[虚无|Ethereal]]. Deal 9 damage to ALL enemies. ALL enemies lose 9 [[力量|Strength]] this turn.
-
-## 数据字段
-
-```yaml
-name:: Dying Star
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

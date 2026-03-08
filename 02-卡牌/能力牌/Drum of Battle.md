@@ -1,5 +1,14 @@
 # Drum of Battle
 
+---
+name:: Drum of Battle
+type:: [[能力牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Draw 2 cards. At the start of your turn, [[消耗|Exhaust]] the top card of your Draw Pile.
-
-## 数据字段
-
-```yaml
-name:: Drum of Battle
-type:: [[能力牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

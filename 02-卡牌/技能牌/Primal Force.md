@@ -1,5 +1,14 @@
 # Primal Force
 
+---
+name:: Primal Force
+type:: [[技能牌]]
+character:: [[铁甲战士]]
+rarity:: [[罕见]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[转化|Transform]] all Attacks in your Hand into [[Giant Rock]].
-
-## 数据字段
-
-```yaml
-name:: Primal Force
-type:: [[技能牌]]
-character:: [[铁甲战士]]
-rarity:: [[罕见]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

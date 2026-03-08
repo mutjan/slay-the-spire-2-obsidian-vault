@@ -1,5 +1,14 @@
 # Kingly Punch
 
+---
+name:: Kingly Punch
+type:: [[攻击牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 8 damage. Whenever you draw this card, increase its damage by 3 this combat.
-
-## 数据字段
-
-```yaml
-name:: Kingly Punch
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

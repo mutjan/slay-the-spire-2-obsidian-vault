@@ -1,5 +1,14 @@
 # Lethality
 
+---
+name:: Lethality
+type:: [[能力牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[虚无|Ethereal]]. The first Attack each turn deals 50% additional damage.
-
-## 数据字段
-
-```yaml
-name:: Lethality
-type:: [[能力牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

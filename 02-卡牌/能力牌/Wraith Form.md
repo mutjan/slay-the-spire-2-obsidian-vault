@@ -1,5 +1,14 @@
 # Wraith Form
 
+---
+name:: Wraith Form
+type:: [[能力牌]]
+character:: [[静默猎手]]
+rarity:: [[]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 2 [[无形|Intangible]]. At the start of your turn, lose 1 [[敏捷|Dexterity]].
-
-## 数据字段
-
-```yaml
-name:: Wraith Form
-type:: [[能力牌]]
-character:: [[静默猎手]]
-rarity:: [[]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

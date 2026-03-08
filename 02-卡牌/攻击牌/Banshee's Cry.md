@@ -1,5 +1,14 @@
 # Banshee's Cry
 
+---
+name:: Banshee's Cry
+type:: [[攻击牌]]
+character:: [[死灵契约师]]
+rarity:: [[罕见]]
+energy_cost:: 6
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 6
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 33 damage to ALL enemies. Costs  less for each [[虚无|Ethereal]] card played this combat.
-
-## 数据字段
-
-```yaml
-name:: Banshee's Cry
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[罕见]]
-energy_cost:: 6
-```
 
 ## 相关链接
 

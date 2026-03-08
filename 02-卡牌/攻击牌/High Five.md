@@ -1,5 +1,14 @@
 # High Five
 
+---
+name:: High Five
+type:: [[攻击牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[奥斯蒂|Osty]] deals 11 damage and applies 2 [[易伤|Vulnerable]] to ALL enemies.
-
-## 数据字段
-
-```yaml
-name:: High Five
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

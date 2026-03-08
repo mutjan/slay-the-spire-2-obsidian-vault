@@ -1,5 +1,14 @@
 # The Gambit
 
+---
+name:: The Gambit
+type:: [[技能牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 50 [[格挡|Block]]. If you take unblocked attack damage this combat, die.
-
-## 数据字段
-
-```yaml
-name:: The Gambit
-type:: [[技能牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

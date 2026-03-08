@@ -1,5 +1,14 @@
 # Modded
 
+---
+name:: Modded
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[罕见]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 1 [[充能球|Orb Slot]]. Draw 1 card. Increase this card's cost by 1.
-
-## 数据字段
-
-```yaml
-name:: Modded
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[罕见]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

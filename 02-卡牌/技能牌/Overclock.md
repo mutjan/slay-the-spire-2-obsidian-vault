@@ -1,5 +1,14 @@
 # Overclock
 
+---
+name:: Overclock
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[稀有]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Draw 2 cards. Add a [[Burn]] into your Discard Pile.
-
-## 数据字段
-
-```yaml
-name:: Overclock
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

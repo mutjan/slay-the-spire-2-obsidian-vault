@@ -1,5 +1,14 @@
 # Seeker Strike
 
+---
+name:: Seeker Strike
+type:: [[攻击牌]]
+character:: [[无色]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 6 damage. Choose 1 of 3 cards in your Draw Pile to add into your Hand.
-
-## 数据字段
-
-```yaml
-name:: Seeker Strike
-type:: [[攻击牌]]
-character:: [[无色]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

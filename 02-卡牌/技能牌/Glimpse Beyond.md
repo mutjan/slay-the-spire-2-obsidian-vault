@@ -1,5 +1,14 @@
 # Glimpse Beyond
 
+---
+name:: Glimpse Beyond
+type:: [[技能牌]]
+character:: [[死灵契约师]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 ALL players add 3 [[Soul|Souls]] into their Draw Pile. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Glimpse Beyond
-type:: [[技能牌]]
-character:: [[死灵契约师]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Alchemize
 
+---
+name:: Alchemize
+type:: [[技能牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Procure a random potion. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Alchemize
-type:: [[技能牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

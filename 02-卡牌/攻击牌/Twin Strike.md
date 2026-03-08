@@ -1,5 +1,14 @@
 # Twin Strike
 
+---
+name:: Twin Strike
+type:: [[攻击牌]]
+character:: [[铁甲战士]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 5 damage twice.
-
-## 数据字段
-
-```yaml
-name:: Twin Strike
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

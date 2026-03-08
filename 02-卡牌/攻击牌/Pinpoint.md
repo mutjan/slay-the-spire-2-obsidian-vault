@@ -1,5 +1,14 @@
 # Pinpoint
 
+---
+name:: Pinpoint
+type:: [[攻击牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 17 damage. Costs 1 less  for each Skill played this turn.
-
-## 数据字段
-
-```yaml
-name:: Pinpoint
-type:: [[攻击牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

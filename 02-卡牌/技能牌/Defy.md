@@ -1,5 +1,14 @@
 # Defy
 
+---
+name:: Defy
+type:: [[技能牌]]
+character:: [[死灵契约师]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[虚无|Ethereal]]. Gain 6 [[格挡|Block]]. Apply 1 [[虚弱|Weak]].
-
-## 数据字段
-
-```yaml
-name:: Defy
-type:: [[技能牌]]
-character:: [[死灵契约师]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

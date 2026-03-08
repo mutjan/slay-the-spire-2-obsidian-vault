@@ -1,5 +1,14 @@
 # Mayhem
 
+---
+name:: Mayhem
+type:: [[能力牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the start of your turn, play the top card of your Draw Pile.
-
-## 数据字段
-
-```yaml
-name:: Mayhem
-type:: [[能力牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

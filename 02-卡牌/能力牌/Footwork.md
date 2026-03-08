@@ -1,5 +1,14 @@
 # Footwork
 
+---
+name:: Footwork
+type:: [[能力牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 2 [[敏捷|Dexterity]].
-
-## 数据字段
-
-```yaml
-name:: Footwork
-type:: [[能力牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

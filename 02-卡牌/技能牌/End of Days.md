@@ -1,5 +1,14 @@
 # End of Days
 
+---
+name:: End of Days
+type:: [[技能牌]]
+character:: [[死灵契约师]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Apply 29 [[厄运|Doom]] to ALL enemies. Kill enemies with at least as much [[厄运|Doom]] as HP.
-
-## 数据字段
-
-```yaml
-name:: End of Days
-type:: [[技能牌]]
-character:: [[死灵契约师]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Brand
 
+---
+name:: Brand
+type:: [[技能牌]]
+character:: [[铁甲战士]]
+rarity:: [[罕见]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Lose 1 HP. [[消耗|Exhaust]] 1 card. Gain 1 [[力量|Strength]].
-
-## 数据字段
-
-```yaml
-name:: Brand
-type:: [[技能牌]]
-character:: [[铁甲战士]]
-rarity:: [[罕见]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Royalties
 
+---
+name:: Royalties
+type:: [[能力牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the end of combat, gain 30 Gold.
-
-## 数据字段
-
-```yaml
-name:: Royalties
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

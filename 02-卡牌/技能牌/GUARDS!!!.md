@@ -1,5 +1,14 @@
 # GUARDS!!!
 
+---
+name:: GUARDS!!!
+type:: [[技能牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[转化|Transform]] any number of cards in your Hand into [[Minion Sacrifice]].  [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: GUARDS!!!
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

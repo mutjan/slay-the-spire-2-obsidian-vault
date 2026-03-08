@@ -1,5 +1,14 @@
 # Tools of the Trade
 
+---
+name:: Tools of the Trade
+type:: [[能力牌]]
+character:: [[静默猎手]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the start of your turn, draw 1 card and discard 1 card.
-
-## 数据字段
-
-```yaml
-name:: Tools of the Trade
-type:: [[能力牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

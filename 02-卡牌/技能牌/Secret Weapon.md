@@ -1,5 +1,14 @@
 # Secret Weapon
 
+---
+name:: Secret Weapon
+type:: [[技能牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Put an Attack from your Draw Pile into your Hand.
-
-## 数据字段
-
-```yaml
-name:: Secret Weapon
-type:: [[技能牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

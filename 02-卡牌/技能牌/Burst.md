@@ -1,5 +1,14 @@
 # Burst
 
+---
+name:: Burst
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 This turn, your next Skill is  played an extra time.
-
-## 数据字段
-
-```yaml
-name:: Burst
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

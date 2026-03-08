@@ -1,5 +1,14 @@
 # Go for the Eyes
 
+---
+name:: Go for the Eyes
+type:: [[攻击牌]]
+character:: [[故障机器人]]
+rarity:: [[普通]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[普通]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 3 damage. If the enemy intends to attack, apply 1 [[虚弱|Weak]].
-
-## 数据字段
-
-```yaml
-name:: Go for the Eyes
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[普通]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

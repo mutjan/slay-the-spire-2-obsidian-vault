@@ -1,5 +1,14 @@
 # Assassinate
 
+---
+name:: Assassinate
+type:: [[攻击牌]]
+character:: [[静默猎手]]
+rarity:: [[罕见]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[固有|Innate]]. Deal 10 damage. Apply 1 [[易伤|Vulnerable]]. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Assassinate
-type:: [[攻击牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

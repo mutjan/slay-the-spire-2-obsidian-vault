@@ -1,5 +1,14 @@
 # Spectrum Shift
 
+---
+name:: Spectrum Shift
+type:: [[能力牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the start of your turn, add 1 random Colorless card into your Hand.
-
-## 数据字段
-
-```yaml
-name:: Spectrum Shift
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

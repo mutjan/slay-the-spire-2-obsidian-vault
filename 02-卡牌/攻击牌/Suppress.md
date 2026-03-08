@@ -1,5 +1,14 @@
 # Suppress
 
+---
+name:: Suppress
+type:: [[攻击牌]]
+character:: [[静默猎手]]
+rarity:: [[]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[固有|Innate]]. Deal 11 damage. Apply 3 [[虚弱|Weak]].
-
-## 数据字段
-
-```yaml
-name:: Suppress
-type:: [[攻击牌]]
-character:: [[静默猎手]]
-rarity:: [[]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Nostalgia
 
+---
+name:: Nostalgia
+type:: [[能力牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 The first Attack or Skill you play each turn is placed on top of your Draw Pile.
-
-## 数据字段
-
-```yaml
-name:: Nostalgia
-type:: [[能力牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

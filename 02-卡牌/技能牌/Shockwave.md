@@ -1,5 +1,14 @@
 # Shockwave
 
+---
+name:: Shockwave
+type:: [[技能牌]]
+character:: [[无色]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Apply 3 [[虚弱|Weak]] and [[易伤|Vulnerable]] to ALL enemies. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Shockwave
-type:: [[技能牌]]
-character:: [[无色]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

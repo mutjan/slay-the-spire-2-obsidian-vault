@@ -1,5 +1,14 @@
 # Inferno
 
+---
+name:: Inferno
+type:: [[能力牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the start of your turn, lose 1 HP. Whenever you lose HP on your turn, deal 6 damage to ALL enemies.
-
-## 数据字段
-
-```yaml
-name:: Inferno
-type:: [[能力牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

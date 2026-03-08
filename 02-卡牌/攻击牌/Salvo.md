@@ -1,5 +1,14 @@
 # Salvo
 
+---
+name:: Salvo
+type:: [[攻击牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 12 damage. [[保留|Retain]] your Hand this turn.
-
-## 数据字段
-
-```yaml
-name:: Salvo
-type:: [[攻击牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

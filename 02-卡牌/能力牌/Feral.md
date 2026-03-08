@@ -1,5 +1,14 @@
 # Feral
 
+---
+name:: Feral
+type:: [[能力牌]]
+character:: [[故障机器人]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 The first time you play a 0 Attack each turn, return it to your Hand.
-
-## 数据字段
-
-```yaml
-name:: Feral
-type:: [[能力牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

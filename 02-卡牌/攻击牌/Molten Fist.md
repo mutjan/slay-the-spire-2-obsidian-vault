@@ -1,5 +1,14 @@
 # Molten Fist
 
+---
+name:: Molten Fist
+type:: [[攻击牌]]
+character:: [[铁甲战士]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 10 damage. Double the enemy's [[易伤|Vulnerable]]. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Molten Fist
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

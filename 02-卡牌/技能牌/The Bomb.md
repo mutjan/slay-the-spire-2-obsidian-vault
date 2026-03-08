@@ -1,5 +1,14 @@
 # The Bomb
 
+---
+name:: The Bomb
+type:: [[技能牌]]
+character:: [[无色]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the end of 3 turns, deal 40 damage to ALL enemies.
-
-## 数据字段
-
-```yaml
-name:: The Bomb
-type:: [[技能牌]]
-character:: [[无色]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

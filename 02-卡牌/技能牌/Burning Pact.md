@@ -1,5 +1,14 @@
 # Burning Pact
 
+---
+name:: Burning Pact
+type:: [[技能牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[消耗|Exhaust]] 1 card. Draw 2 cards.
-
-## 数据字段
-
-```yaml
-name:: Burning Pact
-type:: [[技能牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

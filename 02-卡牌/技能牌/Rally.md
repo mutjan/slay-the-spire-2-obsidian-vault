@@ -1,5 +1,14 @@
 # Rally
 
+---
+name:: Rally
+type:: [[技能牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 ALL players gain 12 [[格挡|Block]].
-
-## 数据字段
-
-```yaml
-name:: Rally
-type:: [[技能牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Claw
 
+---
+name:: Claw
+type:: [[攻击牌]]
+character:: [[故障机器人]]
+rarity:: [[普通]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[普通]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 3 damage. Increase the damage of ALL Claw cards by 2 this combat.
-
-## 数据字段
-
-```yaml
-name:: Claw
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[普通]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

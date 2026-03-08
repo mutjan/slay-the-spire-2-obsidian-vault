@@ -1,5 +1,14 @@
 # Echoing Slash
 
+---
+name:: Echoing Slash
+type:: [[攻击牌]]
+character:: [[静默猎手]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 10 damage to ALL enemies. Repeat this effect for each enemy killed.
-
-## 数据字段
-
-```yaml
-name:: Echoing Slash
-type:: [[攻击牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

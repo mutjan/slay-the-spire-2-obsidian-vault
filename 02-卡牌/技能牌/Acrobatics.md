@@ -1,5 +1,14 @@
 # Acrobatics
 
+---
+name:: Acrobatics
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Draw 3 cards. Discard 1 card.
-
-## 数据字段
-
-```yaml
-name:: Acrobatics
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

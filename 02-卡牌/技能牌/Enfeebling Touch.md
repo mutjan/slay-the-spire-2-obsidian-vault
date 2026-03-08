@@ -1,5 +1,14 @@
 # Enfeebling Touch
 
+---
+name:: Enfeebling Touch
+type:: [[技能牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[虚无|Ethereal]]. Enemy loses 8 [[力量|Strength]] this turn.
-
-## 数据字段
-
-```yaml
-name:: Enfeebling Touch
-type:: [[技能牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

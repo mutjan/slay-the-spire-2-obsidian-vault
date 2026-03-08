@@ -1,5 +1,14 @@
 # Lunar Blast
 
+---
+name:: Lunar Blast
+type:: [[攻击牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 4 damage for each Skill already played this turn.
-
-## 数据字段
-
-```yaml
-name:: Lunar Blast
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

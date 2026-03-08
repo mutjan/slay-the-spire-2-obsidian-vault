@@ -1,5 +1,14 @@
 # Squeeze
 
+---
+name:: Squeeze
+type:: [[攻击牌]]
+character:: [[死灵契约师]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[奥斯蒂|Osty]] deals 25 damage. Deals 5 additional damage for ALL your other [[奥斯蒂|Osty]] Attacks.
-
-## 数据字段
-
-```yaml
-name:: Squeeze
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

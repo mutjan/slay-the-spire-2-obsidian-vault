@@ -1,5 +1,14 @@
 # Strike
 
+---
+name:: Strike
+type:: [[攻击牌]]
+character:: [[储君]]
+rarity:: [[]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 6 damage.
-
-## 数据字段
-
-```yaml
-name:: Strike
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

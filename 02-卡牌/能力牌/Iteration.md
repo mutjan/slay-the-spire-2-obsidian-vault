@@ -1,5 +1,14 @@
 # Iteration
 
+---
+name:: Iteration
+type:: [[能力牌]]
+character:: [[故障机器人]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 The first time you draw a Status card each turn, draw 2 cards.
-
-## 数据字段
-
-```yaml
-name:: Iteration
-type:: [[能力牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

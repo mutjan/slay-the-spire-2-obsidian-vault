@@ -1,5 +1,14 @@
 # Biased Cognition
 
+---
+name:: Biased Cognition
+type:: [[能力牌]]
+character:: [[故障机器人]]
+rarity:: [[]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 4 [[集中|Focus]]. At the start of your turn, lose 1 [[集中|Focus]].
-
-## 数据字段
-
-```yaml
-name:: Biased Cognition
-type:: [[能力牌]]
-character:: [[故障机器人]]
-rarity:: [[]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

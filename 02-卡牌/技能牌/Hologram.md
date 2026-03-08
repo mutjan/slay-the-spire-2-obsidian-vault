@@ -1,5 +1,14 @@
 # Hologram
 
+---
+name:: Hologram
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 3 [[格挡|Block]]. Put a card from your Discard Pile into your Hand.
-
-## 数据字段
-
-```yaml
-name:: Hologram
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

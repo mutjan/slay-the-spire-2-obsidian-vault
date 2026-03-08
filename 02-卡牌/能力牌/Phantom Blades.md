@@ -1,5 +1,14 @@
 # Phantom Blades
 
+---
+name:: Phantom Blades
+type:: [[能力牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[Shiv|Shivs]] gain [[保留|Retain]]. The first [[Shiv]] you play each turn deals 9 additional damage.
-
-## 数据字段
-
-```yaml
-name:: Phantom Blades
-type:: [[能力牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

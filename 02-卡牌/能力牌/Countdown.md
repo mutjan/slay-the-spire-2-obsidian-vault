@@ -1,5 +1,14 @@
 # Countdown
 
+---
+name:: Countdown
+type:: [[能力牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the start of your turn, apply 6 [[厄运|Doom]] to a random enemy.
-
-## 数据字段
-
-```yaml
-name:: Countdown
-type:: [[能力牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # CHARGE!!
 
+---
+name:: CHARGE!!
+type:: [[技能牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Choose 2 cards in your Draw Pile to [[转化|Transform]] into [[Minion Strike|Minion Strikes]].
-
-## 数据字段
-
-```yaml
-name:: CHARGE!!
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

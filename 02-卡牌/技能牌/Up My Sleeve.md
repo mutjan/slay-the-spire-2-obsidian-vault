@@ -1,5 +1,14 @@
 # Up My Sleeve
 
+---
+name:: Up My Sleeve
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Add 3 [[Shiv|Shivs]] into your Hand. Reduce this card's cost by 1.
-
-## 数据字段
-
-```yaml
-name:: Up My Sleeve
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

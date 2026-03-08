@@ -1,5 +1,14 @@
 # Protector
 
+---
+name:: Protector
+type:: [[攻击牌]]
+character:: [[死灵契约师]]
+rarity:: [[]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[奥斯蒂|Osty]] deals 10 damage. Deals additional damage equal to [[奥斯蒂|Osty]]'s Max HP.
-
-## 数据字段
-
-```yaml
-name:: Protector
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

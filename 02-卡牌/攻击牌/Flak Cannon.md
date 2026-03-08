@@ -1,5 +1,14 @@
 # Flak Cannon
 
+---
+name:: Flak Cannon
+type:: [[攻击牌]]
+character:: [[故障机器人]]
+rarity:: [[罕见]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[消耗|Exhaust]] ALL your Status cards. Deal 8 damage to a random enemy for each card Exhausted.
-
-## 数据字段
-
-```yaml
-name:: Flak Cannon
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[罕见]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

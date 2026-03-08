@@ -1,5 +1,14 @@
 # Conflagration
 
+---
+name:: Conflagration
+type:: [[攻击牌]]
+character:: [[铁甲战士]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 8 damage to ALL enemies. Deals 2 additional damage for each other Attack you've played this turn.
-
-## 数据字段
-
-```yaml
-name:: Conflagration
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Beam Cell
 
+---
+name:: Beam Cell
+type:: [[攻击牌]]
+character:: [[故障机器人]]
+rarity:: [[普通]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[普通]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 3 damage. Apply 1 [[易伤|Vulnerable]].
-
-## 数据字段
-
-```yaml
-name:: Beam Cell
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[普通]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

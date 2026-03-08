@@ -1,5 +1,14 @@
 # Null
 
+---
+name:: Null
+type:: [[攻击牌]]
+character:: [[故障机器人]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 10 damage. Apply 2 [[虚弱|Weak]]. [[充能|Channel]] 1 [[黑暗球|Dark]].
-
-## 数据字段
-
-```yaml
-name:: Null
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

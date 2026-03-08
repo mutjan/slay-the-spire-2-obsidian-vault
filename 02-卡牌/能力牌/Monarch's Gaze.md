@@ -1,5 +1,14 @@
 # Monarch's Gaze
 
+---
+name:: Monarch's Gaze
+type:: [[能力牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever you attack an enemy, it loses 1 [[力量|Strength]] this turn.
-
-## 数据字段
-
-```yaml
-name:: Monarch's Gaze
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

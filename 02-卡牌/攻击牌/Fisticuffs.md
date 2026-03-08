@@ -1,5 +1,14 @@
 # Fisticuffs
 
+---
+name:: Fisticuffs
+type:: [[攻击牌]]
+character:: [[无色]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 7 damage. Gain [[格挡|Block]] equal to damage dealt.
-
-## 数据字段
-
-```yaml
-name:: Fisticuffs
-type:: [[攻击牌]]
-character:: [[无色]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # I Am Invincible
 
+---
+name:: I Am Invincible
+type:: [[技能牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 9 [[格挡|Block]]. At the end of your turn, if this is on top of your Draw Pile, play it.
-
-## 数据字段
-
-```yaml
-name:: I Am Invincible
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

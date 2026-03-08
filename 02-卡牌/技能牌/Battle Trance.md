@@ -1,5 +1,14 @@
 # Battle Trance
 
+---
+name:: Battle Trance
+type:: [[技能牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Draw 3 cards. You cannot draw additional cards this turn.
-
-## 数据字段
-
-```yaml
-name:: Battle Trance
-type:: [[技能牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

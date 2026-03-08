@@ -1,5 +1,14 @@
 # Rend
 
+---
+name:: Rend
+type:: [[攻击牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 15 damage. Deals 5 additional damage for each unique debuff on the enemy.
-
-## 数据字段
-
-```yaml
-name:: Rend
-type:: [[攻击牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

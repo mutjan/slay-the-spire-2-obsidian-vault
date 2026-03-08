@@ -1,5 +1,14 @@
 # Decisions, Decisions
 
+---
+name:: Decisions, Decisions
+type:: [[技能牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Draw 3 cards. Choose a Skill in your Hand and play it 3 times. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Decisions, Decisions
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

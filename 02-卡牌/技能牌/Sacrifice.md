@@ -1,5 +1,14 @@
 # Sacrifice
 
+---
+name:: Sacrifice
+type:: [[技能牌]]
+character:: [[死灵契约师]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[保留|Retain]]. If [[奥斯蒂|Osty]] is alive, he dies and you gain [[格挡|Block]] equal to double his Max HP.
-
-## 数据字段
-
-```yaml
-name:: Sacrifice
-type:: [[技能牌]]
-character:: [[死灵契约师]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

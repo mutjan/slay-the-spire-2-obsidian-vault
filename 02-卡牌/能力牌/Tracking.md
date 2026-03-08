@@ -1,5 +1,14 @@
 # Tracking
 
+---
+name:: Tracking
+type:: [[能力牌]]
+character:: [[静默猎手]]
+rarity:: [[罕见]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[虚弱|Weak]] enemies take double damage from Attacks.
-
-## 数据字段
-
-```yaml
-name:: Tracking
-type:: [[能力牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

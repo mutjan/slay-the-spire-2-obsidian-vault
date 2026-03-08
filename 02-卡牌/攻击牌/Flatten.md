@@ -1,5 +1,14 @@
 # Flatten
 
+---
+name:: Flatten
+type:: [[攻击牌]]
+character:: [[死灵契约师]]
+rarity:: [[普通]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[普通]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[奥斯蒂|Osty]] deals 12 damage. This card costs 0  if [[奥斯蒂|Osty]] has attacked this turn.
-
-## 数据字段
-
-```yaml
-name:: Flatten
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[普通]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

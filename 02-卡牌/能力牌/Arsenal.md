@@ -1,5 +1,14 @@
 # Arsenal
 
+---
+name:: Arsenal
+type:: [[能力牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever you play a Colorless card, gain 1 [[力量|Strength]].
-
-## 数据字段
-
-```yaml
-name:: Arsenal
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

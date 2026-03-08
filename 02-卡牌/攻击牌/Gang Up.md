@@ -1,5 +1,14 @@
 # Gang Up
 
+---
+name:: Gang Up
+type:: [[攻击牌]]
+character:: [[无色]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 5 damage. Deals 5 additional damage for each time another player has attacked the enemy this turn.
-
-## 数据字段
-
-```yaml
-name:: Gang Up
-type:: [[攻击牌]]
-character:: [[无色]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

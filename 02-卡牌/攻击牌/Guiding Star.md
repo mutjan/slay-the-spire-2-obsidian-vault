@@ -1,5 +1,14 @@
 # Guiding Star
 
+---
+name:: Guiding Star
+type:: [[攻击牌]]
+character:: [[储君]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 12 damage. Next turn, draw 2 cards.
-
-## 数据字段
-
-```yaml
-name:: Guiding Star
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

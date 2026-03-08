@@ -1,5 +1,14 @@
 # Friendship
 
+---
+name:: Friendship
+type:: [[能力牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Lose 2 [[力量|Strength]]. Gain  at the start of each turn.
-
-## 数据字段
-
-```yaml
-name:: Friendship
-type:: [[能力牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

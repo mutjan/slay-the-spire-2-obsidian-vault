@@ -1,5 +1,14 @@
 # Hand Trick
 
+---
+name:: Hand Trick
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 7 [[格挡|Block]]. Add [[狡猾|Sly]] to a Skill in your Hand this turn.
-
-## 数据字段
-
-```yaml
-name:: Hand Trick
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

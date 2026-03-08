@@ -1,5 +1,14 @@
 # Hidden Daggers
 
+---
+name:: Hidden Daggers
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Discard 2 cards. Add 2 [[Shiv|Shivs]] into your Hand.
-
-## 数据字段
-
-```yaml
-name:: Hidden Daggers
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

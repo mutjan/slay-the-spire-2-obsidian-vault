@@ -1,5 +1,14 @@
 # Coolheaded
 
+---
+name:: Coolheaded
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[充能|Channel]] 1 [[冰霜球|Frost]]. Draw 1 card.
-
-## 数据字段
-
-```yaml
-name:: Coolheaded
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

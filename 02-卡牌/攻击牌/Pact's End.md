@@ -1,5 +1,14 @@
 # Pact's End
 
+---
+name:: Pact's End
+type:: [[攻击牌]]
+character:: [[铁甲战士]]
+rarity:: [[罕见]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Can only be played if you have 3 or more cards in your [[消耗|Exhaust]] Pile. Deal 17 damage to ALL enemies.
-
-## 数据字段
-
-```yaml
-name:: Pact's End
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[罕见]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

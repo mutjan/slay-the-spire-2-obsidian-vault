@@ -1,5 +1,14 @@
 # Noxious Fumes
 
+---
+name:: Noxious Fumes
+type:: [[能力牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the start of your turn, apply 2 [[毒素|Poison]] to ALL enemies.
-
-## 数据字段
-
-```yaml
-name:: Noxious Fumes
-type:: [[能力牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

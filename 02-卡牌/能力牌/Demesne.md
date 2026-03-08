@@ -1,5 +1,14 @@
 # Demesne
 
+---
+name:: Demesne
+type:: [[能力牌]]
+character:: [[死灵契约师]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[虚无|Ethereal]]. At the start of your turn, gain  and draw 1 additional card.
-
-## 数据字段
-
-```yaml
-name:: Demesne
-type:: [[能力牌]]
-character:: [[死灵契约师]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Venerate
 
+---
+name:: Venerate
+type:: [[技能牌]]
+character:: [[储君]]
+rarity:: [[]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain .
-
-## 数据字段
-
-```yaml
-name:: Venerate
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

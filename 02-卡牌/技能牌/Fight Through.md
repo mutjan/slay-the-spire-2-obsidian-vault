@@ -1,5 +1,14 @@
 # Fight Through
 
+---
+name:: Fight Through
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 13 [[格挡|Block]]. Add 2 Wounds into your Discard Pile.
-
-## 数据字段
-
-```yaml
-name:: Fight Through
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

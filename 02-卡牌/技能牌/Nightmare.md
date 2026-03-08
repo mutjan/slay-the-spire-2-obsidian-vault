@@ -1,5 +1,14 @@
 # Nightmare
 
+---
+name:: Nightmare
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Choose a card. Next turn, add 3 copies of that card into your Hand. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Nightmare
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

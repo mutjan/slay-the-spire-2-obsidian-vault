@@ -1,5 +1,14 @@
 # Corruption
 
+---
+name:: Corruption
+type:: [[能力牌]]
+character:: [[铁甲战士]]
+rarity:: [[]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Skills cost 0 . Whenever you play a Skill, [[消耗|Exhaust]] it.
-
-## 数据字段
-
-```yaml
-name:: Corruption
-type:: [[能力牌]]
-character:: [[铁甲战士]]
-rarity:: [[]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

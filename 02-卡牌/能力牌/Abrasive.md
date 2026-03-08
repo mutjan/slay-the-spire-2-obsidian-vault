@@ -1,5 +1,14 @@
 # Abrasive
 
+---
+name:: Abrasive
+type:: [[能力牌]]
+character:: [[静默猎手]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[狡猾|Sly]]. Gain 1 [[敏捷|Dexterity]]. Gain 4 [[荆棘|Thorns]].
-
-## 数据字段
-
-```yaml
-name:: Abrasive
-type:: [[能力牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

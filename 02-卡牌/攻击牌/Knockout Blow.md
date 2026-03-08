@@ -1,5 +1,14 @@
 # Knockout Blow
 
+---
+name:: Knockout Blow
+type:: [[攻击牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 30 damage. If this kills an enemy, gain .
-
-## 数据字段
-
-```yaml
-name:: Knockout Blow
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

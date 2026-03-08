@@ -1,5 +1,14 @@
 # Backflip
 
+---
+name:: Backflip
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 5 [[格挡|Block]]. Draw 2 cards.
-
-## 数据字段
-
-```yaml
-name:: Backflip
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

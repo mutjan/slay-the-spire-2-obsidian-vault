@@ -1,5 +1,14 @@
 # Collision Course
 
+---
+name:: Collision Course
+type:: [[攻击牌]]
+character:: [[储君]]
+rarity:: [[普通]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[普通]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 9 damage. Add a Debris into your Hand.
-
-## 数据字段
-
-```yaml
-name:: Collision Course
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[普通]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

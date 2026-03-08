@@ -1,5 +1,14 @@
 # Beat Down
 
+---
+name:: Beat Down
+type:: [[技能牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Play 3 random Attacks from your Discard Pile.
-
-## 数据字段
-
-```yaml
-name:: Beat Down
-type:: [[技能牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

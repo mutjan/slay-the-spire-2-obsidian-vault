@@ -1,5 +1,14 @@
 # Void Form
 
+---
+name:: Void Form
+type:: [[能力牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 End your turn. The first 2 cards you play each turn are free to play.
-
-## 数据字段
-
-```yaml
-name:: Void Form
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

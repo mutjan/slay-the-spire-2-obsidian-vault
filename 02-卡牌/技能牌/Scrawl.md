@@ -1,5 +1,14 @@
 # Scrawl
 
+---
+name:: Scrawl
+type:: [[技能牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Draw cards until your Hand is full. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Scrawl
-type:: [[技能牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

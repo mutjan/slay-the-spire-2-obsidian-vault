@@ -1,5 +1,14 @@
 # Omnislice
 
+---
+name:: Omnislice
+type:: [[攻击牌]]
+character:: [[无色]]
+rarity:: [[稀有]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 8 damage. Damage ALL other enemies equal to the damage dealt.
-
-## 数据字段
-
-```yaml
-name:: Omnislice
-type:: [[攻击牌]]
-character:: [[无色]]
-rarity:: [[稀有]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

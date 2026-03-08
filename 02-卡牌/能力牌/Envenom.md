@@ -1,5 +1,14 @@
 # Envenom
 
+---
+name:: Envenom
+type:: [[能力牌]]
+character:: [[静默猎手]]
+rarity:: [[罕见]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever an Attack deals unblocked damage, apply 1 [[毒素|Poison]].
-
-## 数据字段
-
-```yaml
-name:: Envenom
-type:: [[能力牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

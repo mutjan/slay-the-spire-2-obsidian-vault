@@ -1,5 +1,14 @@
 # Dismantle
 
+---
+name:: Dismantle
+type:: [[攻击牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 8 damage. If the enemy is [[易伤|Vulnerable]], hits twice.
-
-## 数据字段
-
-```yaml
-name:: Dismantle
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

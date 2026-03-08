@@ -1,5 +1,14 @@
 # Creative AI
 
+---
+name:: Creative AI
+type:: [[能力牌]]
+character:: [[故障机器人]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the start of your turn, add a random Power into your Hand.
-
-## 数据字段
-
-```yaml
-name:: Creative AI
-type:: [[能力牌]]
-character:: [[故障机器人]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

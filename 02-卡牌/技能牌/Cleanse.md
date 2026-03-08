@@ -1,5 +1,14 @@
 # Cleanse
 
+---
+name:: Cleanse
+type:: [[技能牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[召唤|Summon]] 3. [[消耗|Exhaust]] 1 card from your Draw Pile.
-
-## 数据字段
-
-```yaml
-name:: Cleanse
-type:: [[技能牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

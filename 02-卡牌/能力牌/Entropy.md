@@ -1,5 +1,14 @@
 # Entropy
 
+---
+name:: Entropy
+type:: [[能力牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the start of your turn, [[转化|Transform]] 1 card in your Hand.
-
-## 数据字段
-
-```yaml
-name:: Entropy
-type:: [[能力牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

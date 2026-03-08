@@ -1,5 +1,14 @@
 # Bludgeon
 
+---
+name:: Bludgeon
+type:: [[攻击牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 32 damage.
-
-## 数据字段
-
-```yaml
-name:: Bludgeon
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

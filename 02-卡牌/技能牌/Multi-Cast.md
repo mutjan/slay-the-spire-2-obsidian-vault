@@ -1,5 +1,14 @@
 # Multi-Cast
 
+---
+name:: Multi-Cast
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[罕见]]
+energy_cost:: X
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: X
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[激发|Evoke]] your rightmost [[充能球|Orb]] X times.
-
-## 数据字段
-
-```yaml
-name:: Multi-Cast
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[罕见]]
-energy_cost:: X
-```
 
 ## 相关链接
 

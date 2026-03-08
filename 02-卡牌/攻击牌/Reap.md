@@ -1,5 +1,14 @@
 # Reap
 
+---
+name:: Reap
+type:: [[攻击牌]]
+character:: [[死灵契约师]]
+rarity:: [[普通]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[普通]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[保留|Retain]]. Deal 27 damage.
-
-## 数据字段
-
-```yaml
-name:: Reap
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[普通]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

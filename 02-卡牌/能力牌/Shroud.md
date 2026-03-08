@@ -1,5 +1,14 @@
 # Shroud
 
+---
+name:: Shroud
+type:: [[能力牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever you apply [[厄运|Doom]], gain 2 [[格挡|Block]].
-
-## 数据字段
-
-```yaml
-name:: Shroud
-type:: [[能力牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

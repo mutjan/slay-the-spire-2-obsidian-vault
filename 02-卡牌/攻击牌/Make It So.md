@@ -1,5 +1,14 @@
 # Make It So
 
+---
+name:: Make It So
+type:: [[攻击牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 0
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 0
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 6 damage. Every 3 Skills you play in a turn, put this into your Hand.
-
-## 数据字段
-
-```yaml
-name:: Make It So
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 0
-```
 
 ## 相关链接
 

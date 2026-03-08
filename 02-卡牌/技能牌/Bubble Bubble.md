@@ -1,5 +1,14 @@
 # Bubble Bubble
 
+---
+name:: Bubble Bubble
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 If the enemy has [[毒素|Poison]], apply 9 [[毒素|Poison]].
-
-## 数据字段
-
-```yaml
-name:: Bubble Bubble
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

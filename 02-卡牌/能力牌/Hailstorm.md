@@ -1,5 +1,14 @@
 # Hailstorm
 
+---
+name:: Hailstorm
+type:: [[能力牌]]
+character:: [[故障机器人]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the end of your turn, if you have [[冰霜球|Frost]], deal 6 damage to ALL enemies.
-
-## 数据字段
-
-```yaml
-name:: Hailstorm
-type:: [[能力牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

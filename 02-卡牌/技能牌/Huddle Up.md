@@ -1,5 +1,14 @@
 # Huddle Up
 
+---
+name:: Huddle Up
+type:: [[技能牌]]
+character:: [[无色]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 ALL allies draw 2 cards.
-
-## 数据字段
-
-```yaml
-name:: Huddle Up
-type:: [[技能牌]]
-character:: [[无色]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

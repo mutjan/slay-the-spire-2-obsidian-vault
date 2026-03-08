@@ -1,5 +1,14 @@
 # Debilitate
 
+---
+name:: Debilitate
+type:: [[攻击牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 7 damage. [[易伤|Vulnerable]] and [[虚弱|Weak]] are twice as effective against the enemy for the next 3 turns.
-
-## 数据字段
-
-```yaml
-name:: Debilitate
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

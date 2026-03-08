@@ -1,5 +1,14 @@
 # Rip and Tear
 
+---
+name:: Rip and Tear
+type:: [[攻击牌]]
+character:: [[故障机器人]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 7 damage to a random enemy twice.
-
-## 数据字段
-
-```yaml
-name:: Rip and Tear
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

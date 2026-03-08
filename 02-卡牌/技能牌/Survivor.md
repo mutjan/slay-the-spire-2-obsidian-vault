@@ -1,5 +1,14 @@
 # Survivor
 
+---
+name:: Survivor
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 8 [[格挡|Block]]. Discard 1 card.
-
-## 数据字段
-
-```yaml
-name:: Survivor
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

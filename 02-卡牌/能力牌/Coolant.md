@@ -1,5 +1,14 @@
 # Coolant
 
+---
+name:: Coolant
+type:: [[能力牌]]
+character:: [[故障机器人]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the start of your turn, gain 2 [[格挡|Block]] for each unique [[充能球|Orb]] you have.
-
-## 数据字段
-
-```yaml
-name:: Coolant
-type:: [[能力牌]]
-character:: [[故障机器人]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

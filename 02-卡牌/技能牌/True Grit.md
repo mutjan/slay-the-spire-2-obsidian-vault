@@ -1,5 +1,14 @@
 # True Grit
 
+---
+name:: True Grit
+type:: [[技能牌]]
+character:: [[铁甲战士]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 7 [[格挡|Block]]. [[消耗|Exhaust]] 1 card .
-
-## 数据字段
-
-```yaml
-name:: True Grit
-type:: [[技能牌]]
-character:: [[铁甲战士]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

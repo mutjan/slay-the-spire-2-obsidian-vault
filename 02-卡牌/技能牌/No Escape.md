@@ -1,5 +1,14 @@
 # No Escape
 
+---
+name:: No Escape
+type:: [[技能牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Apply 10 [[厄运|Doom]], plus an additional 5 [[厄运|Doom]] for every 10 [[厄运|Doom]] already on this enemy.
-
-## 数据字段
-
-```yaml
-name:: No Escape
-type:: [[技能牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

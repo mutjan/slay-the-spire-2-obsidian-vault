@@ -1,5 +1,14 @@
 # Beacon of Hope
 
+---
+name:: Beacon of Hope
+type:: [[能力牌]]
+character:: [[无色]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever you gain [[格挡|Block]] on your turn, other players gain half that much [[格挡|Block]].
-
-## 数据字段
-
-```yaml
-name:: Beacon of Hope
-type:: [[能力牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

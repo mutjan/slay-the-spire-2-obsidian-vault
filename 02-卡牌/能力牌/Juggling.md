@@ -1,5 +1,14 @@
 # Juggling
 
+---
+name:: Juggling
+type:: [[能力牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Add a copy of the third Attack you play each turn into your Hand.
-
-## 数据字段
-
-```yaml
-name:: Juggling
-type:: [[能力牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

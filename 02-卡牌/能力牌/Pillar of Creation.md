@@ -1,5 +1,14 @@
 # Pillar of Creation
 
+---
+name:: Pillar of Creation
+type:: [[能力牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Whenever you create a card, gain 3 [[格挡|Block]].
-
-## 数据字段
-
-```yaml
-name:: Pillar of Creation
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

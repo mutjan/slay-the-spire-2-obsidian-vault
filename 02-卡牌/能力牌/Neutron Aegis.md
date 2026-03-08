@@ -1,5 +1,14 @@
 # Neutron Aegis
 
+---
+name:: Neutron Aegis
+type:: [[能力牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[罕见]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 8 [[护甲|Plating]].
-
-## 数据字段
-
-```yaml
-name:: Neutron Aegis
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

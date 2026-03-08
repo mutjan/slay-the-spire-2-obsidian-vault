@@ -1,5 +1,14 @@
 # Dirge
 
+---
+name:: Dirge
+type:: [[技能牌]]
+character:: [[死灵契约师]]
+rarity:: [[稀有]]
+energy_cost:: X
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: X
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[召唤|Summon]] 3 X times. Add X [[Soul|Souls]] into your Draw Pile.
-
-## 数据字段
-
-```yaml
-name:: Dirge
-type:: [[技能牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
-energy_cost:: X
-```
 
 ## 相关链接
 

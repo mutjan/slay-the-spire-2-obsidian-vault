@@ -1,5 +1,14 @@
 # Stampede
 
+---
+name:: Stampede
+type:: [[能力牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the end of your turn, 1 random Attack in your Hand is played against a random enemy.
-
-## 数据字段
-
-```yaml
-name:: Stampede
-type:: [[能力牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

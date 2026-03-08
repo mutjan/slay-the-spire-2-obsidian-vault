@@ -1,5 +1,14 @@
 # Bombardment
 
+---
+name:: Bombardment
+type:: [[攻击牌]]
+character:: [[储君]]
+rarity:: [[罕见]]
+energy_cost:: 3
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 3
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 18 damage. At the start of your turn, plays from the [[消耗|Exhaust]] Pile. [[消耗|Exhaust]].
-
-## 数据字段
-
-```yaml
-name:: Bombardment
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
-energy_cost:: 3
-```
 
 ## 相关链接
 

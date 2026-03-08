@@ -1,5 +1,14 @@
 # Expect a Fight
 
+---
+name:: Expect a Fight
+type:: [[技能牌]]
+character:: [[铁甲战士]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain  for each Attack in your Hand.
-
-## 数据字段
-
-```yaml
-name:: Expect a Fight
-type:: [[技能牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

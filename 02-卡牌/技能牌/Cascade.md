@@ -1,5 +1,14 @@
 # Cascade
 
+---
+name:: Cascade
+type:: [[技能牌]]
+character:: [[铁甲战士]]
+rarity:: [[罕见]]
+energy_cost:: X
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: X
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Play the top X cards of your Draw Pile.
-
-## 数据字段
-
-```yaml
-name:: Cascade
-type:: [[技能牌]]
-character:: [[铁甲战士]]
-rarity:: [[罕见]]
-energy_cost:: X
-```
 
 ## 相关链接
 

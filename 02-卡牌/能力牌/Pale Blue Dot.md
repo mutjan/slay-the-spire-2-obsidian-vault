@@ -1,5 +1,14 @@
 # Pale Blue Dot
 
+---
+name:: Pale Blue Dot
+type:: [[能力牌]]
+character:: [[储君]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 If you play 5 or more cards in a turn, draw 1 card at the start of your next turn.
-
-## 数据字段
-
-```yaml
-name:: Pale Blue Dot
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

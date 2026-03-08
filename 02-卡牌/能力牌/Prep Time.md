@@ -1,5 +1,14 @@
 # Prep Time
 
+---
+name:: Prep Time
+type:: [[能力牌]]
+character:: [[无色]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the start of your turn, gain 4 [[活力|Vigor]].
-
-## 数据字段
-
-```yaml
-name:: Prep Time
-type:: [[能力牌]]
-character:: [[无色]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

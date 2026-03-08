@@ -1,5 +1,14 @@
 # Meteor Strike
 
+---
+name:: Meteor Strike
+type:: [[攻击牌]]
+character:: [[故障机器人]]
+rarity:: [[罕见]]
+energy_cost:: 5
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[罕见]] | **费用**: 5
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 24 damage. [[充能|Channel]] 3 [[等离子球|Plasma]].
-
-## 数据字段
-
-```yaml
-name:: Meteor Strike
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[罕见]]
-energy_cost:: 5
-```
 
 ## 相关链接
 

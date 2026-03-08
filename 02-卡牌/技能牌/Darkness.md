@@ -1,5 +1,14 @@
 # Darkness
 
+---
+name:: Darkness
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[充能|Channel]] 1 [[黑暗球|Dark]]. Trigger the passive ability of all [[黑暗球|Dark]] Orbs.
-
-## 数据字段
-
-```yaml
-name:: Darkness
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Untouchable
 
+---
+name:: Untouchable
+type:: [[技能牌]]
+character:: [[静默猎手]]
+rarity:: [[普通]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[普通]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[狡猾|Sly]]. Gain 9 [[格挡|Block]].
-
-## 数据字段
-
-```yaml
-name:: Untouchable
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[普通]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

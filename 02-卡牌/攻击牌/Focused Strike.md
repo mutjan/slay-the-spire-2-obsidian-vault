@@ -1,5 +1,14 @@
 # Focused Strike
 
+---
+name:: Focused Strike
+type:: [[攻击牌]]
+character:: [[故障机器人]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 9 damage. Gain 1 [[集中|Focus]] this turn.
-
-## 数据字段
-
-```yaml
-name:: Focused Strike
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

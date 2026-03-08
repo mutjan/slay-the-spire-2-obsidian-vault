@@ -1,5 +1,14 @@
 # Rainbow
 
+---
+name:: Rainbow
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[罕见]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[罕见]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 [[充能|Channel]] 1 [[闪电球|Lightning]]. [[充能|Channel]] 1 [[冰霜球|Frost]]. [[充能|Channel]] 1 [[黑暗球|Dark]].
-
-## 数据字段
-
-```yaml
-name:: Rainbow
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[罕见]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

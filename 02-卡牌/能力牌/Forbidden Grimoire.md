@@ -1,5 +1,14 @@
 # Forbidden Grimoire
 
+---
+name:: Forbidden Grimoire
+type:: [[能力牌]]
+character:: [[死灵契约师]]
+rarity:: [[]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the end of combat, you may remove a card from your Deck. Eternal.
-
-## 数据字段
-
-```yaml
-name:: Forbidden Grimoire
-type:: [[能力牌]]
-character:: [[死灵契约师]]
-rarity:: [[]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

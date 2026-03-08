@@ -1,5 +1,14 @@
 # Charge Battery
 
+---
+name:: Charge Battery
+type:: [[技能牌]]
+character:: [[故障机器人]]
+rarity:: [[普通]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[技能牌]] | **稀有度**: [[普通]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Gain 7 [[格挡|Block]]. Next turn, gain .
-
-## 数据字段
-
-```yaml
-name:: Charge Battery
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[普通]]
-energy_cost:: 1
-```
 
 ## 相关链接
 

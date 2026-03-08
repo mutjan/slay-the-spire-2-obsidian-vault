@@ -1,5 +1,14 @@
 # Synthesis
 
+---
+name:: Synthesis
+type:: [[攻击牌]]
+character:: [[故障机器人]]
+rarity:: [[稀有]]
+energy_cost:: 2
+---
+
+
 > **类型**: [[攻击牌]] | **稀有度**: [[稀有]] | **费用**: 2
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 Deal 12 damage. The next Power you play costs 0 .
-
-## 数据字段
-
-```yaml
-name:: Synthesis
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
-energy_cost:: 2
-```
 
 ## 相关链接
 

@@ -1,5 +1,14 @@
 # Well-Laid Plans
 
+---
+name:: Well-Laid Plans
+type:: [[能力牌]]
+character:: [[静默猎手]]
+rarity:: [[稀有]]
+energy_cost:: 1
+---
+
+
 > **类型**: [[能力牌]] | **稀有度**: [[稀有]] | **费用**: 1
 
 ## 基本信息
@@ -12,16 +21,6 @@
 ## 效果描述
 
 At the end of your turn, [[保留|Retain]] up to 1 card.
-
-## 数据字段
-
-```yaml
-name:: Well-Laid Plans
-type:: [[能力牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
-energy_cost:: 1
-```
 
 ## 相关链接
 
