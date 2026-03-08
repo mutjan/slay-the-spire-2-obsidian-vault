@@ -383,11 +383,19 @@ cmd = generate_copy_command("SlayTheSpire2", "05-导航/主页.md")
 # Result: open "obsidian://open?vault=SlayTheSpire2&file=05-%E5%AF%BC%E8%88%AA/%E4%B8%BB%E9%A1%B5"
 ```
 
-**Usage in responses**: 提供可复制的命令
+**Usage in responses**: 显示纯文本 URI（不加链接格式），方便用户复制
 
-| 文件 | Obsidian URI | 复制命令 |
-|------|--------------|----------|
-| 主页 | `obsidian://open?vault=SlayTheSpire2&file=05-%E5%AF%BC%E8%88%AA/%E4%B8%BB%E9%A1%B5` | `open "obsidian://open?vault=SlayTheSpire2&file=05-%E5%AF%BC%E8%88%AA/%E4%B8%BB%E9%A1%B5"` |
+```
+文件: 05-导航/主页.md
+URI: obsidian://open?vault=SlayTheSpire2&file=05-%E5%AF%BC%E8%88%AA/%E4%B8%BB%E9%A1%B5
+```
+
+或简化为：
+```
+obsidian://open?vault=SlayTheSpire2&file=05-%E5%AF%BC%E8%88%AA/%E4%B8%BB%E9%A1%B5
+```
+
+**注意**：不要添加 markdown 链接格式 `[text](uri)`，直接显示 URI 文本即可。
 
 ## Resources
 
