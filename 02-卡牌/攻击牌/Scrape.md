@@ -1,8 +1,8 @@
 ---
 name:: Scrape
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
+type:: "[[攻击牌]]"
+character:: "[[故障机器人]]"
+rarity:: "[[稀有]]"
 energy_cost:: 1
 ---
 

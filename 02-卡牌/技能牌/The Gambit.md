@@ -1,8 +1,8 @@
 ---
 name:: The Gambit
-type:: [[技能牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
+type:: "[[技能牌]]"
+character:: "[[无色]]"
+rarity:: "[[罕见]]"
 energy_cost:: 0
 ---
 

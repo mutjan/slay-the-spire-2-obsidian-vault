@@ -1,8 +1,8 @@
 ---
 name:: The Sealed Throne
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[]]
+type:: "[[能力牌]]"
+character:: "[[储君]]"
+rarity:: "[[]]"
 energy_cost:: 1
 ---
 

@@ -1,8 +1,8 @@
 ---
 name:: Neutralize
-type:: [[攻击牌]]
-character:: [[静默猎手]]
-rarity:: [[]]
+type:: "[[攻击牌]]"
+character:: "[[静默猎手]]"
+rarity:: "[[]]"
 energy_cost:: 0
 ---
 

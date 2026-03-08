@@ -1,8 +1,8 @@
 ---
 name:: Fisticuffs
-type:: [[攻击牌]]
-character:: [[无色]]
-rarity:: [[稀有]]
+type:: "[[攻击牌]]"
+character:: "[[无色]]"
+rarity:: "[[稀有]]"
 energy_cost:: 1
 ---
 

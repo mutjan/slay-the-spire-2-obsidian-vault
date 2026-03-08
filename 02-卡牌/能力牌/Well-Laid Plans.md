@@ -1,8 +1,8 @@
 ---
 name:: Well-Laid Plans
-type:: [[能力牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
+type:: "[[能力牌]]"
+character:: "[[静默猎手]]"
+rarity:: "[[稀有]]"
 energy_cost:: 1
 ---
 

@@ -1,8 +1,8 @@
 ---
 name:: Forbidden Grimoire
-type:: [[能力牌]]
-character:: [[死灵契约师]]
-rarity:: [[]]
+type:: "[[能力牌]]"
+character:: "[[死灵契约师]]"
+rarity:: "[[]]"
 energy_cost:: 2
 ---
 

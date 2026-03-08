@@ -1,8 +1,8 @@
 ---
 name:: Make It So
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
+type:: "[[攻击牌]]"
+character:: "[[储君]]"
+rarity:: "[[罕见]]"
 energy_cost:: 0
 ---
 

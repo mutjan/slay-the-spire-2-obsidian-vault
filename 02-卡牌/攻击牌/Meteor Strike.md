@@ -1,8 +1,8 @@
 ---
 name:: Meteor Strike
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[罕见]]
+type:: "[[攻击牌]]"
+character:: "[[故障机器人]]"
+rarity:: "[[罕见]]"
 energy_cost:: 5
 ---
 

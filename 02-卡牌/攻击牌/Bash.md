@@ -1,8 +1,8 @@
 ---
 name:: Bash
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[]]
+type:: "[[攻击牌]]"
+character:: "[[铁甲战士]]"
+rarity:: "[[]]"
 energy_cost:: 2
 ---
 

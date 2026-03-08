@@ -1,8 +1,8 @@
 ---
 name:: Panache
-type:: [[能力牌]]
-character:: [[无色]]
-rarity:: [[稀有]]
+type:: "[[能力牌]]"
+character:: "[[无色]]"
+rarity:: "[[稀有]]"
 energy_cost:: 0
 ---
 

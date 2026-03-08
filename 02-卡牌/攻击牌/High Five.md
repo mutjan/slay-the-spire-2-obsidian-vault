@@ -1,8 +1,8 @@
 ---
 name:: High Five
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[稀有]]
+type:: "[[攻击牌]]"
+character:: "[[死灵契约师]]"
+rarity:: "[[稀有]]"
 energy_cost:: 2
 ---
 

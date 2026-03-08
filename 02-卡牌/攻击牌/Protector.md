@@ -1,8 +1,8 @@
 ---
 name:: Protector
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[]]
+type:: "[[攻击牌]]"
+character:: "[[死灵契约师]]"
+rarity:: "[[]]"
 energy_cost:: 1
 ---
 

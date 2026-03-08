@@ -1,8 +1,8 @@
 ---
 name:: Survivor
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[]]
+type:: "[[技能牌]]"
+character:: "[[静默猎手]]"
+rarity:: "[[]]"
 energy_cost:: 1
 ---
 

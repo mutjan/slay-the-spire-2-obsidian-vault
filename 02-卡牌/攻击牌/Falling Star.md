@@ -1,8 +1,8 @@
 ---
 name:: Falling Star
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[]]
+type:: "[[攻击牌]]"
+character:: "[[储君]]"
+rarity:: "[[]]"
 energy_cost:: 0
 ---
 

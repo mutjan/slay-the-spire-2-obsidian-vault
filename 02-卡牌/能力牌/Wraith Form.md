@@ -1,8 +1,8 @@
 ---
 name:: Wraith Form
-type:: [[能力牌]]
-character:: [[静默猎手]]
-rarity:: [[]]
+type:: "[[能力牌]]"
+character:: "[[静默猎手]]"
+rarity:: "[[]]"
 energy_cost:: 3
 ---
 

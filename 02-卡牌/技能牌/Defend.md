@@ -1,8 +1,8 @@
 ---
 name:: Defend
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[]]
+type:: "[[技能牌]]"
+character:: "[[储君]]"
+rarity:: "[[]]"
 energy_cost:: 1
 ---
 

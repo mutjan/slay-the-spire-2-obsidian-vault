@@ -1,8 +1,8 @@
 ---
 name:: Bundle of Joy
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
+type:: "[[技能牌]]"
+character:: "[[储君]]"
+rarity:: "[[罕见]]"
 energy_cost:: 2
 ---
 

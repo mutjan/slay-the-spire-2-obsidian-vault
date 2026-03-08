@@ -1,8 +1,8 @@
 ---
 name:: Cloak of Stars
-type:: [[技能牌]]
-character:: [[储君]]
-rarity:: [[普通]]
+type:: "[[技能牌]]"
+character:: "[[储君]]"
+rarity:: "[[普通]]"
 energy_cost:: 0
 ---
 

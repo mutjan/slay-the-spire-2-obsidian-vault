@@ -1,8 +1,8 @@
 ---
 name:: Grand Finale
-type:: [[攻击牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
+type:: "[[攻击牌]]"
+character:: "[[静默猎手]]"
+rarity:: "[[罕见]]"
 energy_cost:: 0
 ---
 

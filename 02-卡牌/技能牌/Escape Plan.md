@@ -1,8 +1,8 @@
 ---
 name:: Escape Plan
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[稀有]]
+type:: "[[技能牌]]"
+character:: "[[静默猎手]]"
+rarity:: "[[稀有]]"
 energy_cost:: 0
 ---
 

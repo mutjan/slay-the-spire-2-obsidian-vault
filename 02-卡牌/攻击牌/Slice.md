@@ -1,8 +1,8 @@
 ---
 name:: Slice
-type:: [[攻击牌]]
-character:: [[静默猎手]]
-rarity:: [[普通]]
+type:: "[[攻击牌]]"
+character:: "[[静默猎手]]"
+rarity:: "[[普通]]"
 energy_cost:: 0
 ---
 

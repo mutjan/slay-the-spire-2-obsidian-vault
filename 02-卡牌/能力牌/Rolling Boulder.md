@@ -1,8 +1,8 @@
 ---
 name:: Rolling Boulder
-type:: [[能力牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
+type:: "[[能力牌]]"
+character:: "[[无色]]"
+rarity:: "[[罕见]]"
 energy_cost:: 3
 ---
 

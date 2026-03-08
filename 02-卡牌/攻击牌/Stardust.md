@@ -1,8 +1,8 @@
 ---
 name:: Stardust
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
+type:: "[[攻击牌]]"
+character:: "[[储君]]"
+rarity:: "[[稀有]]"
 energy_cost:: 0
 ---
 

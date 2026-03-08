@@ -1,8 +1,8 @@
 ---
 name:: Flame Barrier
-type:: [[技能牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
+type:: "[[技能牌]]"
+character:: "[[铁甲战士]]"
+rarity:: "[[稀有]]"
 energy_cost:: 2
 ---
 

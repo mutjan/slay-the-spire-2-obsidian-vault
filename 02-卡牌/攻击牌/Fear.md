@@ -1,8 +1,8 @@
 ---
 name:: Fear
-type:: [[攻击牌]]
-character:: [[死灵契约师]]
-rarity:: [[普通]]
+type:: "[[攻击牌]]"
+character:: "[[死灵契约师]]"
+rarity:: "[[普通]]"
 energy_cost:: 1
 ---
 

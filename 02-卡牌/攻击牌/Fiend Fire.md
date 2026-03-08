@@ -1,8 +1,8 @@
 ---
 name:: Fiend Fire
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[罕见]]
+type:: "[[攻击牌]]"
+character:: "[[铁甲战士]]"
+rarity:: "[[罕见]]"
 energy_cost:: 2
 ---
 

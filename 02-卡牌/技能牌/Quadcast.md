@@ -1,8 +1,8 @@
 ---
 name:: Quadcast
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[]]
+type:: "[[技能牌]]"
+character:: "[[故障机器人]]"
+rarity:: "[[]]"
 energy_cost:: 1
 ---
 

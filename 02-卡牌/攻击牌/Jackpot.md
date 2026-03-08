@@ -1,8 +1,8 @@
 ---
 name:: Jackpot
-type:: [[攻击牌]]
-character:: [[无色]]
-rarity:: [[罕见]]
+type:: "[[攻击牌]]"
+character:: "[[无色]]"
+rarity:: "[[罕见]]"
 energy_cost:: 3
 ---
 

@@ -41,13 +41,16 @@ Generate rich markdown files with:
 ```yaml
 ---
 name:: Entity Name
-type:: [[Entity Type]]
-category:: [[Category]]
+type:: "[[Entity Type]]"
+category:: "[[Category]]"
 created:: 2024-01-01
 ---
 ```
 
-**重要**: YAML frontmatter 必须是文件的第一行内容（前面不能有 `# 标题` 或其他内容），这样 Dataview 插件才能正确读取元数据。文件名本身已经包含了标题信息，所以不需要重复的一级标题。
+**重要**:
+1. YAML frontmatter 必须是文件的第一行内容（前面不能有 `# 标题` 或其他内容）
+2. **双向链接必须加引号**: `type:: "[[Entity Type]]"` 而不是 `type:: [[Entity Type]]`
+3. 文件名本身已经包含了标题信息，所以不需要重复的一级标题
 
 ### 3. Dataview Query Integration
 
@@ -107,10 +110,11 @@ def create_entity_file(vault_path, entity_name, entity_data, category):
     file_path = vault_path / category / f"{entity_name}.md"
 
     # YAML frontmatter 放在文件最开头，不要加 # 标题
+    # 双向链接必须加引号
     content = f"""---
 name:: {entity_name}
-type:: [[{entity_data['type']}]]
-category:: [[{entity_data['category']}]]
+type:: "[[{entity_data['type']}]]"
+category:: "[[{entity_data['category']}]]"
 created:: {entity_data.get('created', '2024-01-01')}
 ---
 

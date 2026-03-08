@@ -1,8 +1,8 @@
 ---
 name:: Celestial Might
-type:: [[攻击牌]]
-character:: [[储君]]
-rarity:: [[普通]]
+type:: "[[攻击牌]]"
+character:: "[[储君]]"
+rarity:: "[[普通]]"
 energy_cost:: 2
 ---
 

@@ -1,8 +1,8 @@
 ---
 name:: Cascade
-type:: [[技能牌]]
-character:: [[铁甲战士]]
-rarity:: [[罕见]]
+type:: "[[技能牌]]"
+character:: "[[铁甲战士]]"
+rarity:: "[[罕见]]"
 energy_cost:: X
 ---
 

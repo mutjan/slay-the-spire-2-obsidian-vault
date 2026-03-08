@@ -1,8 +1,8 @@
 ---
 name:: Black Hole
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[稀有]]
+type:: "[[能力牌]]"
+character:: "[[储君]]"
+rarity:: "[[稀有]]"
 energy_cost:: 1
 ---
 

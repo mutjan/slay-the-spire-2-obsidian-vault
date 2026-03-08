@@ -1,8 +1,8 @@
 ---
 name:: White Noise
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[稀有]]
+type:: "[[技能牌]]"
+character:: "[[故障机器人]]"
+rarity:: "[[稀有]]"
 energy_cost:: 1
 ---
 

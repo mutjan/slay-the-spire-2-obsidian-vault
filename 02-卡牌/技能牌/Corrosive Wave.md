@@ -1,8 +1,8 @@
 ---
 name:: Corrosive Wave
-type:: [[技能牌]]
-character:: [[静默猎手]]
-rarity:: [[罕见]]
+type:: "[[技能牌]]"
+character:: "[[静默猎手]]"
+rarity:: "[[罕见]]"
 energy_cost:: 1
 ---
 

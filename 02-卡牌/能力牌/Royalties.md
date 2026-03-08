@@ -1,8 +1,8 @@
 ---
 name:: Royalties
-type:: [[能力牌]]
-character:: [[储君]]
-rarity:: [[罕见]]
+type:: "[[能力牌]]"
+character:: "[[储君]]"
+rarity:: "[[罕见]]"
 energy_cost:: 1
 ---
 

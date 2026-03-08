@@ -1,8 +1,8 @@
 ---
 name:: Genetic Algorithm
-type:: [[技能牌]]
-character:: [[故障机器人]]
-rarity:: [[罕见]]
+type:: "[[技能牌]]"
+character:: "[[故障机器人]]"
+rarity:: "[[罕见]]"
 energy_cost:: 1
 ---
 

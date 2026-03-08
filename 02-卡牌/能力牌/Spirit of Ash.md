@@ -1,8 +1,8 @@
 ---
 name:: Spirit of Ash
-type:: [[能力牌]]
-character:: [[死灵契约师]]
-rarity:: [[罕见]]
+type:: "[[能力牌]]"
+character:: "[[死灵契约师]]"
+rarity:: "[[罕见]]"
 energy_cost:: 1
 ---
 

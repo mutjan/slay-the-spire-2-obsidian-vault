@@ -1,8 +1,8 @@
 ---
 name:: Spite
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[稀有]]
+type:: "[[攻击牌]]"
+character:: "[[铁甲战士]]"
+rarity:: "[[稀有]]"
 energy_cost:: 0
 ---
 

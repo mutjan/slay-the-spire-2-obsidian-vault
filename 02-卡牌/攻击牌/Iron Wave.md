@@ -1,8 +1,8 @@
 ---
 name:: Iron Wave
-type:: [[攻击牌]]
-character:: [[铁甲战士]]
-rarity:: [[普通]]
+type:: "[[攻击牌]]"
+character:: "[[铁甲战士]]"
+rarity:: "[[普通]]"
 energy_cost:: 1
 ---
 

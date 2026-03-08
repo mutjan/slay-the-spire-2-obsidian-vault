@@ -1,8 +1,8 @@
 ---
 name:: Corruption
-type:: [[能力牌]]
-character:: [[铁甲战士]]
-rarity:: [[]]
+type:: "[[能力牌]]"
+character:: "[[铁甲战士]]"
+rarity:: "[[]]"
 energy_cost:: 3
 ---
 

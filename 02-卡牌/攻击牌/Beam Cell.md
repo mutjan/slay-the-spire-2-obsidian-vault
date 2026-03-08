@@ -1,8 +1,8 @@
 ---
 name:: Beam Cell
-type:: [[攻击牌]]
-character:: [[故障机器人]]
-rarity:: [[普通]]
+type:: "[[攻击牌]]"
+character:: "[[故障机器人]]"
+rarity:: "[[普通]]"
 energy_cost:: 0
 ---
 
