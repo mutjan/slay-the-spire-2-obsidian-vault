@@ -271,7 +271,7 @@ CARD_NAMES = {
     "Star Potion": "星辰药水",
 
     # 死灵契约师卡牌
-    "Scourge": "天灾",
+    "Scourge": "鞭打",
     "Blight Strike": "荒疫打击",
     "Deathbringer": "死亡使者",
     "Countdown": "倒计时",

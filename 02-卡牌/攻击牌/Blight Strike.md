@@ -19,7 +19,7 @@ aliases:: ["荒疫打击"]
 
 ## 效果描述
 
-Deal 8 damage. Apply [[厄运|Doom]] equal to damage dealt.
+Deal 8 damage. Apply [[Doom|灾厄]] equal to damage dealt.
 
 ## 相关链接
 

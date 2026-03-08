@@ -4,7 +4,7 @@ type:: "[[技能牌]]"
 character:: "[[死灵契约师]]"
 rarity:: "[[普通]]"
 energy_cost:: 1
-aliases:: ["天灾"]
+aliases:: ["鞭打"]
 ---
 
 
@@ -19,7 +19,7 @@ aliases:: ["天灾"]
 
 ## 效果描述
 
-Apply 13 [[厄运|Doom]]. Draw 1 card.
+Apply 13 [[灾厄|Doom]]. Draw 1 card.
 
 ## 相关链接
 
