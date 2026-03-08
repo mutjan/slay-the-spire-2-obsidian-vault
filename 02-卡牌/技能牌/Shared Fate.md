@@ -1,9 +1,11 @@
 ---
-name:: Shared Fate
-type:: "[[技能牌]]"
-character:: "[[死灵契约师]]"
-rarity:: "[[罕见]]"
-energy_cost:: 0
+"name:": Shared Fate
+"type:": "[[技能牌]]"
+"character:": "[[死灵契约师]]"
+"rarity:": "[[罕见]]"
+"energy_cost:": 0
+aliases:
+  - 命运同担
 ---
 
 
@@ -18,7 +20,7 @@ energy_cost:: 0
 
 ## 效果描述
 
-Lose 2 [[力量|Strength]]. Enemy loses 2 [[力量|Strength]]. [[消耗|Exhaust]].
+Lose 2 [[Strength|力量]]. Enemy loses 2 [[Strength|力量]]. [[Exhaust|消耗]].
 
 ## 相关链接
 
