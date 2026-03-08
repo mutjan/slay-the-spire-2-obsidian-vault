@@ -342,6 +342,35 @@ uri = generate_obsidian_uri("SlayTheSpire2", "05-导航/主页.md")
 - Prefer URIs over file paths (`file://`) for better cross-platform compatibility
 - Include vault name to avoid ambiguity when user has multiple vaults
 
+### Fallback: Browser-Openable Links
+
+Obsidian URIs require the Obsidian app to be installed. For environments where direct URI handling isn't available (e.g., web browsers, mobile apps), provide an alternative using a web redirect service:
+
+**Format**: `https://r.jina.ai/http://obsidian.open?...` (via jina.ai redirect)
+
+```python
+from urllib.parse import quote
+
+def generate_browser_uri(vault_name, file_path):
+    """Generate a browser-openable link that redirects to Obsidian URI."""
+    if file_path.endswith('.md'):
+        file_path = file_path[:-3]
+    encoded_path = quote(file_path, safe='/')
+    obsidian_uri = f"obsidian://open?vault={vault_name}&file={encoded_path}"
+    # Use jina.ai as a redirect bridge
+    return f"https://r.jina.ai/http://{obsidian_uri.replace('obsidian://', 'obsidian.open?')}"
+
+# Example
+browser_link = generate_browser_uri("SlayTheSpire2", "05-导航/主页.md")
+# Result: https://r.jina.ai/http://obsidian.open?open?vault=SlayTheSpire2&file=05-%E5%AF%BC%E8%88%AA/%E4%B8%BB%E9%A1%B5
+```
+
+**Usage in responses**: Provide both links for maximum compatibility
+
+| 文件 | Obsidian 直接打开 | 浏览器打开 |
+|------|------------------|-----------|
+| 主页 | [打开](obsidian://open?vault=SlayTheSpire2&file=05-%E5%AF%BC%E8%88%AA/%E4%B8%BB%E9%A1%B5) | [打开](https://r.jina.ai/http://obsidian.open?open?vault=SlayTheSpire2&file=05-%E5%AF%BC%E8%88%AA/%E4%B8%BB%E9%A1%B5) |
+
 ## Resources
 
 - [Obsidian Documentation](https://help.obsidian.md/)
