@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 11 damage to ALL enemies. Evoke all of your Orbs.
+Deal 11 damage to ALL enemies. [[激发|Evoke]] all of your Orbs.
 
 ## 数据字段
 

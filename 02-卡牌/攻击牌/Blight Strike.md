@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 8 damage. Apply Doom equal to damage dealt.
+Deal 8 damage. Apply [[厄运|Doom]] equal to damage dealt.
 
 ## 数据字段
 

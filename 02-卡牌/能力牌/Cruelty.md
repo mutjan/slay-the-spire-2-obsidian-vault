@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Vulnerable enemies take an additional 25% damage.
+[[易伤|Vulnerable]] enemies take an additional 25% damage.
 
 ## 数据字段
 

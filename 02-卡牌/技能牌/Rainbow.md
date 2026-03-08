@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Channel 1 Lightning. Channel 1 Frost. Channel 1 Dark.
+[[充能|Channel]] 1 [[闪电球|Lightning]]. [[充能|Channel]] 1 [[冰霜球|Frost]]. [[充能|Channel]] 1 [[黑暗球|Dark]].
 
 ## 数据字段
 

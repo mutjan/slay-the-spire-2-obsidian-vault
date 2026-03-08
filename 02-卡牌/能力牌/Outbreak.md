@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Every 3 times you apply Poison, deal 11 damage to ALL enemies.
+Every 3 times you apply [[毒素|Poison]], deal 11 damage to ALL enemies.
 
 ## 数据字段
 

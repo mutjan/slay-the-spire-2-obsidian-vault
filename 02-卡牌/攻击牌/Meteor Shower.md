@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 14 damage to ALL enemies. Apply 2 Weak and Vulnerable to ALL enemies.
+Deal 14 damage to ALL enemies. Apply 2 [[虚弱|Weak]] and [[易伤|Vulnerable]] to ALL enemies.
 
 ## 数据字段
 

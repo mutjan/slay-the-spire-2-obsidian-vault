@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Skills cost 0 . Whenever you play a Skill, Exhaust it.
+Skills cost 0 . Whenever you play a Skill, [[消耗|Exhaust]] it.
 
 ## 数据字段
 

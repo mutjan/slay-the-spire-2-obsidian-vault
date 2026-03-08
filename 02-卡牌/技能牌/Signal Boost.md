@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-The next Power you play is played an additional time. Exhaust.
+The next Power you play is played an additional time. [[消耗|Exhaust]].
 
 ## 数据字段
 

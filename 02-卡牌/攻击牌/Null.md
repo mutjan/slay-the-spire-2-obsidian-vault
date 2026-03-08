@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 10 damage. Apply 2 Weak. Channel 1 Dark.
+Deal 10 damage. Apply 2 [[虚弱|Weak]]. [[充能|Channel]] 1 [[黑暗球|Dark]].
 
 ## 数据字段
 

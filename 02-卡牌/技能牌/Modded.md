@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 1 Orb Slot. Draw 1 card. Increase this card's cost by 1.
+Gain 1 [[充能球|Orb Slot]]. Draw 1 card. Increase this card's cost by 1.
 
 ## 数据字段
 

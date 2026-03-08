@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Remove all Artifact and Block from the enemy. Apply 2 Vulnerable. Exhaust.
+Remove all [[神器|Artifact]] and [[格挡|Block]] from the enemy. Apply 2 [[易伤|Vulnerable]]. [[消耗|Exhaust]].
 
 ## 数据字段
 

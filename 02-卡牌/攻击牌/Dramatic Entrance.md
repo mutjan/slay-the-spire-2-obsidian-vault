@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Innate. Deal 11 damage to ALL enemies. Exhaust.
+[[固有|Innate]]. Deal 11 damage to ALL enemies. [[消耗|Exhaust]].
 
 ## 数据字段
 

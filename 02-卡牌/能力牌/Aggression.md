@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, put a random Attack from your Discard Pile into your Hand and Upgrade it.
+At the start of your turn, put a random Attack from your Discard Pile into your Hand and [[升级|Upgrade]] it.
 
 ## 数据字段
 

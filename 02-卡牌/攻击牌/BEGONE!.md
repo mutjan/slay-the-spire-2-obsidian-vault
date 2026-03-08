@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 4 damage. Choose a card in your Hand to Transform into Minion Dive Bomb.
+Deal 4 damage. Choose a card in your Hand to [[转化|Transform]] into [[仆从|Minion]] Dive Bomb.
 
 ## 数据字段
 

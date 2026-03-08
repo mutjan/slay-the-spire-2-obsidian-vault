@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal damage equal to your Block.
+Deal damage equal to your [[格挡|Block]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Channel 1 Plasma.
+[[充能|Channel]] 1 [[等离子球|Plasma]].
 
 ## 数据字段
 

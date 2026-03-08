@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, apply 2 Poison to ALL enemies.
+At the start of your turn, apply 2 [[毒素|Poison]] to ALL enemies.
 
 ## 数据字段
 

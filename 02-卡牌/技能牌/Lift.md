@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Give another player 11 Block.
+Give another player 11 [[格挡|Block]].
 
 ## 数据字段
 

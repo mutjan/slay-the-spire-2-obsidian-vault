@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 6 damage. Channel 1 Frost.
+Deal 6 damage. [[充能|Channel]] 1 [[冰霜球|Frost]].
 
 ## 数据字段
 

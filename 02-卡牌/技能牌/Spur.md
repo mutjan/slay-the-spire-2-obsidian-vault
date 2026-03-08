@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Retain. Summon 3. Osty heals 5 HP.
+[[保留|Retain]]. [[召唤|Summon]] 3. [[奥斯蒂|Osty]] heals 5 HP.
 
 ## 数据字段
 

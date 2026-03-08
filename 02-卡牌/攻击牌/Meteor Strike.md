@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 24 damage. Channel 3 Plasma.
+Deal 24 damage. [[充能|Channel]] 3 [[等离子球|Plasma]].
 
 ## 数据字段
 

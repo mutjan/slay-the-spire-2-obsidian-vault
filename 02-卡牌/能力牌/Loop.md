@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, trigger the passive ability of your rightmost Orb.
+At the start of your turn, trigger the passive ability of your rightmost [[充能球|Orb]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Apply 29 Doom to ALL enemies. Kill enemies with at least as much Doom as HP.
+Apply 29 [[厄运|Doom]] to ALL enemies. Kill enemies with at least as much [[厄运|Doom]] as HP.
 
 ## 数据字段
 

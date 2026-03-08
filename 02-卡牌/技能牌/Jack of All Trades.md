@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Add 1 random Colorless card into your Hand. Exhaust.
+Add 1 random Colorless card into your Hand. [[消耗|Exhaust]].
 
 ## 数据字段
 

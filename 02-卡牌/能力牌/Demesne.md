@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Ethereal. At the start of your turn, gain  and draw 1 additional card.
+[[虚无|Ethereal]]. At the start of your turn, gain  and draw 1 additional card.
 
 ## 数据字段
 

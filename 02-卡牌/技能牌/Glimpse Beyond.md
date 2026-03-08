@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-ALL players add 3 Souls into their Draw Pile. Exhaust.
+ALL players add 3 [[Soul|Souls]] into their Draw Pile. [[消耗|Exhaust]].
 
 ## 数据字段
 

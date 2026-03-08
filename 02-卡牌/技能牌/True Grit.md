@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 7 Block. Exhaust 1 card .
+Gain 7 [[格挡|Block]]. [[消耗|Exhaust]] 1 card .
 
 ## 数据字段
 

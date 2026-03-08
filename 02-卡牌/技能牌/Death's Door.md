@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 6 Block. If you applied Doom this turn, gain Block 2 additional times.
+Gain 6 [[格挡|Block]]. If you applied [[厄运|Doom]] this turn, gain [[格挡|Block]] 2 additional times.
 
 ## 数据字段
 

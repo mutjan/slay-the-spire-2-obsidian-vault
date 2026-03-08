@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 9 damage. Gain 1 Focus this turn.
+Deal 9 damage. Gain 1 [[集中|Focus]] this turn.
 
 ## 数据字段
 

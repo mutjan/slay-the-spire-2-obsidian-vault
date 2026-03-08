@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Play the top card of your Draw Pile and Exhaust it.
+Play the top card of your Draw Pile and [[消耗|Exhaust]] it.
 
 ## 数据字段
 

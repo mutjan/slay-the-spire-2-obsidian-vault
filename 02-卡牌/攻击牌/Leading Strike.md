@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 7 damage. Add 1 Shiv into your Hand.
+Deal 7 damage. Add 1 [[Shiv]] into your Hand.
 
 ## 数据字段
 

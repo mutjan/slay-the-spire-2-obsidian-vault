@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you play a Colorless card, gain 1 Strength.
+Whenever you play a Colorless card, gain 1 [[力量|Strength]].
 
 ## 数据字段
 

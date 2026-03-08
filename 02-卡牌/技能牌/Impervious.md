@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 30 Block. Exhaust.
+Gain 30 [[格挡|Block]]. [[消耗|Exhaust]].
 
 ## 数据字段
 

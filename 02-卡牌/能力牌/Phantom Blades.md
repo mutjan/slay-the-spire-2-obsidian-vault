@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Shivs gain Retain. The first Shiv you play each turn deals 9 additional damage.
+[[Shiv|Shivs]] gain [[保留|Retain]]. The first [[Shiv]] you play each turn deals 9 additional damage.
 
 ## 数据字段
 

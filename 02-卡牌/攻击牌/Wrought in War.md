@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 7 damage. Forge 5.
+Deal 7 damage. [[锻造|Forge]] 5.
 
 ## 数据字段
 

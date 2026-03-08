@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Exhaust your Hand. If 9 cards were Exhausted this way, gain 1 Intangible.
+[[消耗|Exhaust]] your Hand. If 9 cards were Exhausted this way, gain 1 [[无形|Intangible]].
 
 ## 数据字段
 

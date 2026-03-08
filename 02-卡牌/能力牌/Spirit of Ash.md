@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you play an Ethereal card, gain 4 Block.
+Whenever you play an [[虚无|Ethereal]] card, gain 4 [[格挡|Block]].
 
 ## 数据字段
 

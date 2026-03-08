@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 4 damage. Deals 2 additional damage for each Vulnerable on the enemy.
+Deal 4 damage. Deals 2 additional damage for each [[易伤|Vulnerable]] on the enemy.
 
 ## 数据字段
 

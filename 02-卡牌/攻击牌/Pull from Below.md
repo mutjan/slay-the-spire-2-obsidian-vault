@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 5 damage for each Ethereal card played this combat.
+Deal 5 damage for each [[虚无|Ethereal]] card played this combat.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 1 Strength for each Vulnerable on the enemy.
+Gain 1 [[力量|Strength]] for each [[易伤|Vulnerable]] on the enemy.
 
 ## 数据字段
 

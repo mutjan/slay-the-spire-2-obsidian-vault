@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 7 damage. Gain Block equal to damage dealt.
+Deal 7 damage. Gain [[格挡|Block]] equal to damage dealt.
 
 ## 数据字段
 

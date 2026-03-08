@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Summon 5. Whenever Osty loses HP, ALL enemies lose that much HP as well.
+[[召唤|Summon]] 5. Whenever [[奥斯蒂|Osty]] loses HP, ALL enemies lose that much HP as well.
 
 ## 数据字段
 

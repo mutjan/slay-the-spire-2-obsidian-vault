@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Innate. Gain 10 Block. Exhaust.
+[[固有|Innate]]. Gain 10 [[格挡|Block]]. [[消耗|Exhaust]].
 
 ## 数据字段
 

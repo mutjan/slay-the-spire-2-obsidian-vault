@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, Channel 1 Glass.
+At the start of your turn, [[充能|Channel]] 1 [[玻璃球|Glass]].
 
 ## 数据字段
 

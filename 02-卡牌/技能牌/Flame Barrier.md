@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 12 Block. Whenever you are attacked this turn, deal 4 damage back.
+Gain 12 [[格挡|Block]]. Whenever you are attacked this turn, deal 4 damage back.
 
 ## 数据字段
 

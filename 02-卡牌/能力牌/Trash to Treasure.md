@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you create a Status card, Channel 1 random Orb.
+Whenever you create a Status card, [[充能|Channel]] 1 random [[充能球|Orb]].
 
 ## 数据字段
 

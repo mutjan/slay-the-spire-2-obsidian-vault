@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you play a card this turn, gain 1 Strength this turn.
+Whenever you play a card this turn, gain 1 [[力量|Strength]] this turn.
 
 ## 数据字段
 

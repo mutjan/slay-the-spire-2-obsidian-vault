@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Shuffle ALL your cards into your Draw Pile. Draw 4 cards. Exhaust.
+Shuffle ALL your cards into your Draw Pile. Draw 4 cards. [[消耗|Exhaust]].
 
 ## 数据字段
 

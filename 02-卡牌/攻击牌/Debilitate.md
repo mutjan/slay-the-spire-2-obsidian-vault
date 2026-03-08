@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 7 damage. Vulnerable and Weak are twice as effective against the enemy for the next 3 turns.
+Deal 7 damage. [[易伤|Vulnerable]] and [[虚弱|Weak]] are twice as effective against the enemy for the next 3 turns.
 
 ## 数据字段
 

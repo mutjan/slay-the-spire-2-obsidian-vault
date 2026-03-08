@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 4 damage twice. Exhaust a random Attack in your Hand and add its damage to this card.
+Deal 4 damage twice. [[消耗|Exhaust]] a random Attack in your Hand and add its damage to this card.
 
 ## 数据字段
 

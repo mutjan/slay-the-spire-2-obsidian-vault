@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Lose 2 Strength. Gain  at the start of each turn.
+Lose 2 [[力量|Strength]]. Gain  at the start of each turn.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever Attacks deal damage, they also apply that much Doom.
+Whenever Attacks deal damage, they also apply that much [[厄运|Doom]].
 
 ## 数据字段
 

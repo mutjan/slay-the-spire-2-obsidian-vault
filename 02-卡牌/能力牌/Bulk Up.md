@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Lose 1 Orb Slot. Gain 2 Strength. Gain 2 Dexterity.
+Lose 1 [[充能球|Orb Slot]]. Gain 2 [[力量|Strength]]. Gain 2 [[敏捷|Dexterity]].
 
 ## 数据字段
 

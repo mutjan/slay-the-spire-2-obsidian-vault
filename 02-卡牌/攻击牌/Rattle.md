@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Osty deals 7 damage. Hits an additional time for each other time he has attacked this turn.
+[[奥斯蒂|Osty]] deals 7 damage. Hits an additional time for each other time he has attacked this turn.
 
 ## 数据字段
 

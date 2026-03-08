@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 2 Strength.
+Gain 2 [[力量|Strength]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 33 damage to ALL enemies. Costs  less for each Ethereal card played this combat.
+Deal 33 damage to ALL enemies. Costs  less for each [[虚无|Ethereal]] card played this combat.
 
 ## 数据字段
 

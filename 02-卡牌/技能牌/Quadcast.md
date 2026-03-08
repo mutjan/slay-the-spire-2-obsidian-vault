@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Evoke your rightmost Orb 4 times.
+[[激发|Evoke]] your rightmost [[充能球|Orb]] 4 times.
 
 ## 数据字段
 

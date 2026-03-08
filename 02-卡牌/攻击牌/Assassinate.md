@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Innate. Deal 10 damage. Apply 1 Vulnerable. Exhaust.
+[[固有|Innate]]. Deal 10 damage. Apply 1 [[易伤|Vulnerable]]. [[消耗|Exhaust]].
 
 ## 数据字段
 

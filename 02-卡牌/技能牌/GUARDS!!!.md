@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Transform any number of cards in your Hand into Minion Sacrifice.  Exhaust.
+[[转化|Transform]] any number of cards in your Hand into [[Minion Sacrifice]].  [[消耗|Exhaust]].
 
 ## 数据字段
 

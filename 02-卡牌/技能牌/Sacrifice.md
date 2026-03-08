@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Retain. If Osty is alive, he dies and you gain Block equal to double his Max HP.
+[[保留|Retain]]. If [[奥斯蒂|Osty]] is alive, he dies and you gain [[格挡|Block]] equal to double his Max HP.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 5 Block. Apply 7 Doom to ALL enemies.
+Gain 5 [[格挡|Block]]. Apply 7 [[厄运|Doom]] to ALL enemies.
 
 ## 数据字段
 

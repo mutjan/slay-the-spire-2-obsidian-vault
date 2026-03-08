@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Osty's attacks deal 4 additional damage.
+[[奥斯蒂|Osty]]'s attacks deal 4 additional damage.
 
 ## 数据字段
 

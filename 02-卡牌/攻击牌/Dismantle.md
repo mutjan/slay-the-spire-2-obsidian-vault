@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 8 damage. If the enemy is Vulnerable, hits twice.
+Deal 8 damage. If the enemy is [[易伤|Vulnerable]], hits twice.
 
 ## 数据字段
 

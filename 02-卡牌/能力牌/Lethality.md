@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Ethereal. The first Attack each turn deals 50% additional damage.
+[[虚无|Ethereal]]. The first Attack each turn deals 50% additional damage.
 
 ## 数据字段
 

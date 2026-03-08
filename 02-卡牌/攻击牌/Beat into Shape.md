@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 5 damage. Forge 5. Forges an additional 5 for every other time you've hit the enemy this turn.
+Deal 5 damage. [[锻造|Forge]] 5. Forges an additional 5 for every other time you've hit the enemy this turn.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 6 damage. Deals 3 additional damage for each card in your Exhaust Pile.
+Deal 6 damage. Deals 3 additional damage for each card in your [[消耗|Exhaust]] Pile.
 
 ## 数据字段
 

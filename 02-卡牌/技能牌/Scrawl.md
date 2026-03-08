@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Draw cards until your Hand is full. Exhaust.
+Draw cards until your Hand is full. [[消耗|Exhaust]].
 
 ## 数据字段
 

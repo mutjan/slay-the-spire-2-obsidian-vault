@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Exhaust all non-Attack cards in your Hand. Gain 5 Block for each card Exhausted.
+[[消耗|Exhaust]] all non-Attack cards in your Hand. Gain 5 [[格挡|Block]] for each card Exhausted.
 
 ## 数据字段
 

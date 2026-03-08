@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 8 damage. Apply 1 Weak.
+Deal 8 damage. Apply 1 [[虚弱|Weak]].
 
 ## 数据字段
 

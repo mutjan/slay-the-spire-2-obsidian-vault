@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Lose 2 HP. Gain 16 Block.
+Lose 2 HP. Gain 16 [[格挡|Block]].
 
 ## 数据字段
 

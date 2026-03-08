@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 5 Block. You receive 50% less damage from Vulnerable enemies this turn.
+Gain 5 [[格挡|Block]]. You receive 50% less damage from [[易伤|Vulnerable]] enemies this turn.
 
 ## 数据字段
 

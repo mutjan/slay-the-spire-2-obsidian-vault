@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you play Sovereign Blade, gain 6 Block.
+Whenever you play [[Sovereign Blade]], gain 6 [[格挡|Block]].
 
 ## 数据字段
 

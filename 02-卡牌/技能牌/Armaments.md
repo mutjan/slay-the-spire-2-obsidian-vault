@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 5 Block. Upgrade a card in your Hand.
+Gain 5 [[格挡|Block]]. [[升级|Upgrade]] a card in your Hand.
 
 ## 数据字段
 

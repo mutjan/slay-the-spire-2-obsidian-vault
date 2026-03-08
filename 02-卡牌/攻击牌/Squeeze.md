@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Osty deals 25 damage. Deals 5 additional damage for ALL your other Osty Attacks.
+[[奥斯蒂|Osty]] deals 25 damage. Deals 5 additional damage for ALL your other [[奥斯蒂|Osty]] Attacks.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 13 Block. Forge 10.
+Gain 13 [[格挡|Block]]. [[锻造|Forge]] 10.
 
 ## 数据字段
 

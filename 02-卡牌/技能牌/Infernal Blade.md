@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Add a random Attack into your Hand. It's free to play this turn. Exhaust.
+Add a random Attack into your Hand. It's free to play this turn. [[消耗|Exhaust]].
 
 ## 数据字段
 

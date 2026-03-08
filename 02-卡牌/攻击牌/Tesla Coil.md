@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 3 damage. Trigger all Lightning against the enemy.
+Deal 3 damage. Trigger all [[闪电球|Lightning]] against the enemy.
 
 ## 数据字段
 

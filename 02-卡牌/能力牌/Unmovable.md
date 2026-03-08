@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-The first time you gain Block from a card each turn, double the amount gained.
+The first time you gain [[格挡|Block]] from a card each turn, double the amount gained.
 
 ## 数据字段
 

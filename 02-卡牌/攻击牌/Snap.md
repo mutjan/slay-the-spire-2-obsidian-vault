@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Osty deals 7 damage. Add Retain to a card in your Hand.
+[[奥斯蒂|Osty]] deals 7 damage. Add [[保留|Retain]] to a card in your Hand.
 
 ## 数据字段
 

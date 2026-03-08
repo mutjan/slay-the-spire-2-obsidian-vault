@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Lose 2 Strength. Enemy loses 2 Strength. Exhaust.
+Lose 2 [[力量|Strength]]. Enemy loses 2 [[力量|Strength]]. [[消耗|Exhaust]].
 
 ## 数据字段
 

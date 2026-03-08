@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Forge 8. Put Sovereign Blade into your Hand from anywhere.
+[[锻造|Forge]] 8. Put [[Sovereign Blade]] into your Hand from anywhere.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 11 Block. Channel 1 Dark.
+Gain 11 [[格挡|Block]]. [[充能|Channel]] 1 [[黑暗球|Dark]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 17 Block. Blocked attack damage is reflected to your attacker this turn.
+Gain 17 [[格挡|Block]]. Blocked attack damage is reflected to your attacker this turn.
 
 ## 数据字段
 

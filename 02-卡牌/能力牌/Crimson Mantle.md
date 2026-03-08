@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, lose 1 HP and gain 8 Block.
+At the start of your turn, lose 1 HP and gain 8 [[格挡|Block]].
 
 ## 数据字段
 

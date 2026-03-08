@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Ethereal. Draw 3 cards.
+[[虚无|Ethereal]]. Draw 3 cards.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Next turn, gain Block equal to your current Block.
+Next turn, gain [[格挡|Block]] equal to your current [[格挡|Block]].
 
 ## 数据字段
 

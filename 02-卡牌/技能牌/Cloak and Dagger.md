@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 6 Block. Add 1 Shiv into your Hand.
+Gain 6 [[格挡|Block]]. Add 1 [[Shiv]] into your Hand.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Next turn, Summon 2 and gain .
+Next turn, [[召唤|Summon]] 2 and gain .
 
 ## 数据字段
 

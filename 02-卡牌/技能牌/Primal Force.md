@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Transform all Attacks in your Hand into Giant Rock.
+[[转化|Transform]] all Attacks in your Hand into [[Giant Rock]].
 
 ## 数据字段
 

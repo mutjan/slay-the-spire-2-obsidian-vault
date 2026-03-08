@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Innate. Deal 11 damage. Apply 3 Weak.
+[[固有|Innate]]. Deal 11 damage. Apply 3 [[虚弱|Weak]].
 
 ## 数据字段
 

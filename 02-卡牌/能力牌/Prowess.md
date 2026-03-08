@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 1 Strength. Gain 1 Dexterity.
+Gain 1 [[力量|Strength]]. Gain 1 [[敏捷|Dexterity]].
 
 ## 数据字段
 

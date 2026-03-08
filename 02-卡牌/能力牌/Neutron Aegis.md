@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 8 Plating.
+Gain 8 [[护甲|Plating]].
 
 ## 数据字段
 

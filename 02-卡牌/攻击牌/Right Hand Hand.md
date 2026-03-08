@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Osty deals 4 damage. Whenever you play a card that costs  or more, return this to your Hand from the Discard Pile.
+[[奥斯蒂|Osty]] deals 4 damage. Whenever you play a card that costs  or more, return this to your Hand from the Discard Pile.
 
 ## 数据字段
 

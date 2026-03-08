@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 13 Block. Add 2 Wounds into your Discard Pile.
+Gain 13 [[格挡|Block]]. Add 2 Wounds into your Discard Pile.
 
 ## 数据字段
 

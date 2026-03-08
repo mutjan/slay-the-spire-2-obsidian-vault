@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Channel 1 Frost. Draw 1 card.
+[[充能|Channel]] 1 [[冰霜球|Frost]]. Draw 1 card.
 
 ## 数据字段
 

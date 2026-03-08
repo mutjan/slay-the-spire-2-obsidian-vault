@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 8 damage. Add Ethereal to a card in your Hand.
+Deal 8 damage. Add [[虚无|Ethereal]] to a card in your Hand.
 
 ## 数据字段
 

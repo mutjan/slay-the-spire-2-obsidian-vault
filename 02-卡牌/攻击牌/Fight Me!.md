@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 5 damage twice. Gain 2 Strength. The enemy gains 1 Strength.
+Deal 5 damage twice. Gain 2 [[力量|Strength]]. The enemy gains 1 [[力量|Strength]].
 
 ## 数据字段
 

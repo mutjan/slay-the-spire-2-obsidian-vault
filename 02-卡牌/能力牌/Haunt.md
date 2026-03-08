@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you play a Soul, a random enemy loses 6 HP.
+Whenever you play a [[Soul]], a random enemy loses 6 HP.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 10 damage. If Fatal, gain an additional card reward. Exhaust.
+Deal 10 damage. If Fatal, gain an additional card reward. [[消耗|Exhaust]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Increase the cost of Sovereign Blade by 1. Sovereign Blade now hits an additional time.
+Increase the cost of [[Sovereign Blade]] by 1. [[Sovereign Blade]] now hits an additional time.
 
 ## 数据字段
 

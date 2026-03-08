@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Retain. Deal 27 damage.
+[[保留|Retain]]. Deal 27 damage.
 
 ## 数据字段
 

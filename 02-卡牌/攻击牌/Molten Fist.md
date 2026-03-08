@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 10 damage. Double the enemy's Vulnerable. Exhaust.
+Deal 10 damage. Double the enemy's [[易伤|Vulnerable]]. [[消耗|Exhaust]].
 
 ## 数据字段
 

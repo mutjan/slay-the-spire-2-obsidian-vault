@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Apply 3 Doom to yourself. Gain .
+Apply 3 [[厄运|Doom]] to yourself. Gain .
 
 ## 数据字段
 

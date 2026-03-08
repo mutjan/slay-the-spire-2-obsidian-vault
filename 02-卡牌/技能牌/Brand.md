@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Lose 1 HP. Exhaust 1 card. Gain 1 Strength.
+Lose 1 HP. [[消耗|Exhaust]] 1 card. Gain 1 [[力量|Strength]].
 
 ## 数据字段
 

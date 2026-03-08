@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Retain. Exhaust up to 3 cards in your Hand. Exhaust.
+[[保留|Retain]]. [[消耗|Exhaust]] up to 3 cards in your Hand. [[消耗|Exhaust]].
 
 ## 数据字段
 

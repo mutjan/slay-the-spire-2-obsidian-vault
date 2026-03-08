@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 9 damage twice. Channel 2 Glass.
+Deal 9 damage twice. [[充能|Channel]] 2 [[玻璃球|Glass]].
 
 ## 数据字段
 

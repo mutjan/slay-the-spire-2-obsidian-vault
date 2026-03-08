@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, add 1 Shiv into your Hand.
+At the start of your turn, add 1 [[Shiv]] into your Hand.
 
 ## 数据字段
 

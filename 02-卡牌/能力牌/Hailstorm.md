@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the end of your turn, if you have Frost, deal 6 damage to ALL enemies.
+At the end of your turn, if you have [[冰霜球|Frost]], deal 6 damage to ALL enemies.
 
 ## 数据字段
 

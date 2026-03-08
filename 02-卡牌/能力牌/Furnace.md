@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, Forge 4.
+At the start of your turn, [[锻造|Forge]] 4.
 
 ## 数据字段
 

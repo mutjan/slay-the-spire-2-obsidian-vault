@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 10 damage. If Fatal, raise your Max HP by 3. Exhaust.
+Deal 10 damage. If Fatal, raise your Max HP by 3. [[消耗|Exhaust]].
 
 ## 数据字段
 

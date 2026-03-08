@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, draw 1 card and Exhaust 1 card from your Hand.
+At the start of your turn, draw 1 card and [[消耗|Exhaust]] 1 card from your Hand.
 
 ## 数据字段
 

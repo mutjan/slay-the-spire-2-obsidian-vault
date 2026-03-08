@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Retain. Deal 8 damage to ALL enemies.
+[[保留|Retain]]. Deal 8 damage to ALL enemies.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, gain 2 Block for each unique Orb you have.
+At the start of your turn, gain 2 [[格挡|Block]] for each unique [[充能球|Orb]] you have.
 
 ## 数据字段
 

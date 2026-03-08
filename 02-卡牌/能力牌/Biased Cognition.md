@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 4 Focus. At the start of your turn, lose 1 Focus.
+Gain 4 [[集中|Focus]]. At the start of your turn, lose 1 [[集中|Focus]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you play a Soul, Summon 1.
+Whenever you play a [[Soul]], [[召唤|Summon]] 1.
 
 ## 数据字段
 

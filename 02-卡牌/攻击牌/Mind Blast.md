@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Innate. Deal damage equal to the number of cards in your Draw Pile.
+[[固有|Innate]]. Deal damage equal to the number of cards in your Draw Pile.
 
 ## 数据字段
 

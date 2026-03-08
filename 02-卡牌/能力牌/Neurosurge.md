@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain  . Draw 2 cards. At the start of your turn, apply 3 Doom to yourself.
+Gain  . Draw 2 cards. At the start of your turn, apply 3 [[厄运|Doom]] to yourself.
 
 ## 数据字段
 

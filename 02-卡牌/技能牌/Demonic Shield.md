@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Lose 1 HP. Give another player Block equal to your Block.
+Lose 1 HP. Give another player [[格挡|Block]] equal to your [[格挡|Block]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 9 Block. Redirect all incoming attacks that would be dealt to another player this turn to you.
+Gain 9 [[格挡|Block]]. Redirect all incoming attacks that would be dealt to another player this turn to you.
 
 ## 数据字段
 

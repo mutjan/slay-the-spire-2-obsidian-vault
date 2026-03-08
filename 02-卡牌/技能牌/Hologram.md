@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 3 Block. Put a card from your Discard Pile into your Hand.
+Gain 3 [[格挡|Block]]. Put a card from your Discard Pile into your Hand.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 2 Focus this turn.
+Gain 2 [[集中|Focus]] this turn.
 
 ## 数据字段
 

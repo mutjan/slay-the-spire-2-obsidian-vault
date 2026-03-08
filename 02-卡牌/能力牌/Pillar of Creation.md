@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you create a card, gain 3 Block.
+Whenever you create a card, gain 3 [[格挡|Block]].
 
 ## 数据字段
 

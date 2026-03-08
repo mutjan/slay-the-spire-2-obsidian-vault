@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Summon 6. Exhaust.
+[[召唤|Summon]] 6. [[消耗|Exhaust]].
 
 ## 数据字段
 

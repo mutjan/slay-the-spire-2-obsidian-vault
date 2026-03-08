@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you Evoke Lightning, deal 6 damage to each enemy hit.
+Whenever you [[激发|Evoke]] [[闪电球|Lightning]], deal 6 damage to each enemy hit.
 
 ## 数据字段
 

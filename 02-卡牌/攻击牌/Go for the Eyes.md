@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 3 damage. If the enemy intends to attack, apply 1 Weak.
+Deal 3 damage. If the enemy intends to attack, apply 1 [[虚弱|Weak]].
 
 ## 数据字段
 

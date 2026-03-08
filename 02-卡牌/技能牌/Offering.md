@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Lose 6 HP. Gain . Draw 3 cards. Exhaust.
+Lose 6 HP. Gain . Draw 3 cards. [[消耗|Exhaust]].
 
 ## 数据字段
 

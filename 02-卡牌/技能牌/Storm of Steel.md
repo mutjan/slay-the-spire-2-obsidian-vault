@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Discard your Hand. Add 1 Shiv into your Hand for each card discarded.
+Discard your Hand. Add 1 [[Shiv]] into your Hand for each card discarded.
 
 ## 数据字段
 

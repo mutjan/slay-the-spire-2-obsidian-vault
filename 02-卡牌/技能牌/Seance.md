@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Ethereal. Transform a card in your Draw Pile into Soul.
+[[虚无|Ethereal]]. [[转化|Transform]] a card in your Draw Pile into [[Soul]].
 
 ## 数据字段
 

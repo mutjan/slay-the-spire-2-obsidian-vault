@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Sly. Whenever another player attacks an enemy, gain 1 Block.
+[[狡猾|Sly]]. Whenever another player attacks an enemy, gain 1 [[格挡|Block]].
 
 ## 数据字段
 

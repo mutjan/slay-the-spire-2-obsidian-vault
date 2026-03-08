@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the end of your turn, Retain up to 1 card.
+At the end of your turn, [[保留|Retain]] up to 1 card.
 
 ## 数据字段
 

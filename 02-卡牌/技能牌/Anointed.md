@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Put every Rare card from your Draw Pile into your Hand. Exhaust.
+Put every Rare card from your Draw Pile into your Hand. [[消耗|Exhaust]].
 
 ## 数据字段
 

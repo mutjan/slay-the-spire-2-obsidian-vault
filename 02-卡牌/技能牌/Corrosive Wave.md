@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you draw a card this turn, apply 3 Poison to ALL enemies.
+Whenever you draw a card this turn, apply 3 [[毒素|Poison]] to ALL enemies.
 
 ## 数据字段
 

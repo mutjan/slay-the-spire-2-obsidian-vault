@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Sly. Deal 7 damage to ALL enemies.
+[[狡猾|Sly]]. Deal 7 damage to ALL enemies.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-This turn, whenever you play an Attack, gain 2 Strength this turn.
+This turn, whenever you play an Attack, gain 2 [[力量|Strength]] this turn.
 
 ## 数据字段
 

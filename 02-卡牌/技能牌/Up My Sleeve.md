@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Add 3 Shivs into your Hand. Reduce this card's cost by 1.
+Add 3 [[Shiv|Shivs]] into your Hand. Reduce this card's cost by 1.
 
 ## 数据字段
 

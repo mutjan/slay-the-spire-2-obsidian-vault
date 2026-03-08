@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Choose a card. Next turn, add 3 copies of that card into your Hand. Exhaust.
+Choose a card. Next turn, add 3 copies of that card into your Hand. [[消耗|Exhaust]].
 
 ## 数据字段
 

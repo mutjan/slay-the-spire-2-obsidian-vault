@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, Transform 1 card in your Hand.
+At the start of your turn, [[转化|Transform]] 1 card in your Hand.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 2 Orb Slots.
+Gain 2 [[充能球|Orb]] Slots.
 
 ## 数据字段
 

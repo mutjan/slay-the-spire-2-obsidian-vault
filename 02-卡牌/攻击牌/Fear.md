@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Ethereal. Deal 7 damage. Apply 1 Vulnerable.
+[[虚无|Ethereal]]. Deal 7 damage. Apply 1 [[易伤|Vulnerable]].
 
 ## 数据字段
 

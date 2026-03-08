@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 4. Exhaust.
+Gain 4. [[消耗|Exhaust]].
 
 ## 数据字段
 

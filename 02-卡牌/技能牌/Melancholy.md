@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 13 Block. Reduce this card's cost by  whenever ANYONE dies.
+Gain 13 [[格挡|Block]]. Reduce this card's cost by  whenever ANYONE dies.
 
 ## 数据字段
 

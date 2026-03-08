@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Double your Block gain this turn.
+Double your [[格挡|Block]] gain this turn.
 
 ## 数据字段
 

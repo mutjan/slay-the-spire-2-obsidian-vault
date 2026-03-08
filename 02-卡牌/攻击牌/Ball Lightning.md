@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 7 damage. Channel 1 Lightning.
+Deal 7 damage. [[充能|Channel]] 1 [[闪电球|Lightning]].
 
 ## 数据字段
 

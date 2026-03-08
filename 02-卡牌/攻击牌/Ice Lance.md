@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 19 damage. Channel 3 Frost.
+Deal 19 damage. [[充能|Channel]] 3 [[冰霜球|Frost]].
 
 ## 数据字段
 

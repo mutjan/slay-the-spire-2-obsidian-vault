@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 5 Block. Deal 5 damage.
+Gain 5 [[格挡|Block]]. Deal 5 damage.
 
 ## 数据字段
 

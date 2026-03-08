@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 3 Dexterity this turn.
+Gain 3 [[敏捷|Dexterity]] this turn.
 
 ## 数据字段
 

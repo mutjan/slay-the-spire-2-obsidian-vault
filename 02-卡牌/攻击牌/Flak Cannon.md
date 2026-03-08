@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Exhaust ALL your Status cards. Deal 8 damage to a random enemy for each card Exhausted.
+[[消耗|Exhaust]] ALL your Status cards. Deal 8 damage to a random enemy for each card Exhausted.
 
 ## 数据字段
 

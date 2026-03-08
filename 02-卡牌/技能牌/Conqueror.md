@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Forge 3. Sovereign Blade deals double damage to the enemy this turn.
+[[锻造|Forge]] 3. [[Sovereign Blade]] deals double damage to the enemy this turn.
 
 ## 数据字段
 

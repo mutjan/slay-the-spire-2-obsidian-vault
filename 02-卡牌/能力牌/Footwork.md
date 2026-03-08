@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 2 Dexterity.
+Gain 2 [[敏捷|Dexterity]].
 
 ## 数据字段
 

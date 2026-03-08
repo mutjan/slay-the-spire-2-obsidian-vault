@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 50 Block. If you take unblocked attack damage this combat, die.
+Gain 50 [[格挡|Block]]. If you take unblocked attack damage this combat, die.
 
 ## 数据字段
 

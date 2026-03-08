@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Block is not removed at the start of your turn.
+[[格挡|Block]] is not removed at the start of your turn.
 
 ## 数据字段
 

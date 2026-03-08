@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal damage equal to the enemy's Doom. Exhaust.
+Deal damage equal to the enemy's [[厄运|Doom]]. [[消耗|Exhaust]].
 
 ## 数据字段
 

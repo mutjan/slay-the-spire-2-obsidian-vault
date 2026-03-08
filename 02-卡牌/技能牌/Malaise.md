@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Enemy loses X Strength. Apply X Weak. Exhaust.
+Enemy loses X [[力量|Strength]]. Apply X [[虚弱|Weak]]. [[消耗|Exhaust]].
 
 ## 数据字段
 

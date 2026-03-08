@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 9 damage. Add a Soul into your Draw Pile.
+Deal 9 damage. Add a [[Soul]] into your Draw Pile.
 
 ## 数据字段
 

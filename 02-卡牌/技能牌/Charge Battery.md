@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 7 Block. Next turn, gain .
+Gain 7 [[格挡|Block]]. Next turn, gain .
 
 ## 数据字段
 

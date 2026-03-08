@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-When you play a Skill, it gains Sly.
+When you play a Skill, it gains [[狡猾|Sly]].
 
 ## 数据字段
 

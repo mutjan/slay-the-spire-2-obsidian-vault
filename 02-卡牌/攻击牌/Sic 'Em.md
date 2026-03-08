@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Osty deals 5 damage. Whenever Osty hits this enemy this turn, Summon 2.
+[[奥斯蒂|Osty]] deals 5 damage. Whenever [[奥斯蒂|Osty]] hits this enemy this turn, [[召唤|Summon]] 2.
 
 ## 数据字段
 

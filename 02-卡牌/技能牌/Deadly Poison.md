@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Apply 5 Poison.
+Apply 5 [[毒素|Poison]].
 
 ## 数据字段
 

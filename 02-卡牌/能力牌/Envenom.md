@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever an Attack deals unblocked damage, apply 1 Poison.
+Whenever an Attack deals unblocked damage, apply 1 [[毒素|Poison]].
 
 ## 数据字段
 

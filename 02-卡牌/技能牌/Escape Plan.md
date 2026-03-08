@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Draw 1 card. If you draw a Skill, gain 3 Block.
+Draw 1 card. If you draw a Skill, gain 3 [[格挡|Block]].
 
 ## 数据字段
 

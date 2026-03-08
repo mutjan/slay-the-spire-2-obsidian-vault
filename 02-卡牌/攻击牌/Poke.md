@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Osty deals 6 damage.
+[[奥斯蒂|Osty]] deals 6 damage.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 8 Block. Gain another 8 Block if you have Exhausted a card this turn.
+Gain 8 [[格挡|Block]]. Gain another 8 [[格挡|Block]] if you have Exhausted a card this turn.
 
 ## 数据字段
 

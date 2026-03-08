@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Apply 21 Doom and 1 Weak to ALL enemies.
+Apply 21 [[厄运|Doom]] and 1 [[虚弱|Weak]] to ALL enemies.
 
 ## 数据字段
 

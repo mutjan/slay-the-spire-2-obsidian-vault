@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-If the enemy has Poison, apply 9 Poison.
+If the enemy has [[毒素|Poison]], apply 9 [[毒素|Poison]].
 
 ## 数据字段
 

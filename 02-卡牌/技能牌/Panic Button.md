@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 30 Block. You cannot gain Block from cards for 2 turns. Exhaust.
+Gain 30 [[格挡|Block]]. You cannot gain [[格挡|Block]] from cards for 2 turns. [[消耗|Exhaust]].
 
 ## 数据字段
 

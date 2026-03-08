@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 5 Block. Channel 1 Glass.
+Gain 5 [[格挡|Block]]. [[充能|Channel]] 1 [[玻璃球|Glass]].
 
 ## 数据字段
 

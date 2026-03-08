@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Channel Lightning equal to the Lightning already Channeled this combat.
+[[充能|Channel]] [[闪电球|Lightning]] equal to the [[闪电球|Lightning]] already Channeled this combat.
 
 ## 数据字段
 

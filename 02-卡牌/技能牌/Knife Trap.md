@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Play  every Shiv in your Exhaust Pile on the enemy.
+Play  every [[Shiv]] in your [[消耗|Exhaust]] Pile on the enemy.
 
 ## 数据字段
 

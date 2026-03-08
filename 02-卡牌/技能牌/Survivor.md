@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 8 Block. Discard 1 card.
+Gain 8 [[格挡|Block]]. Discard 1 card.
 
 ## 数据字段
 

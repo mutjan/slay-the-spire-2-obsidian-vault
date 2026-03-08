@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 7 Block. Add a copy of this card into your Discard Pile.
+Gain 7 [[格挡|Block]]. Add a copy of this card into your Discard Pile.
 
 ## 数据字段
 

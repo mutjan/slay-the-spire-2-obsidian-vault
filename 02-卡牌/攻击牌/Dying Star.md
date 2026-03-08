@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Ethereal. Deal 9 damage to ALL enemies. ALL enemies lose 9 Strength this turn.
+[[虚无|Ethereal]]. Deal 9 damage to ALL enemies. ALL enemies lose 9 [[力量|Strength]] this turn.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Sly. Draw 2 cards.
+[[狡猾|Sly]]. Draw 2 cards.
 
 ## 数据字段
 

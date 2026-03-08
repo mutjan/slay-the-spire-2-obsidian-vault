@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 6 damage. Apply 3 Poison.
+Deal 6 damage. Apply 3 [[毒素|Poison]].
 
 ## 数据字段
 

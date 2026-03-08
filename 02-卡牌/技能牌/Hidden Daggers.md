@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Discard 2 cards. Add 2 Shivs into your Hand.
+Discard 2 cards. Add 2 [[Shiv|Shivs]] into your Hand.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain an additional 5 Block from Defend cards.
+Gain an additional 5 [[格挡|Block]] from Defend cards.
 
 ## 数据字段
 

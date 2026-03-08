@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 1 Block. Permanently increase this card's Block by 3. Exhaust.
+Gain 1 [[格挡|Block]]. Permanently increase this card's [[格挡|Block]] by 3. [[消耗|Exhaust]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 7 Block. Add 1 random  Colorless card into your Hand.
+Gain 7 [[格挡|Block]]. Add 1 random  Colorless card into your Hand.
 
 ## 数据字段
 

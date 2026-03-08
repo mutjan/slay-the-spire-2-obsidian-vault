@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 9 Block. At the end of your turn, if this is on top of your Draw Pile, play it.
+Gain 9 [[格挡|Block]]. At the end of your turn, if this is on top of your Draw Pile, play it.
 
 ## 数据字段
 

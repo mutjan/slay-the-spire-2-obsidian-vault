@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Shivs now hit ALL enemies. Add 4 Shivs into your Hand.
+[[Shiv|Shivs]] now hit ALL enemies. Add 4 [[Shiv|Shivs]] into your Hand.
 
 ## 数据字段
 

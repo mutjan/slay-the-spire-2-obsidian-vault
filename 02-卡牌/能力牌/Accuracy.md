@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Shivs deal 4 additional damage.
+[[Shiv|Shivs]] deal 4 additional damage.
 
 ## 数据字段
 

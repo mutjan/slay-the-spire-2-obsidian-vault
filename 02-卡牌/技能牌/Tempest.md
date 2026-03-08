@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Channel X Lightning.
+[[充能|Channel]] X [[闪电球|Lightning]].
 
 ## 数据字段
 

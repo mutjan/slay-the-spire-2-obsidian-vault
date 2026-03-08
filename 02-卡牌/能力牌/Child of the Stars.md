@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you spend , gain 2 Block for each  spent.
+Whenever you spend , gain 2 [[格挡|Block]] for each  spent.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you gain Block, deal 5 damage to a random enemy.
+Whenever you gain [[格挡|Block]], deal 5 damage to a random enemy.
 
 ## 数据字段
 

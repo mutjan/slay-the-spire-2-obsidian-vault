@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain Block equal to the Block on another player.
+Gain [[格挡|Block]] equal to the [[格挡|Block]] on another player.
 
 ## 数据字段
 

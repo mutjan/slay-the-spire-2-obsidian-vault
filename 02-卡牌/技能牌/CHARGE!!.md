@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Choose 2 cards in your Draw Pile to Transform into Minion Strikes.
+Choose 2 cards in your Draw Pile to [[转化|Transform]] into [[Minion Strike|Minion Strikes]].
 
 ## 数据字段
 

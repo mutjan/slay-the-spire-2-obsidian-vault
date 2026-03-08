@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Ethereal. Gain 6 Block. Apply 1 Weak.
+[[虚无|Ethereal]]. Gain 6 [[格挡|Block]]. Apply 1 [[虚弱|Weak]].
 
 ## 数据字段
 

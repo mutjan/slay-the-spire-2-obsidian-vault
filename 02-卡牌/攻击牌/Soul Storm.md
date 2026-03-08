@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 9 damage. Deals 2 additional damage for each Soul in your Exhaust Pile.
+Deal 9 damage. Deals 2 additional damage for each [[Soul]] in your [[消耗|Exhaust]] Pile.
 
 ## 数据字段
 

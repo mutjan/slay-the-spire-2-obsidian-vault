@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 9 Block. Return this card to your Hand.
+Gain 9 [[格挡|Block]]. Return this card to your Hand.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Enemy loses 9 Strength this turn. Exhaust.
+Enemy loses 9 [[力量|Strength]] this turn. [[消耗|Exhaust]].
 
 ## 数据字段
 

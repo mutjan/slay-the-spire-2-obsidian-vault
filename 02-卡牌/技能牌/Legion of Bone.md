@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-ALL players Summon 6. Exhaust.
+ALL players [[召唤|Summon]] 6. [[消耗|Exhaust]].
 
 ## 数据字段
 

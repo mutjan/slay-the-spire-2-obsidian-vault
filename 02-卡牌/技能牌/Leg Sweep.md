@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Apply 2 Weak. Gain 11 Block.
+Apply 2 [[虚弱|Weak]]. Gain 11 [[格挡|Block]].
 
 ## 数据字段
 

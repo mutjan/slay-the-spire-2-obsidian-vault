@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 7 Block.
+Gain 7 [[格挡|Block]].
 
 ## 数据字段
 

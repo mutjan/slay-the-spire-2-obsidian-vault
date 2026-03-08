@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Ethereal. Enemy loses 8 Strength this turn.
+[[虚无|Ethereal]]. Enemy loses 8 [[力量|Strength]] this turn.
 
 ## 数据字段
 

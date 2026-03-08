@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain . Draw 2 cards. Exhaust.
+Gain . Draw 2 cards. [[消耗|Exhaust]].
 
 ## 数据字段
 

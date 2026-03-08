@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Retain. Apply 7 Poison.
+[[保留|Retain]]. Apply 7 [[毒素|Poison]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 6 Block. Transform all Status cards in your Hand into Fuel.
+Gain 6 [[格挡|Block]]. [[转化|Transform]] all Status cards in your Hand into Fuel.
 
 ## 数据字段
 

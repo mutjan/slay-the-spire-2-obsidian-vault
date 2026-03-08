@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 13 Block. Retain your Hand this turn.
+Gain 13 [[格挡|Block]]. [[保留|Retain]] your Hand this turn.
 
 ## 数据字段
 

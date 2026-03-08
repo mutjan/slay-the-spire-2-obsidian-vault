@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Osty deals 11 damage and applies 2 Vulnerable to ALL enemies.
+[[奥斯蒂|Osty]] deals 11 damage and applies 2 [[易伤|Vulnerable]] to ALL enemies.
 
 ## 数据字段
 

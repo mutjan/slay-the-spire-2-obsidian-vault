@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 8 Block. Add a Soul into your Draw Pile.
+Gain 8 [[格挡|Block]]. Add a [[Soul]] into your Draw Pile.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 4 damage 3 times. Add a Slimed into your Discard Pile.
+Deal 4 damage 3 times. Add a [[Slimed]] into your Discard Pile.
 
 ## 数据字段
 

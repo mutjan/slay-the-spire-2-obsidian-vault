@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you Forge, all allies Forge as well.
+Whenever you [[锻造|Forge]], all allies [[锻造|Forge]] as well.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Weak enemies take double damage from Attacks.
+[[虚弱|Weak]] enemies take double damage from Attacks.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 5 damage for each Channeled Orb.
+Deal 5 damage for each Channeled [[充能球|Orb]].
 
 ## 数据字段
 

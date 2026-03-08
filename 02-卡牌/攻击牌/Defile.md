@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Ethereal. Deal 13 damage.
+[[虚无|Ethereal]]. Deal 13 damage.
 
 ## 数据字段
 

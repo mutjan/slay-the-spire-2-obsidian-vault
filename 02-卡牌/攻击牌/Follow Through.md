@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 6 damage to ALL enemies. If the last card you played this turn was a Skill, apply 1 Weak to ALL enemies.
+Deal 6 damage to ALL enemies. If the last card you played this turn was a Skill, apply 1 [[虚弱|Weak]] to ALL enemies.
 
 ## 数据字段
 

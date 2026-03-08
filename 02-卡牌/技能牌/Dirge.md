@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Summon 3 X times. Add X Souls into your Draw Pile.
+[[召唤|Summon]] 3 X times. Add X [[Soul|Souls]] into your Draw Pile.
 
 ## 数据字段
 

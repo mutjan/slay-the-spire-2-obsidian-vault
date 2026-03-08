@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 18 damage. At the start of your turn, plays from the Exhaust Pile. Exhaust.
+Deal 18 damage. At the start of your turn, plays from the [[消耗|Exhaust]] Pile. [[消耗|Exhaust]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Draw 3 cards. Exhaust.
+Draw 3 cards. [[消耗|Exhaust]].
 
 ## 数据字段
 

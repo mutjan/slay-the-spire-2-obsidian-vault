@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Osty deals 6 damage. Deals additional damage equal to Osty's current HP.
+[[奥斯蒂|Osty]] deals 6 damage. Deals additional damage equal to [[奥斯蒂|Osty]]'s current HP.
 
 ## 数据字段
 

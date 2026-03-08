@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Forge 7. Sovereign Blade now deals damage to ALL enemies.
+[[锻造|Forge]] 7. [[Sovereign Blade]] now deals damage to ALL enemies.
 
 ## 数据字段
 

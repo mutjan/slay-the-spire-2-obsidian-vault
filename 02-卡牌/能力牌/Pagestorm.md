@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you draw an Ethereal card, draw 1 card.
+Whenever you draw an [[虚无|Ethereal]] card, draw 1 card.
 
 ## 数据字段
 

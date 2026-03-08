@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 5 Block. Block is not removed at the start of your next turn.
+Gain 5 [[格挡|Block]]. [[格挡|Block]] is not removed at the start of your next turn.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Channel 1 Dark. Trigger the passive ability of all Dark Orbs.
+[[充能|Channel]] 1 [[黑暗球|Dark]]. Trigger the passive ability of all [[黑暗球|Dark]] Orbs.
 
 ## 数据字段
 

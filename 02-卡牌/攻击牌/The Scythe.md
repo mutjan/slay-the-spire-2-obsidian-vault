@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 13 damage. Permanently increase this card's damage by 3. Exhaust.
+Deal 13 damage. Permanently increase this card's damage by 3. [[消耗|Exhaust]].
 
 ## 数据字段
 

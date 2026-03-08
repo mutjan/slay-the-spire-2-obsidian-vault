@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Draw 3 cards. Choose a Skill in your Hand and play it 3 times. Exhaust.
+Draw 3 cards. Choose a Skill in your Hand and play it 3 times. [[消耗|Exhaust]].
 
 ## 数据字段
 

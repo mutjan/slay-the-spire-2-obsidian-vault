@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Add 3 Shivs into your Hand. Exhaust.
+Add 3 [[Shiv|Shivs]] into your Hand. [[消耗|Exhaust]].
 
 ## 数据字段
 

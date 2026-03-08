@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Sly. Gain 1 Dexterity. Gain 4 Thorns.
+[[狡猾|Sly]]. Gain 1 [[敏捷|Dexterity]]. Gain 4 [[荆棘|Thorns]].
 
 ## 数据字段
 

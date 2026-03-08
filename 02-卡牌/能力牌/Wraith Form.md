@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 2 Intangible. At the start of your turn, lose 1 Dexterity.
+Gain 2 [[无形|Intangible]]. At the start of your turn, lose 1 [[敏捷|Dexterity]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Next turn, gain  and . Retain your Hand this turn.
+Next turn, gain  and . [[保留|Retain]] your Hand this turn.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Forge 6. Next turn, gain .
+[[锻造|Forge]] 6. Next turn, gain .
 
 ## 数据字段
 

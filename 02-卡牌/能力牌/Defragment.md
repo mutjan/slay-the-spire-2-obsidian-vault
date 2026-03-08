@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 1 Focus.
+Gain 1 [[集中|Focus]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 4 Block. At the start of the next 2 turns, Channel 1 Lightning.
+Gain 4 [[格挡|Block]]. At the start of the next 2 turns, [[充能|Channel]] 1 [[闪电球|Lightning]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Discard your Hand, then draw that many cards. Exhaust.
+Discard your Hand, then draw that many cards. [[消耗|Exhaust]].
 
 ## 数据字段
 

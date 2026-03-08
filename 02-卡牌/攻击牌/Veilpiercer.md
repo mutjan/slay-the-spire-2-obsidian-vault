@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 10 damage. The next Ethereal card you play costs 0 .
+Deal 10 damage. The next [[虚无|Ethereal]] card you play costs 0 .
 
 ## 数据字段
 

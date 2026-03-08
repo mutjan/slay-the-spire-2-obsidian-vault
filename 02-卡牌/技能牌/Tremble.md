@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Apply 2 Vulnerable.
+Apply 2 [[易伤|Vulnerable]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Osty deals 12 damage. This card costs 0  if Osty has attacked this turn.
+[[奥斯蒂|Osty]] deals 12 damage. This card costs 0  if [[奥斯蒂|Osty]] has attacked this turn.
 
 ## 数据字段
 

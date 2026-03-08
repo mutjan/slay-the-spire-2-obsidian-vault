@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Sly. Apply 4 Poison to ALL enemies.
+[[狡猾|Sly]]. Apply 4 [[毒素|Poison]] to ALL enemies.
 
 ## 数据字段
 

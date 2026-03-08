@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain Block equal to Poison on ALL enemies. Exhaust.
+Gain [[格挡|Block]] equal to [[毒素|Poison]] on ALL enemies. [[消耗|Exhaust]].
 
 ## 数据字段
 

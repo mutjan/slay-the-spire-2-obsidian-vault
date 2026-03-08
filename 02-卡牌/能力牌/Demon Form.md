@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, gain 2 Strength.
+At the start of your turn, gain 2 [[力量|Strength]].
 
 ## 数据字段
 

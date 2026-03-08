@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you play a card, gain 1 Block.
+Whenever you play a card, gain 1 [[格挡|Block]].
 
 ## 数据字段
 

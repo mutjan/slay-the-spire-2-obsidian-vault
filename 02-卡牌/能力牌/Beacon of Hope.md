@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you gain Block on your turn, other players gain half that much Block.
+Whenever you gain [[格挡|Block]] on your turn, other players gain half that much [[格挡|Block]].
 
 ## 数据字段
 

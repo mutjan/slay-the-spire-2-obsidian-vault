@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-If Osty is alive, he deals 9 damage to ALL enemies and you gain 9 Block. Osty dies.
+If [[奥斯蒂|Osty]] is alive, he deals 9 damage to ALL enemies and you gain 9 [[格挡|Block]]. [[奥斯蒂|Osty]] dies.
 
 ## 数据字段
 

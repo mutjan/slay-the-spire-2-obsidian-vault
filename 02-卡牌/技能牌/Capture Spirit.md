@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Enemy loses 3 HP. Add 3 Souls into your Draw Pile.
+Enemy loses 3 HP. Add 3 [[Soul|Souls]] into your Draw Pile.
 
 ## 数据字段
 

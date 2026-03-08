@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 12 damage. Retain your Hand this turn.
+Deal 12 damage. [[保留|Retain]] your Hand this turn.
 
 ## 数据字段
 

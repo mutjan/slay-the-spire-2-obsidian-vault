@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 8 Block. Gain 2 Vigor.
+Gain 8 [[格挡|Block]]. Gain 2 [[活力|Vigor]].
 
 ## 数据字段
 

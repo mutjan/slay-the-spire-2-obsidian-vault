@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you lose HP on your turn, gain 1 Strength.
+Whenever you lose HP on your turn, gain 1 [[力量|Strength]].
 
 ## 数据字段
 

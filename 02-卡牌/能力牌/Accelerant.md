@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Poison is triggered 1 additional time.
+[[毒素|Poison]] is triggered 1 additional time.
 
 ## 数据字段
 

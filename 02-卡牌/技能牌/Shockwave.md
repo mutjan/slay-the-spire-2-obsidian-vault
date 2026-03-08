@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Apply 3 Weak and Vulnerable to ALL enemies. Exhaust.
+Apply 3 [[虚弱|Weak]] and [[易伤|Vulnerable]] to ALL enemies. [[消耗|Exhaust]].
 
 ## 数据字段
 

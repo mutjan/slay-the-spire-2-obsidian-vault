@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, add 1 Sweeping Gaze into your Hand.
+At the start of your turn, add 1 [[Sweeping Gaze]] into your Hand.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 7 damage. Whenever you gain Block this turn, deal 5 damage to the enemy.
+Deal 7 damage. Whenever you gain [[格挡|Block]] this turn, deal 5 damage to the enemy.
 
 ## 数据字段
 

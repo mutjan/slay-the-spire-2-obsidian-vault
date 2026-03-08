@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 16 damage to ALL enemies. At the start of your turn, plays from the Exhaust Pile.
+Deal 16 damage to ALL enemies. At the start of your turn, plays from the [[消耗|Exhaust]] Pile.
 
 ## 数据字段
 

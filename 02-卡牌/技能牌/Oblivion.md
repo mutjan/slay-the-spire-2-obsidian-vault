@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you play a card this turn, apply 3 Doom to the enemy.
+Whenever you play a card this turn, apply 3 [[厄运|Doom]] to the enemy.
 
 ## 数据字段
 

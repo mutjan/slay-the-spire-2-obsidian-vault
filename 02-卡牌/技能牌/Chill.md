@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Channel 1 Frost for each enemy.
+[[充能|Channel]] 1 [[冰霜球|Frost]] for each enemy.
 
 ## 数据字段
 

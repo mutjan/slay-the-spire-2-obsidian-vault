@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 7 damage. Draw 1 card for each unique Orb you have.
+Deal 7 damage. Draw 1 card for each unique [[充能球|Orb]] you have.
 
 ## 数据字段
 

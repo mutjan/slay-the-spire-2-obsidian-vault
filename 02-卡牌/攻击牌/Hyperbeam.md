@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 26 damage to ALL enemies. Lose 3 Focus.
+Deal 26 damage to ALL enemies. Lose 3 [[集中|Focus]].
 
 ## 数据字段
 

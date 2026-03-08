@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 7 damage. Gain 2 Strength this turn.
+Deal 7 damage. Gain 2 [[力量|Strength]] this turn.
 
 ## 数据字段
 

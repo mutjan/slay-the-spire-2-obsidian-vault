@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Exhaust a card. Next turn, gain .
+[[消耗|Exhaust]] a card. Next turn, gain .
 
 ## 数据字段
 

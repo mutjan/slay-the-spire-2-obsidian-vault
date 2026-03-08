@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Give another player 5 Strength this turn.
+Give another player 5 [[力量|Strength]] this turn.
 
 ## 数据字段
 

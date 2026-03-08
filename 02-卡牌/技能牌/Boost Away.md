@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 6 Block. Add a Dazed into your Discard Pile.
+Gain 6 [[格挡|Block]]. Add a [[Dazed]] into your Discard Pile.
 
 ## 数据字段
 

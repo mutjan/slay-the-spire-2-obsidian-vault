@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 6 Block. Channel 2 Frost.
+Gain 6 [[格挡|Block]]. [[充能|Channel]] 2 [[冰霜球|Frost]].
 
 ## 数据字段
 

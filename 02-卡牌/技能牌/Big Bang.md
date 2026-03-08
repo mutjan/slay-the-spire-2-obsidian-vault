@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Draw 1 card. Gain . Gain . Forge 5. Exhaust.
+Draw 1 card. Gain . Gain . [[锻造|Forge]] 5. [[消耗|Exhaust]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Apply 13 Doom. Draw 1 card.
+Apply 13 [[厄运|Doom]]. Draw 1 card.
 
 ## 数据字段
 

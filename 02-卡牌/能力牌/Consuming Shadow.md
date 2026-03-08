@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Channel 2 Dark. At the end of your turn, Evoke your leftmost Orb.
+[[充能|Channel]] 2 [[黑暗球|Dark]]. At the end of your turn, [[激发|Evoke]] your leftmost [[充能球|Orb]].
 
 ## 数据字段
 

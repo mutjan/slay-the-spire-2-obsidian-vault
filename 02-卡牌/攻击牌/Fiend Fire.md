@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Exhaust your Hand. Deal 7 damage for each card Exhausted. Exhaust.
+[[消耗|Exhaust]] your Hand. Deal 7 damage for each card Exhausted. [[消耗|Exhaust]].
 
 ## 数据字段
 

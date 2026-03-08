@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Retain. If your Hand is empty, draw 2 cards and gain .
+[[保留|Retain]]. If your Hand is empty, draw 2 cards and gain .
 
 ## 数据字段
 

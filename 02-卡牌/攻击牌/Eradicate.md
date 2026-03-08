@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Retain. Deal 11 damage X times.
+[[保留|Retain]]. Deal 11 damage X times.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 7 damage to ALL enemies. All enemies lose 1 Strength this turn.
+Deal 7 damage to ALL enemies. All enemies lose 1 [[力量|Strength]] this turn.
 
 ## 数据字段
 

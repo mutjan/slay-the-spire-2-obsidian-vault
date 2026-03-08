@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, add 1 random card into your Hand. It gains Ethereal.
+At the start of your turn, add 1 random card into your Hand. It gains [[虚无|Ethereal]].
 
 ## 数据字段
 

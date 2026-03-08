@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, gain 4 Vigor.
+At the start of your turn, gain 4 [[活力|Vigor]].
 
 ## 数据字段
 

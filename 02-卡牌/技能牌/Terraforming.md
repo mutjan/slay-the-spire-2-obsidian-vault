@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 6 Vigor.
+Gain 6 [[活力|Vigor]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-At the start of your turn, apply 6 Doom to a random enemy.
+At the start of your turn, apply 6 [[厄运|Doom]] to a random enemy.
 
 ## 数据字段
 

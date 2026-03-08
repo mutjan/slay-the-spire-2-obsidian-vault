@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Draw 2 cards. At the start of your turn, Exhaust the top card of your Draw Pile.
+Draw 2 cards. At the start of your turn, [[消耗|Exhaust]] the top card of your Draw Pile.
 
 ## 数据字段
 

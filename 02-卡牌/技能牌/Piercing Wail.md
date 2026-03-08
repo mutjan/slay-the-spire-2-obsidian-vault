@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-ALL enemies lose 6 Strength this turn. Exhaust.
+ALL enemies lose 6 [[力量|Strength]] this turn. [[消耗|Exhaust]].
 
 ## 数据字段
 

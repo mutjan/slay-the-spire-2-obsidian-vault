@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you apply Vulnerable, draw 1 card.
+Whenever you apply [[易伤|Vulnerable]], draw 1 card.
 
 ## 数据字段
 

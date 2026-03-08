@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 7 Block. Apply 1 Vulnerable.
+Gain 7 [[格挡|Block]]. Apply 1 [[易伤|Vulnerable]].
 
 ## 数据字段
 

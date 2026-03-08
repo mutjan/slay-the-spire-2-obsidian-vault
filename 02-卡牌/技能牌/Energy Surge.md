@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-ALL players gain . Exhaust.
+ALL players gain . [[消耗|Exhaust]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 7 Block. Add Sly to a Skill in your Hand this turn.
+Gain 7 [[格挡|Block]]. Add [[狡猾|Sly]] to a Skill in your Hand this turn.
 
 ## 数据字段
 

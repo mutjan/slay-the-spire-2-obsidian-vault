@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Sly. Deal 3 damage to a random enemy 4 times.
+[[狡猾|Sly]]. Deal 3 damage to a random enemy 4 times.
 
 ## 数据字段
 

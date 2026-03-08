@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Osty deals 3 damage. If this is the first time this card has been played this turn, draw 1 card.
+[[奥斯蒂|Osty]] deals 3 damage. If this is the first time this card has been played this turn, draw 1 card.
 
 ## 数据字段
 

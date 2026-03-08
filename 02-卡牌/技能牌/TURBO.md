@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain . Add a Void into your Discard Pile.
+Gain . Add a [[Void]] into your Discard Pile.
 
 ## 数据字段
 

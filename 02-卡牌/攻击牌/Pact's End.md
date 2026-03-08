@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Can only be played if you have 3 or more cards in your Exhaust Pile. Deal 17 damage to ALL enemies.
+Can only be played if you have 3 or more cards in your [[消耗|Exhaust]] Pile. Deal 17 damage to ALL enemies.
 
 ## 数据字段
 

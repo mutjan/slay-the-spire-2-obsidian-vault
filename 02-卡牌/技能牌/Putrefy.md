@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Apply 2 Weak. Apply 2 Vulnerable. Exhaust.
+Apply 2 [[虚弱|Weak]]. Apply 2 [[易伤|Vulnerable]]. [[消耗|Exhaust]].
 
 ## 数据字段
 

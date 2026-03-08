@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Summon 4. Gain 7 Block.
+[[召唤|Summon]] 4. Gain 7 [[格挡|Block]].
 
 ## 数据字段
 

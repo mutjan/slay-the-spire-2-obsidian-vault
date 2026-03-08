@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Double your Energy. Exhaust.
+Double your Energy. [[消耗|Exhaust]].
 
 ## 数据字段
 

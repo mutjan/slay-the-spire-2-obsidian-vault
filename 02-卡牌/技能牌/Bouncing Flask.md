@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Apply 3 Poison to a random enemy 3 times.
+Apply 3 [[毒素|Poison]] to a random enemy 3 times.
 
 ## 数据字段
 

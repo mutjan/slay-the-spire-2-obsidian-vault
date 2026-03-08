@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 10 damage. Upgrade 2 random cards in your Discard Pile.
+Deal 10 damage. [[升级|Upgrade]] 2 random cards in your Discard Pile.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 13 damage. Add a Soul into your Draw Pile, Hand, and Discard Pile.
+Deal 13 damage. Add a [[Soul]] into your Draw Pile, Hand, and Discard Pile.
 
 ## 数据字段
 

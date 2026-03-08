@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 1 Strength. ALL enemies lose 1 Strength.
+Gain 1 [[力量|Strength]]. ALL enemies lose 1 [[力量|Strength]].
 
 ## 数据字段
 

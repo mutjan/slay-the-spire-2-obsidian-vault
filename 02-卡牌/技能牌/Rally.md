@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-ALL players gain 12 Block.
+ALL players gain 12 [[格挡|Block]].
 
 ## 数据字段
 

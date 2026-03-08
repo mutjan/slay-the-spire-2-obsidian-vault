@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever you attack an enemy, it loses 1 Strength this turn.
+Whenever you attack an enemy, it loses 1 [[力量|Strength]] this turn.
 
 ## 数据字段
 

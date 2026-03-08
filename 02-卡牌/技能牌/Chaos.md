@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Channel 1 random Orb.
+[[充能|Channel]] 1 random [[充能球|Orb]].
 
 ## 数据字段
 

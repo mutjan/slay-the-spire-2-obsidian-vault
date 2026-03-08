@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 4 damage and apply 1 Vulnerable to ALL enemies.
+Deal 4 damage and apply 1 [[易伤|Vulnerable]] to ALL enemies.
 
 ## 数据字段
 

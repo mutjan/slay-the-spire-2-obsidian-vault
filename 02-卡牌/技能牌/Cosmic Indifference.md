@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 6 Block. Put a card from your Discard Pile on top of your Draw Pile.
+Gain 6 [[格挡|Block]]. Put a card from your Discard Pile on top of your Draw Pile.
 
 ## 数据字段
 

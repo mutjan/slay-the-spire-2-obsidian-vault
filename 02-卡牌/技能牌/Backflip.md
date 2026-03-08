@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Gain 5 Block. Draw 2 cards.
+Gain 5 [[格挡|Block]]. Draw 2 cards.
 
 ## 数据字段
 

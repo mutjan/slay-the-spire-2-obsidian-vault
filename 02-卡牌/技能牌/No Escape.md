@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Apply 10 Doom, plus an additional 5 Doom for every 10 Doom already on this enemy.
+Apply 10 [[厄运|Doom]], plus an additional 5 [[厄运|Doom]] for every 10 [[厄运|Doom]] already on this enemy.
 
 ## 数据字段
 

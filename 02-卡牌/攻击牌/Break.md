@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 20 damage. Apply 5 Vulnerable.
+Deal 20 damage. Apply 5 [[易伤|Vulnerable]].
 
 ## 数据字段
 

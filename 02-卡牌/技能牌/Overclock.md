@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Draw 2 cards. Add a Burn into your Discard Pile.
+Draw 2 cards. Add a [[Burn]] into your Discard Pile.
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 15 damage. Enemy loses 10 Strength this turn.
+Deal 15 damage. Enemy loses 10 [[力量|Strength]] this turn.
 
 ## 数据字段
 

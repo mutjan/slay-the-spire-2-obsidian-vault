@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Whenever a card is Exhausted, gain 3 Block.
+Whenever a card is Exhausted, gain 3 [[格挡|Block]].
 
 ## 数据字段
 

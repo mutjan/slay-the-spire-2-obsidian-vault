@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Procure a random potion. Exhaust.
+Procure a random potion. [[消耗|Exhaust]].
 
 ## 数据字段
 

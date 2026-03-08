@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Another player Channels Plasma.
+Another player Channels [[等离子球|Plasma]].
 
 ## 数据字段
 

@@ -11,7 +11,7 @@
 
 ## 效果描述
 
-Deal 17 damage. Exhaust the top card of your Draw Pile.
+Deal 17 damage. [[消耗|Exhaust]] the top card of your Draw Pile.
 
 ## 数据字段
 
