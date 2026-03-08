@@ -4,6 +4,7 @@ type:: "[[技能牌]]"
 character:: "[[死灵契约师]]"
 rarity:: "[[普通]]"
 energy_cost:: 1
+aliases:: ["墓地守卫"]
 ---
 
 

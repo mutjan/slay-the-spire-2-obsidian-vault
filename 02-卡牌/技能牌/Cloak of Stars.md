@@ -4,6 +4,7 @@ type:: "[[技能牌]]"
 character:: "[[储君]]"
 rarity:: "[[普通]]"
 energy_cost:: 0
+aliases:: ["星辰斗篷"]
 ---
 
 

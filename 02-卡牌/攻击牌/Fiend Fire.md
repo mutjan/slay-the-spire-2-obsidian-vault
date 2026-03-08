@@ -4,6 +4,7 @@ type:: "[[攻击牌]]"
 character:: "[[铁甲战士]]"
 rarity:: "[[罕见]]"
 energy_cost:: 2
+aliases:: ["恶魔之火"]
 ---
 
 

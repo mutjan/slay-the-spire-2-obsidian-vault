@@ -4,6 +4,7 @@ type:: "[[攻击牌]]"
 character:: "[[无色]]"
 rarity:: "[[罕见]]"
 energy_cost:: 2
+aliases:: ["贪婪之手"]
 ---
 
 

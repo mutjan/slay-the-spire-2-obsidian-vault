@@ -4,6 +4,7 @@ type:: "[[能力牌]]"
 character:: "[[死灵契约师]]"
 rarity:: "[[罕见]]"
 energy_cost:: 3
+aliases:: ["收割者形态"]
 ---
 
 

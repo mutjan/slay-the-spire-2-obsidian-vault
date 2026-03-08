@@ -4,6 +4,7 @@ type:: "[[能力牌]]"
 character:: "[[故障机器人]]"
 rarity:: "[[]]"
 energy_cost:: 1
+aliases:: ["偏差认知"]
 ---
 
 

@@ -4,6 +4,7 @@ type:: "[[技能牌]]"
 character:: "[[故障机器人]]"
 rarity:: "[[普通]]"
 energy_cost:: 1
+aliases:: ["冷静头脑"]
 ---
 
 

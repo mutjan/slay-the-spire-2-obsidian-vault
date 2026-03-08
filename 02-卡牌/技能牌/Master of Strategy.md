@@ -4,6 +4,7 @@ type:: "[[技能牌]]"
 character:: "[[无色]]"
 rarity:: "[[罕见]]"
 energy_cost:: 0
+aliases:: ["战略大师"]
 ---
 
 

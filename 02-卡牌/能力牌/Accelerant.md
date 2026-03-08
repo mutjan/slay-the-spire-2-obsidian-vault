@@ -4,6 +4,7 @@ type:: "[[能力牌]]"
 character:: "[[静默猎手]]"
 rarity:: "[[罕见]]"
 energy_cost:: 1
+aliases:: ["促进剂"]
 ---
 
 

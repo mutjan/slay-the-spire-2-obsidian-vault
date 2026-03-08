@@ -4,6 +4,7 @@ type:: "[[技能牌]]"
 character:: "[[静默猎手]]"
 rarity:: "[[稀有]]"
 energy_cost:: 2
+aliases:: ["弹跳药瓶"]
 ---
 
 

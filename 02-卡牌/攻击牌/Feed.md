@@ -4,6 +4,7 @@ type:: "[[攻击牌]]"
 character:: "[[铁甲战士]]"
 rarity:: "[[罕见]]"
 energy_cost:: 1
+aliases:: ["狂宴"]
 ---
 
 

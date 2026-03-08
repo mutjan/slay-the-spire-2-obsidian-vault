@@ -4,6 +4,7 @@ type:: "[[攻击牌]]"
 character:: "[[储君]]"
 rarity:: "[[]]"
 energy_cost:: 0
+aliases:: ["流星雨"]
 ---
 
 

@@ -4,6 +4,7 @@ type:: "[[攻击牌]]"
 character:: "[[静默猎手]]"
 rarity:: "[[稀有]]"
 energy_cost:: 0
+aliases:: ["背刺"]
 ---
 
 

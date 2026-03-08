@@ -4,6 +4,7 @@ type:: "[[攻击牌]]"
 character:: "[[故障机器人]]"
 rarity:: "[[普通]]"
 energy_cost:: 1
+aliases:: ["球状闪电"]
 ---
 
 

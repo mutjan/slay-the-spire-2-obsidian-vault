@@ -4,6 +4,7 @@ type:: "[[能力牌]]"
 character:: "[[铁甲战士]]"
 rarity:: "[[罕见]]"
 energy_cost:: 3
+aliases:: ["恶魔形态"]
 ---
 
 

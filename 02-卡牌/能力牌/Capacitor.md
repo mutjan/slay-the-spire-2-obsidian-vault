@@ -4,6 +4,7 @@ type:: "[[能力牌]]"
 character:: "[[故障机器人]]"
 rarity:: "[[稀有]]"
 energy_cost:: 1
+aliases:: ["电容器"]
 ---
 
 

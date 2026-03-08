@@ -4,6 +4,7 @@ type:: "[[技能牌]]"
 character:: "[[死灵契约师]]"
 rarity:: "[[罕见]]"
 energy_cost:: 1
+aliases:: ["窥视彼岸"]
 ---
 
 

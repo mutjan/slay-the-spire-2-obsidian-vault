@@ -4,6 +4,7 @@ type:: "[[攻击牌]]"
 character:: "[[无色]]"
 rarity:: "[[稀有]]"
 energy_cost:: 0
+aliases:: ["钢铁闪光"]
 ---
 
 

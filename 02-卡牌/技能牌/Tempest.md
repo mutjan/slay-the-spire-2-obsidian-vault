@@ -4,6 +4,7 @@ type:: "[[技能牌]]"
 character:: "[[故障机器人]]"
 rarity:: "[[稀有]]"
 energy_cost:: X
+aliases:: ["暴风雪"]
 ---
 
 

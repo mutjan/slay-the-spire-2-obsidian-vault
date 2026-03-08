@@ -4,6 +4,7 @@ type:: "[[能力牌]]"
 character:: "[[储君]]"
 rarity:: "[[]]"
 energy_cost:: 1
+aliases:: ["封印王座"]
 ---
 
 

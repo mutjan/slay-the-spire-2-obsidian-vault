@@ -4,6 +4,7 @@ type:: "[[技能牌]]"
 character:: "[[铁甲战士]]"
 rarity:: "[[罕见]]"
 energy_cost:: 0
+aliases:: ["祭品"]
 ---
 
 

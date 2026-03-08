@@ -4,6 +4,7 @@ type:: "[[技能牌]]"
 character:: "[[储君]]"
 rarity:: "[[]]"
 energy_cost:: 1
+aliases:: ["崇敬"]
 ---
 
 
