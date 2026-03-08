@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 修复 Markdown 表格中的 Obsidian 链接语法
-将 [[CardName|中文名]] 改为 [[CardName]]，依赖 aliases 自动解析
+将 [[CardName|中文名]] 改为 [[CardName\|中文名]]，使用 \| 转义避免表格冲突
 """
 
 import re
@@ -16,8 +16,8 @@ def fix_table_links_in_file(file_path):
     # 表格行以 | 开头
     def fix_table_line(match):
         line = match.group(0)
-        # 替换所有 [[原名|别名]] 为 [[原名]]
-        fixed_line = re.sub(r'\[\[([^\]|]+)\|([^\]]+)\]\]', r'[[\1]]', line)
+        # 替换所有 [[原名|别名]] 为 [[原名\|别名]]
+        fixed_line = re.sub(r'\[\[([^\]|]+)\|([^\]]+)\]\]', r'[[\1\\|\2]]', line)
         return fixed_line
 
     # 匹配表格行（以 | 开头的行）
