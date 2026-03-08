@@ -200,7 +200,7 @@ CARD_NAMES = {
 
     # 死灵契约师卡牌
     "Scourge": "天灾",
-    "Blight Strike": "枯萎打击",
+    "Blight Strike": "荒疫打击",
     "Deathbringer": "死亡使者",
     "Countdown": "倒计时",
     "End of Days": "末日",

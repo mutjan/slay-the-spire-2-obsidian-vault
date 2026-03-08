@@ -4,7 +4,7 @@ type:: "[[攻击牌]]"
 character:: "[[死灵契约师]]"
 rarity:: "[[普通]]"
 energy_cost:: 1
-aliases:: ["枯萎打击"]
+aliases:: ["荒疫打击"]
 ---
 
 
