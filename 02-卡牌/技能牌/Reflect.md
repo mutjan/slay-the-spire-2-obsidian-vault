@@ -4,7 +4,7 @@
 
 ## 基本信息
 
-- **所属角色**: [[摄政王]]
+- **所属角色**: [[储君]]
 - **卡牌类型**: [[技能牌]]
 - **稀有度**: [[稀有]]
 - **能量消耗**: 1
@@ -18,7 +18,7 @@ Gain 17 Block. Blocked attack damage is reflected to your attacker this turn.
 ```yaml
 name:: Reflect
 type:: [[技能牌]]
-character:: [[摄政王]]
+character:: [[储君]]
 rarity:: [[稀有]]
 energy_cost:: 1
 ```
@@ -29,8 +29,8 @@ energy_cost:: 1
 
 ## 标签
 
-#卡牌 #技能牌 #稀有 #摄政王
+#卡牌 #技能牌 #稀有 #储君
 
 ---
 
-*返回 [[卡牌目录]] | [[摄政王]]*
+*返回 [[卡牌目录]] | [[储君]]*

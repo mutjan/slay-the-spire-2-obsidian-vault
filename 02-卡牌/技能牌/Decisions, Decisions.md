@@ -4,7 +4,7 @@
 
 ## 基本信息
 
-- **所属角色**: [[摄政王]]
+- **所属角色**: [[储君]]
 - **卡牌类型**: [[技能牌]]
 - **稀有度**: [[罕见]]
 - **能量消耗**: 0
@@ -18,7 +18,7 @@ Draw 3 cards. Choose a Skill in your Hand and play it 3 times. Exhaust.
 ```yaml
 name:: Decisions, Decisions
 type:: [[技能牌]]
-character:: [[摄政王]]
+character:: [[储君]]
 rarity:: [[罕见]]
 energy_cost:: 0
 ```
@@ -29,8 +29,8 @@ energy_cost:: 0
 
 ## 标签
 
-#卡牌 #技能牌 #罕见 #摄政王
+#卡牌 #技能牌 #罕见 #储君
 
 ---
 
-*返回 [[卡牌目录]] | [[摄政王]]*
+*返回 [[卡牌目录]] | [[储君]]*

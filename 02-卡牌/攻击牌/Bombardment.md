@@ -4,7 +4,7 @@
 
 ## 基本信息
 
-- **所属角色**: [[摄政王]]
+- **所属角色**: [[储君]]
 - **卡牌类型**: [[攻击牌]]
 - **稀有度**: [[罕见]]
 - **能量消耗**: 3
@@ -18,7 +18,7 @@ Deal 18 damage. At the start of your turn, plays from the Exhaust Pile. Exhaust.
 ```yaml
 name:: Bombardment
 type:: [[攻击牌]]
-character:: [[摄政王]]
+character:: [[储君]]
 rarity:: [[罕见]]
 energy_cost:: 3
 ```
@@ -29,8 +29,8 @@ energy_cost:: 3
 
 ## 标签
 
-#卡牌 #攻击牌 #罕见 #摄政王
+#卡牌 #攻击牌 #罕见 #储君
 
 ---
 
-*返回 [[卡牌目录]] | [[摄政王]]*
+*返回 [[卡牌目录]] | [[储君]]*

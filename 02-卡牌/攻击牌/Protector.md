@@ -4,7 +4,7 @@
 
 ## 基本信息
 
-- **所属角色**: [[死灵法师]]
+- **所属角色**: [[死灵契约师]]
 - **卡牌类型**: [[攻击牌]]
 - **稀有度**: [[]]
 - **能量消耗**: 1
@@ -18,7 +18,7 @@ Osty deals 10 damage. Deals additional damage equal to Osty's Max HP.
 ```yaml
 name:: Protector
 type:: [[攻击牌]]
-character:: [[死灵法师]]
+character:: [[死灵契约师]]
 rarity:: [[]]
 energy_cost:: 1
 ```
@@ -29,8 +29,8 @@ energy_cost:: 1
 
 ## 标签
 
-#卡牌 #攻击牌 # #死灵法师
+#卡牌 #攻击牌 # #死灵契约师
 
 ---
 
-*返回 [[卡牌目录]] | [[死灵法师]]*
+*返回 [[卡牌目录]] | [[死灵契约师]]*

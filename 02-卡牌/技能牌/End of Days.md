@@ -4,7 +4,7 @@
 
 ## 基本信息
 
-- **所属角色**: [[死灵法师]]
+- **所属角色**: [[死灵契约师]]
 - **卡牌类型**: [[技能牌]]
 - **稀有度**: [[罕见]]
 - **能量消耗**: 3
@@ -18,7 +18,7 @@ Apply 29 Doom to ALL enemies. Kill enemies with at least as much Doom as HP.
 ```yaml
 name:: End of Days
 type:: [[技能牌]]
-character:: [[死灵法师]]
+character:: [[死灵契约师]]
 rarity:: [[罕见]]
 energy_cost:: 3
 ```
@@ -29,8 +29,8 @@ energy_cost:: 3
 
 ## 标签
 
-#卡牌 #技能牌 #罕见 #死灵法师
+#卡牌 #技能牌 #罕见 #死灵契约师
 
 ---
 
-*返回 [[卡牌目录]] | [[死灵法师]]*
+*返回 [[卡牌目录]] | [[死灵契约师]]*
