@@ -1,5 +1,3 @@
-# Bulwark
-
 ---
 name:: Bulwark
 type:: [[技能牌]]

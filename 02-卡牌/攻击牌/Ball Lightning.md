@@ -1,5 +1,3 @@
-# Ball Lightning
-
 ---
 name:: Ball Lightning
 type:: [[攻击牌]]

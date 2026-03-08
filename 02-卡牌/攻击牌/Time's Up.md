@@ -1,5 +1,3 @@
-# Time's Up
-
 ---
 name:: Time's Up
 type:: [[攻击牌]]

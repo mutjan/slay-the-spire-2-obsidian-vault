@@ -1,5 +1,3 @@
-# Shared Fate
-
 ---
 name:: Shared Fate
 type:: [[技能牌]]

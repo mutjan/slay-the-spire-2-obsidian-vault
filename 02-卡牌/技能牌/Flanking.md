@@ -1,5 +1,3 @@
-# Flanking
-
 ---
 name:: Flanking
 type:: [[技能牌]]

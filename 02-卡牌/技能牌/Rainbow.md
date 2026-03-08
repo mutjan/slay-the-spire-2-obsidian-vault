@@ -1,5 +1,3 @@
-# Rainbow
-
 ---
 name:: Rainbow
 type:: [[技能牌]]

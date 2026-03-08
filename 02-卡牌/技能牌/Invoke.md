@@ -1,5 +1,3 @@
-# Invoke
-
 ---
 name:: Invoke
 type:: [[技能牌]]

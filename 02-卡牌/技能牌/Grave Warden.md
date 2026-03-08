@@ -1,5 +1,3 @@
-# Grave Warden
-
 ---
 name:: Grave Warden
 type:: [[技能牌]]

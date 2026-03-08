@@ -1,5 +1,3 @@
-# Stratagem
-
 ---
 name:: Stratagem
 type:: [[能力牌]]

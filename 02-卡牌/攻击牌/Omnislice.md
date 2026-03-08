@@ -1,5 +1,3 @@
-# Omnislice
-
 ---
 name:: Omnislice
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Iron Wave
-
 ---
 name:: Iron Wave
 type:: [[攻击牌]]

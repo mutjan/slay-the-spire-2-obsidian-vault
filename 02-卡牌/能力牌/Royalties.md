@@ -1,5 +1,3 @@
-# Royalties
-
 ---
 name:: Royalties
 type:: [[能力牌]]

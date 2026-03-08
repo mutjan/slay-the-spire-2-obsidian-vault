@@ -1,5 +1,3 @@
-# Gamma Blast
-
 ---
 name:: Gamma Blast
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Black Hole
-
 ---
 name:: Black Hole
 type:: [[能力牌]]

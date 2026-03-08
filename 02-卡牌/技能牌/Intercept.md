@@ -1,5 +1,3 @@
-# Intercept
-
 ---
 name:: Intercept
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Ultimate Defend
-
 ---
 name:: Ultimate Defend
 type:: [[技能牌]]

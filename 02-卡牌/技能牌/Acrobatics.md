@@ -1,5 +1,3 @@
-# Acrobatics
-
 ---
 name:: Acrobatics
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Haze
-
 ---
 name:: Haze
 type:: [[技能牌]]

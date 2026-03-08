@@ -1,5 +1,3 @@
-# End of Days
-
 ---
 name:: End of Days
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Stampede
-
 ---
 name:: Stampede
 type:: [[能力牌]]

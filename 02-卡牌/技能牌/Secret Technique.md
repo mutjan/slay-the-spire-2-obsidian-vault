@@ -1,5 +1,3 @@
-# Secret Technique
-
 ---
 name:: Secret Technique
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Sword Sage
-
 ---
 name:: Sword Sage
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Buffer
-
 ---
 name:: Buffer
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Piercing Wail
-
 ---
 name:: Piercing Wail
 type:: [[技能牌]]

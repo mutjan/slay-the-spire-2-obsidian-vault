@@ -1,5 +1,3 @@
-# Up My Sleeve
-
 ---
 name:: Up My Sleeve
 type:: [[技能牌]]

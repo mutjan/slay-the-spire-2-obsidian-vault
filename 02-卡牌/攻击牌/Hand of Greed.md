@@ -1,5 +1,3 @@
-# Hand of Greed
-
 ---
 name:: Hand of Greed
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Hand Trick
-
 ---
 name:: Hand Trick
 type:: [[技能牌]]

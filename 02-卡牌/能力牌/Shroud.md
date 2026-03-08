@@ -1,5 +1,3 @@
-# Shroud
-
 ---
 name:: Shroud
 type:: [[能力牌]]

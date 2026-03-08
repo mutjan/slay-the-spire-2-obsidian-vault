@@ -1,5 +1,3 @@
-# Feed
-
 ---
 name:: Feed
 type:: [[攻击牌]]

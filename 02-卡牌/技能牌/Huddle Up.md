@@ -1,5 +1,3 @@
-# Huddle Up
-
 ---
 name:: Huddle Up
 type:: [[技能牌]]

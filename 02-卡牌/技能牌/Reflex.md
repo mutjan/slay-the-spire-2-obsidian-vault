@@ -1,5 +1,3 @@
-# Reflex
-
 ---
 name:: Reflex
 type:: [[技能牌]]

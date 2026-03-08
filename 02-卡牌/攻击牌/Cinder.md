@@ -1,5 +1,3 @@
-# Cinder
-
 ---
 name:: Cinder
 type:: [[攻击牌]]

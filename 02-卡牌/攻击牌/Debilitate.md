@@ -1,5 +1,3 @@
-# Debilitate
-
 ---
 name:: Debilitate
 type:: [[攻击牌]]

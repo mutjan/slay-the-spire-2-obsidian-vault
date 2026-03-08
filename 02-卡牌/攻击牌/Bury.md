@@ -1,5 +1,3 @@
-# Bury
-
 ---
 name:: Bury
 type:: [[攻击牌]]

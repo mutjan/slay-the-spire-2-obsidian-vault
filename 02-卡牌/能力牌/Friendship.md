@@ -1,5 +1,3 @@
-# Friendship
-
 ---
 name:: Friendship
 type:: [[能力牌]]

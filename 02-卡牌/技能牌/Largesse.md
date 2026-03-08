@@ -1,5 +1,3 @@
-# Largesse
-
 ---
 name:: Largesse
 type:: [[技能牌]]

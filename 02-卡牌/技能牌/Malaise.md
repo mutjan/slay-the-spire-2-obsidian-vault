@@ -1,5 +1,3 @@
-# Malaise
-
 ---
 name:: Malaise
 type:: [[技能牌]]

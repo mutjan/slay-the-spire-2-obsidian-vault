@@ -1,5 +1,3 @@
-# Master Planner
-
 ---
 name:: Master Planner
 type:: [[能力牌]]

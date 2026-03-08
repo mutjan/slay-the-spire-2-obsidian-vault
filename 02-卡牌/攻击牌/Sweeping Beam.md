@@ -1,5 +1,3 @@
-# Sweeping Beam
-
 ---
 name:: Sweeping Beam
 type:: [[攻击牌]]

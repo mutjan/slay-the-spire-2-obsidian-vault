@@ -1,5 +1,3 @@
-# Blade of Ink
-
 ---
 name:: Blade of Ink
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Charge Battery
-
 ---
 name:: Charge Battery
 type:: [[技能牌]]

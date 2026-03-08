@@ -1,5 +1,3 @@
-# Prolong
-
 ---
 name:: Prolong
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Suppress
-
 ---
 name:: Suppress
 type:: [[攻击牌]]

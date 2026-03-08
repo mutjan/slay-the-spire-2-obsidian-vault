@@ -1,5 +1,3 @@
-# Heavenly Drill
-
 ---
 name:: Heavenly Drill
 type:: [[攻击牌]]

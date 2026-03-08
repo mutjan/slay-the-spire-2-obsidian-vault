@@ -1,5 +1,3 @@
-# Foregone Conclusion
-
 ---
 name:: Foregone Conclusion
 type:: [[技能牌]]

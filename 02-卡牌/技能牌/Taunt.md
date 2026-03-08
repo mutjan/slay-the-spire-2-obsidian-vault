@@ -1,5 +1,3 @@
-# Taunt
-
 ---
 name:: Taunt
 type:: [[技能牌]]

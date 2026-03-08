@@ -1,5 +1,3 @@
-# Believe in You
-
 ---
 name:: Believe in You
 type:: [[技能牌]]

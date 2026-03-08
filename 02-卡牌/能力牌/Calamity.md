@@ -1,5 +1,3 @@
-# Calamity
-
 ---
 name:: Calamity
 type:: [[能力牌]]

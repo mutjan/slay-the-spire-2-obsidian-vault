@@ -1,5 +1,3 @@
-# Reaper Form
-
 ---
 name:: Reaper Form
 type:: [[能力牌]]

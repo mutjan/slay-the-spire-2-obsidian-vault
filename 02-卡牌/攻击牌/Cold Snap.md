@@ -1,5 +1,3 @@
-# Cold Snap
-
 ---
 name:: Cold Snap
 type:: [[攻击牌]]

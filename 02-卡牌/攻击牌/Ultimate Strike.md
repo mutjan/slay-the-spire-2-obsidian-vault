@@ -1,5 +1,3 @@
-# Ultimate Strike
-
 ---
 name:: Ultimate Strike
 type:: [[攻击牌]]

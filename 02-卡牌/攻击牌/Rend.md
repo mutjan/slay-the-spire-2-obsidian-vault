@@ -1,5 +1,3 @@
-# Rend
-
 ---
 name:: Rend
 type:: [[攻击牌]]

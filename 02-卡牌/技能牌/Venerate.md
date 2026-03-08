@@ -1,5 +1,3 @@
-# Venerate
-
 ---
 name:: Venerate
 type:: [[技能牌]]

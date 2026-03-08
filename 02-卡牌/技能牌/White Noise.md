@@ -1,5 +1,3 @@
-# White Noise
-
 ---
 name:: White Noise
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Offering
-
 ---
 name:: Offering
 type:: [[技能牌]]

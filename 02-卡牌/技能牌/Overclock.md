@@ -1,5 +1,3 @@
-# Overclock
-
 ---
 name:: Overclock
 type:: [[技能牌]]

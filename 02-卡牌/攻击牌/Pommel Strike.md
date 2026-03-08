@@ -1,5 +1,3 @@
-# Pommel Strike
-
 ---
 name:: Pommel Strike
 type:: [[攻击牌]]

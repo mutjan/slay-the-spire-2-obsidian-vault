@@ -1,5 +1,3 @@
-# Hang
-
 ---
 name:: Hang
 type:: [[攻击牌]]

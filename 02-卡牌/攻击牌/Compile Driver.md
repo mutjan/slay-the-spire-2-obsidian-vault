@@ -1,5 +1,3 @@
-# Compile Driver
-
 ---
 name:: Compile Driver
 type:: [[攻击牌]]

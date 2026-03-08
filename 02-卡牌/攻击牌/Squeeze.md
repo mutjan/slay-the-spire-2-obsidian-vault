@@ -1,5 +1,3 @@
-# Squeeze
-
 ---
 name:: Squeeze
 type:: [[攻击牌]]

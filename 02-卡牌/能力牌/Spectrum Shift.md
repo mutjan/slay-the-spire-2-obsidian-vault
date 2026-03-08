@@ -1,5 +1,3 @@
-# Spectrum Shift
-
 ---
 name:: Spectrum Shift
 type:: [[能力牌]]

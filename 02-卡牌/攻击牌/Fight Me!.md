@@ -1,5 +1,3 @@
-# Fight Me!
-
 ---
 name:: Fight Me!
 type:: [[攻击牌]]

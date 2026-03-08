@@ -1,5 +1,3 @@
-# Adaptive Strike
-
 ---
 name:: Adaptive Strike
 type:: [[攻击牌]]

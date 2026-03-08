@@ -1,5 +1,3 @@
-# Crimson Mantle
-
 ---
 name:: Crimson Mantle
 type:: [[能力牌]]

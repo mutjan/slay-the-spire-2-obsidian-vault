@@ -1,5 +1,3 @@
-# Bullet Time
-
 ---
 name:: Bullet Time
 type:: [[技能牌]]

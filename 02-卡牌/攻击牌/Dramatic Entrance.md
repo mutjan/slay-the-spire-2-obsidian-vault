@@ -1,5 +1,3 @@
-# Dramatic Entrance
-
 ---
 name:: Dramatic Entrance
 type:: [[攻击牌]]

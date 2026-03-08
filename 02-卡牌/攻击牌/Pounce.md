@@ -1,5 +1,3 @@
-# Pounce
-
 ---
 name:: Pounce
 type:: [[攻击牌]]

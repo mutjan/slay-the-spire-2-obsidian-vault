@@ -1,5 +1,3 @@
-# Automation
-
 ---
 name:: Automation
 type:: [[能力牌]]

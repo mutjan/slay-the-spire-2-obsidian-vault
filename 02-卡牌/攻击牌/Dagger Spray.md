@@ -1,5 +1,3 @@
-# Dagger Spray
-
 ---
 name:: Dagger Spray
 type:: [[攻击牌]]

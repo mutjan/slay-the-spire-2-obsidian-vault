@@ -1,5 +1,3 @@
-# Stoke
-
 ---
 name:: Stoke
 type:: [[技能牌]]

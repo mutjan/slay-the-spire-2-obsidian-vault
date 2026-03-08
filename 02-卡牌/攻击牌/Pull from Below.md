@@ -1,5 +1,3 @@
-# Pull from Below
-
 ---
 name:: Pull from Below
 type:: [[攻击牌]]

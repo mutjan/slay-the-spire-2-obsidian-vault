@@ -1,5 +1,3 @@
-# Second Wind
-
 ---
 name:: Second Wind
 type:: [[技能牌]]

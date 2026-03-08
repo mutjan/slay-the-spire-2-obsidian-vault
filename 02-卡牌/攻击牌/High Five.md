@@ -1,5 +1,3 @@
-# High Five
-
 ---
 name:: High Five
 type:: [[攻击牌]]

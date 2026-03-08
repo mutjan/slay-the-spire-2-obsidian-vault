@@ -1,5 +1,3 @@
-# Dualcast
-
 ---
 name:: Dualcast
 type:: [[技能牌]]

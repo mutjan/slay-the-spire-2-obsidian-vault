@@ -1,5 +1,3 @@
-# Modded
-
 ---
 name:: Modded
 type:: [[技能牌]]

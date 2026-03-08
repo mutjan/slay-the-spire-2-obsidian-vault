@@ -1,5 +1,3 @@
-# Necro Mastery
-
 ---
 name:: Necro Mastery
 type:: [[能力牌]]

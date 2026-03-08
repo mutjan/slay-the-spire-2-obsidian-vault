@@ -1,5 +1,3 @@
-# Furnace
-
 ---
 name:: Furnace
 type:: [[能力牌]]

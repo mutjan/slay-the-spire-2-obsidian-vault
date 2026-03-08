@@ -1,5 +1,3 @@
-# Rocket Punch
-
 ---
 name:: Rocket Punch
 type:: [[攻击牌]]

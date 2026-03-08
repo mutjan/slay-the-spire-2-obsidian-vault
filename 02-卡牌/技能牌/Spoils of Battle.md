@@ -1,5 +1,3 @@
-# Spoils of Battle
-
 ---
 name:: Spoils of Battle
 type:: [[技能牌]]

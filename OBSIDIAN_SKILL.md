@@ -37,17 +37,17 @@ Generate rich markdown files with:
 - Enables dynamic queries and relationship mapping
 - Supports linking: `author:: [[Person Name]]`
 
-**Frontmatter YAML** (必须放在文件顶部，紧跟标题后):
+**Frontmatter YAML** (必须放在文件最开头):
 ```yaml
 ---
-title: Page Title
-category: Category
-tags: [tag1, tag2]
-created: 2024-01-01
+name:: Entity Name
+type:: [[Entity Type]]
+category:: [[Category]]
+created:: 2024-01-01
 ---
 ```
 
-**重要**: YAML frontmatter 应该放在文件顶部，在 `# 标题` 之后。这样 Dataview 插件才能正确读取元数据。
+**重要**: YAML frontmatter 必须是文件的第一行内容（前面不能有 `# 标题` 或其他内容），这样 Dataview 插件才能正确读取元数据。文件名本身已经包含了标题信息，所以不需要重复的一级标题。
 
 ### 3. Dataview Query Integration
 
@@ -106,9 +106,8 @@ Use Python scripts to batch-generate markdown files:
 def create_entity_file(vault_path, entity_name, entity_data, category):
     file_path = vault_path / category / f"{entity_name}.md"
 
-    content = f"""# {entity_name}
-
----
+    # YAML frontmatter 放在文件最开头，不要加 # 标题
+    content = f"""---
 name:: {entity_name}
 type:: [[{entity_data['type']}]]
 category:: [[{entity_data['category']}]]

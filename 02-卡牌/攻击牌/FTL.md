@@ -1,5 +1,3 @@
-# FTL
-
 ---
 name:: FTL
 type:: [[攻击牌]]

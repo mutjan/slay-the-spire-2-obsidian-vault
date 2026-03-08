@@ -1,5 +1,3 @@
-# Kingly Kick
-
 ---
 name:: Kingly Kick
 type:: [[攻击牌]]

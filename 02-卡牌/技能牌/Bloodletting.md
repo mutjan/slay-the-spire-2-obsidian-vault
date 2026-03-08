@@ -1,5 +1,3 @@
-# Bloodletting
-
 ---
 name:: Bloodletting
 type:: [[技能牌]]

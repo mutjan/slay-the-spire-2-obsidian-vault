@@ -1,5 +1,3 @@
-# Sword Boomerang
-
 ---
 name:: Sword Boomerang
 type:: [[攻击牌]]

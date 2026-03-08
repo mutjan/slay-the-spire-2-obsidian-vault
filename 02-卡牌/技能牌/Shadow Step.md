@@ -1,5 +1,3 @@
-# Shadow Step
-
 ---
 name:: Shadow Step
 type:: [[技能牌]]

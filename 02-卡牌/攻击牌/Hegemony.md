@@ -1,5 +1,3 @@
-# Hegemony
-
 ---
 name:: Hegemony
 type:: [[攻击牌]]

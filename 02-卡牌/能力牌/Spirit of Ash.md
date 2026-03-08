@@ -1,5 +1,3 @@
-# Spirit of Ash
-
 ---
 name:: Spirit of Ash
 type:: [[能力牌]]

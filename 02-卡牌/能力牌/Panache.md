@@ -1,5 +1,3 @@
-# Panache
-
 ---
 name:: Panache
 type:: [[能力牌]]

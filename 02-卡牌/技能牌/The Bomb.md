@@ -1,5 +1,3 @@
-# The Bomb
-
 ---
 name:: The Bomb
 type:: [[技能牌]]

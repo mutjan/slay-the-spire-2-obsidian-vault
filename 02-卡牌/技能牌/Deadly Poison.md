@@ -1,5 +1,3 @@
-# Deadly Poison
-
 ---
 name:: Deadly Poison
 type:: [[技能牌]]

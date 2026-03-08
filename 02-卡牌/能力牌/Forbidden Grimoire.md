@@ -1,5 +1,3 @@
-# Forbidden Grimoire
-
 ---
 name:: Forbidden Grimoire
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Negative Pulse
-
 ---
 name:: Negative Pulse
 type:: [[技能牌]]

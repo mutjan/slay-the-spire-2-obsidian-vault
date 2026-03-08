@@ -1,5 +1,3 @@
-# Void Form
-
 ---
 name:: Void Form
 type:: [[能力牌]]

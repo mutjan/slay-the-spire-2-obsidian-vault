@@ -1,5 +1,3 @@
-# Mirage
-
 ---
 name:: Mirage
 type:: [[技能牌]]

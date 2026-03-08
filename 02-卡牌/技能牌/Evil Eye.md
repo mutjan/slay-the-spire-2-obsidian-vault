@@ -1,5 +1,3 @@
-# Evil Eye
-
 ---
 name:: Evil Eye
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Borrowed Time
-
 ---
 name:: Borrowed Time
 type:: [[技能牌]]

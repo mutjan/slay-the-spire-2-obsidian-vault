@@ -1,5 +1,3 @@
-# Snakebite
-
 ---
 name:: Snakebite
 type:: [[技能牌]]

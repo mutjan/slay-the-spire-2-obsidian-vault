@@ -1,5 +1,3 @@
-# Glimpse Beyond
-
 ---
 name:: Glimpse Beyond
 type:: [[技能牌]]

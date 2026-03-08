@@ -1,5 +1,3 @@
-# Beam Cell
-
 ---
 name:: Beam Cell
 type:: [[攻击牌]]

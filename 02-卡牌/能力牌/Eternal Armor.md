@@ -1,5 +1,3 @@
-# Eternal Armor
-
 ---
 name:: Eternal Armor
 type:: [[能力牌]]

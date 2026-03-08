@@ -1,5 +1,3 @@
-# Dismantle
-
 ---
 name:: Dismantle
 type:: [[攻击牌]]

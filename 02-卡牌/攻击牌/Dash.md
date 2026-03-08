@@ -1,5 +1,3 @@
-# Dash
-
 ---
 name:: Dash
 type:: [[攻击牌]]

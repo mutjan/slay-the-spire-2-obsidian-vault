@@ -1,5 +1,3 @@
-# Kingly Punch
-
 ---
 name:: Kingly Punch
 type:: [[攻击牌]]

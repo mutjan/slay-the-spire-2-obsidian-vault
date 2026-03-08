@@ -1,5 +1,3 @@
-# Hidden Gem
-
 ---
 name:: Hidden Gem
 type:: [[技能牌]]

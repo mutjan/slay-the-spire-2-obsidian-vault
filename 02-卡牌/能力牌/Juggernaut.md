@@ -1,5 +1,3 @@
-# Juggernaut
-
 ---
 name:: Juggernaut
 type:: [[能力牌]]

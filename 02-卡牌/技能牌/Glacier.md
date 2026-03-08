@@ -1,5 +1,3 @@
-# Glacier
-
 ---
 name:: Glacier
 type:: [[技能牌]]

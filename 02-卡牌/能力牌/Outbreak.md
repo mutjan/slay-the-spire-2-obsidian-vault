@@ -1,5 +1,3 @@
-# Outbreak
-
 ---
 name:: Outbreak
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Right Hand Hand
-
 ---
 name:: Right Hand Hand
 type:: [[攻击牌]]

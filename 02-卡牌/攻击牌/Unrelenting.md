@@ -1,5 +1,3 @@
-# Unrelenting
-
 ---
 name:: Unrelenting
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Burning Pact
-
 ---
 name:: Burning Pact
 type:: [[技能牌]]

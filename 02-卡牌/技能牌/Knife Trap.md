@@ -1,5 +1,3 @@
-# Knife Trap
-
 ---
 name:: Knife Trap
 type:: [[技能牌]]

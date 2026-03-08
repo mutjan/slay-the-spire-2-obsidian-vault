@@ -1,5 +1,3 @@
-# Finesse
-
 ---
 name:: Finesse
 type:: [[技能牌]]

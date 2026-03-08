@@ -1,5 +1,3 @@
-# Glimmer
-
 ---
 name:: Glimmer
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Danse Macabre
-
 ---
 name:: Danse Macabre
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Demonic Shield
-
 ---
 name:: Demonic Shield
 type:: [[技能牌]]

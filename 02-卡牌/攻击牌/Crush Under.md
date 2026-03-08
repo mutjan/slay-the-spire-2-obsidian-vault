@@ -1,5 +1,3 @@
-# Crush Under
-
 ---
 name:: Crush Under
 type:: [[攻击牌]]

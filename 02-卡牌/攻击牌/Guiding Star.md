@@ -1,5 +1,3 @@
-# Guiding Star
-
 ---
 name:: Guiding Star
 type:: [[攻击牌]]

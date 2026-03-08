@@ -1,5 +1,3 @@
-# Scrape
-
 ---
 name:: Scrape
 type:: [[攻击牌]]

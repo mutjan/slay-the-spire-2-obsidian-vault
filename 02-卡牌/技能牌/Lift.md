@@ -1,5 +1,3 @@
-# Lift
-
 ---
 name:: Lift
 type:: [[技能牌]]

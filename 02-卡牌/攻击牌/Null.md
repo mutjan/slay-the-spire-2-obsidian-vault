@@ -1,5 +1,3 @@
-# Null
-
 ---
 name:: Null
 type:: [[攻击牌]]

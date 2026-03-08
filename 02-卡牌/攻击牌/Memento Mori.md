@@ -1,5 +1,3 @@
-# Memento Mori
-
 ---
 name:: Memento Mori
 type:: [[攻击牌]]

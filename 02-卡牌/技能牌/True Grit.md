@@ -1,5 +1,3 @@
-# True Grit
-
 ---
 name:: True Grit
 type:: [[技能牌]]

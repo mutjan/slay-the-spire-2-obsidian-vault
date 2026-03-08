@@ -1,5 +1,3 @@
-# Consuming Shadow
-
 ---
 name:: Consuming Shadow
 type:: [[能力牌]]

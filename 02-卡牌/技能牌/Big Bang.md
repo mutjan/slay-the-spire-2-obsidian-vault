@@ -1,5 +1,3 @@
-# Big Bang
-
 ---
 name:: Big Bang
 type:: [[技能牌]]

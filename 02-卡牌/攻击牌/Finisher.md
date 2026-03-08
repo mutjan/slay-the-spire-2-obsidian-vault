@@ -1,5 +1,3 @@
-# Finisher
-
 ---
 name:: Finisher
 type:: [[攻击牌]]

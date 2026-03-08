@@ -1,5 +1,3 @@
-# Pact's End
-
 ---
 name:: Pact's End
 type:: [[攻击牌]]

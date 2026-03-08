@@ -1,5 +1,3 @@
-# Flechettes
-
 ---
 name:: Flechettes
 type:: [[攻击牌]]

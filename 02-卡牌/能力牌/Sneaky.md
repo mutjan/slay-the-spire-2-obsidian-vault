@@ -1,5 +1,3 @@
-# Sneaky
-
 ---
 name:: Sneaky
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Manifest Authority
-
 ---
 name:: Manifest Authority
 type:: [[技能牌]]

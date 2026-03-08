@@ -1,5 +1,3 @@
-# Ignition
-
 ---
 name:: Ignition
 type:: [[技能牌]]

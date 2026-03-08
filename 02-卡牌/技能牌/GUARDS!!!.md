@@ -1,5 +1,3 @@
-# GUARDS!!!
-
 ---
 name:: GUARDS!!!
 type:: [[技能牌]]

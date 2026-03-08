@@ -1,5 +1,3 @@
-# Afterimage
-
 ---
 name:: Afterimage
 type:: [[能力牌]]

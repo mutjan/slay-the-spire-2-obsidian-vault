@@ -1,5 +1,3 @@
-# Seance
-
 ---
 name:: Seance
 type:: [[技能牌]]

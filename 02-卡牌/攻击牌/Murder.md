@@ -1,5 +1,3 @@
-# Murder
-
 ---
 name:: Murder
 type:: [[攻击牌]]

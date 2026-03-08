@@ -1,5 +1,3 @@
-# Sucker Punch
-
 ---
 name:: Sucker Punch
 type:: [[攻击牌]]

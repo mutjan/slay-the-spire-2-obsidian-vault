@@ -1,5 +1,3 @@
-# Alignment
-
 ---
 name:: Alignment
 type:: [[技能牌]]

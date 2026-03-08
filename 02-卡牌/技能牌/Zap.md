@@ -1,5 +1,3 @@
-# Zap
-
 ---
 name:: Zap
 type:: [[技能牌]]

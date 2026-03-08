@@ -1,5 +1,3 @@
-# Echoing Slash
-
 ---
 name:: Echoing Slash
 type:: [[攻击牌]]

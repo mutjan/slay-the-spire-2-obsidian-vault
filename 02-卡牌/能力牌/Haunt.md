@@ -1,5 +1,3 @@
-# Haunt
-
 ---
 name:: Haunt
 type:: [[能力牌]]

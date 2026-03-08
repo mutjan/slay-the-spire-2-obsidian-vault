@@ -1,5 +1,3 @@
-# Dagger Throw
-
 ---
 name:: Dagger Throw
 type:: [[攻击牌]]

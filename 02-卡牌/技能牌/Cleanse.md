@@ -1,5 +1,3 @@
-# Cleanse
-
 ---
 name:: Cleanse
 type:: [[技能牌]]

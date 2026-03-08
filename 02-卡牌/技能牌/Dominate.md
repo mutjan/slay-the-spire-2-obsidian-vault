@@ -1,5 +1,3 @@
-# Dominate
-
 ---
 name:: Dominate
 type:: [[技能牌]]

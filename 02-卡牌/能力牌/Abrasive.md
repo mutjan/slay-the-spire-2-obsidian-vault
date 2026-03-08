@@ -1,5 +1,3 @@
-# Abrasive
-
 ---
 name:: Abrasive
 type:: [[能力牌]]

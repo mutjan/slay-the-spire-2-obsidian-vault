@@ -1,5 +1,3 @@
-# Pull Aggro
-
 ---
 name:: Pull Aggro
 type:: [[技能牌]]

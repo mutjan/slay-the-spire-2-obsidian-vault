@@ -1,5 +1,3 @@
-# Forgotten Ritual
-
 ---
 name:: Forgotten Ritual
 type:: [[技能牌]]

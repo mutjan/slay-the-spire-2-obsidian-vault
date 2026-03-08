@@ -1,5 +1,3 @@
-# The Scythe
-
 ---
 name:: The Scythe
 type:: [[攻击牌]]

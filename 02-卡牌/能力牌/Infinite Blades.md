@@ -1,5 +1,3 @@
-# Infinite Blades
-
 ---
 name:: Infinite Blades
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Wrought in War
-
 ---
 name:: Wrought in War
 type:: [[攻击牌]]

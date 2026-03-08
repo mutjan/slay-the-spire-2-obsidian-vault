@@ -1,5 +1,3 @@
-# Coordinate
-
 ---
 name:: Coordinate
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Feral
-
 ---
 name:: Feral
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Fight Through
-
 ---
 name:: Fight Through
 type:: [[技能牌]]

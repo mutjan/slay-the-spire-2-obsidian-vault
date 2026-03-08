@@ -1,5 +1,3 @@
-# Unleash
-
 ---
 name:: Unleash
 type:: [[攻击牌]]

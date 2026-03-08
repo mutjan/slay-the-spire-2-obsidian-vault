@@ -1,5 +1,3 @@
-# Restlessness
-
 ---
 name:: Restlessness
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Compact
-
 ---
 name:: Compact
 type:: [[技能牌]]

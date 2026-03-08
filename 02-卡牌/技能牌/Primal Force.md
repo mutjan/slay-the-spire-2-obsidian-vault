@@ -1,5 +1,3 @@
-# Primal Force
-
 ---
 name:: Primal Force
 type:: [[技能牌]]

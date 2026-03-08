@@ -1,5 +1,3 @@
-# Grand Finale
-
 ---
 name:: Grand Finale
 type:: [[攻击牌]]

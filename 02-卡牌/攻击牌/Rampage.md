@@ -1,5 +1,3 @@
-# Rampage
-
 ---
 name:: Rampage
 type:: [[攻击牌]]

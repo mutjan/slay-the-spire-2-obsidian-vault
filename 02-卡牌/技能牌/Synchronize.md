@@ -1,5 +1,3 @@
-# Synchronize
-
 ---
 name:: Synchronize
 type:: [[技能牌]]

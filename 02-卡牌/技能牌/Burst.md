@@ -1,5 +1,3 @@
-# Burst
-
 ---
 name:: Burst
 type:: [[技能牌]]

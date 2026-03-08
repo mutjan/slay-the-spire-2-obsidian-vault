@@ -1,5 +1,3 @@
-# Defragment
-
 ---
 name:: Defragment
 type:: [[能力牌]]

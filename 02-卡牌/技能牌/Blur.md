@@ -1,5 +1,3 @@
-# Blur
-
 ---
 name:: Blur
 type:: [[技能牌]]

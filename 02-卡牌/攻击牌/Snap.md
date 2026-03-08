@@ -1,5 +1,3 @@
-# Snap
-
 ---
 name:: Snap
 type:: [[攻击牌]]

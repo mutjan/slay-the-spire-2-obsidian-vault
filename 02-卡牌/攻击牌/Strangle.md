@@ -1,5 +1,3 @@
-# Strangle
-
 ---
 name:: Strangle
 type:: [[攻击牌]]

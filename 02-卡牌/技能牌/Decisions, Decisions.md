@@ -1,5 +1,3 @@
-# Decisions, Decisions
-
 ---
 name:: Decisions, Decisions
 type:: [[技能牌]]

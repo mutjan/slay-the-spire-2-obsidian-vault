@@ -1,5 +1,3 @@
-# Glow
-
 ---
 name:: Glow
 type:: [[技能牌]]

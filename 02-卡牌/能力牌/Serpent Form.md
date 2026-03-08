@@ -1,5 +1,3 @@
-# Serpent Form
-
 ---
 name:: Serpent Form
 type:: [[能力牌]]

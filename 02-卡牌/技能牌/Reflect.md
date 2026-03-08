@@ -1,5 +1,3 @@
-# Reflect
-
 ---
 name:: Reflect
 type:: [[技能牌]]

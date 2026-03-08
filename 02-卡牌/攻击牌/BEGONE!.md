@@ -1,5 +1,3 @@
-# BEGONE!
-
 ---
 name:: BEGONE!
 type:: [[攻击牌]]

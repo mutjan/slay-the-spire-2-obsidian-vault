@@ -1,5 +1,3 @@
-# Impatience
-
 ---
 name:: Impatience
 type:: [[技能牌]]

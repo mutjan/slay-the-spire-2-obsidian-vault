@@ -1,5 +1,3 @@
-# Tag Team
-
 ---
 name:: Tag Team
 type:: [[攻击牌]]

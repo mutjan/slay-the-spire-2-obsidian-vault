@@ -1,5 +1,3 @@
-# Expose
-
 ---
 name:: Expose
 type:: [[技能牌]]

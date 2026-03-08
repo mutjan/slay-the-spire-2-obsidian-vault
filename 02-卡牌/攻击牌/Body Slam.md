@@ -1,5 +1,3 @@
-# Body Slam
-
 ---
 name:: Body Slam
 type:: [[攻击牌]]

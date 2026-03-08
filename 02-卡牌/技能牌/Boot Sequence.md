@@ -1,5 +1,3 @@
-# Boot Sequence
-
 ---
 name:: Boot Sequence
 type:: [[技能牌]]

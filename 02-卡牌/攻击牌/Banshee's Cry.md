@@ -1,5 +1,3 @@
-# Banshee's Cry
-
 ---
 name:: Banshee's Cry
 type:: [[攻击牌]]

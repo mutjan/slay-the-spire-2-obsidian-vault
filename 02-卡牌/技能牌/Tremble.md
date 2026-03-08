@@ -1,5 +1,3 @@
-# Tremble
-
 ---
 name:: Tremble
 type:: [[技能牌]]

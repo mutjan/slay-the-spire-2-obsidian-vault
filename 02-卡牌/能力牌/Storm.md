@@ -1,5 +1,3 @@
-# Storm
-
 ---
 name:: Storm
 type:: [[能力牌]]

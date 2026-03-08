@@ -1,5 +1,3 @@
-# Fear
-
 ---
 name:: Fear
 type:: [[攻击牌]]

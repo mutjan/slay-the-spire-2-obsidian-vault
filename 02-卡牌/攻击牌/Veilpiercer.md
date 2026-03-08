@@ -1,5 +1,3 @@
-# Veilpiercer
-
 ---
 name:: Veilpiercer
 type:: [[攻击牌]]

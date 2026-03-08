@@ -1,5 +1,3 @@
-# Noxious Fumes
-
 ---
 name:: Noxious Fumes
 type:: [[能力牌]]

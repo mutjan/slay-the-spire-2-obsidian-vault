@@ -1,5 +1,3 @@
-# Master of Strategy
-
 ---
 name:: Master of Strategy
 type:: [[技能牌]]

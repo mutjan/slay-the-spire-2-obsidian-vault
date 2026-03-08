@@ -1,5 +1,3 @@
-# Hyperbeam
-
 ---
 name:: Hyperbeam
 type:: [[攻击牌]]

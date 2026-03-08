@@ -1,5 +1,3 @@
-# Nightmare
-
 ---
 name:: Nightmare
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Equilibrium
-
 ---
 name:: Equilibrium
 type:: [[技能牌]]

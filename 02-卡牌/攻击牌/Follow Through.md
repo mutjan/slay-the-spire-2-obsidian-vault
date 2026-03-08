@@ -1,5 +1,3 @@
-# Follow Through
-
 ---
 name:: Follow Through
 type:: [[攻击牌]]

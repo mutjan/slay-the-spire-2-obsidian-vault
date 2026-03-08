@@ -1,5 +1,3 @@
-# Cosmic Indifference
-
 ---
 name:: Cosmic Indifference
 type:: [[技能牌]]

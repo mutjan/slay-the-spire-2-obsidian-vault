@@ -1,5 +1,3 @@
-# Photon Cut
-
 ---
 name:: Photon Cut
 type:: [[攻击牌]]

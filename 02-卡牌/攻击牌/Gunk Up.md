@@ -1,5 +1,3 @@
-# Gunk Up
-
 ---
 name:: Gunk Up
 type:: [[攻击牌]]

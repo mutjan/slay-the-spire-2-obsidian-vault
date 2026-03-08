@@ -1,5 +1,3 @@
-# Speedster
-
 ---
 name:: Speedster
 type:: [[能力牌]]

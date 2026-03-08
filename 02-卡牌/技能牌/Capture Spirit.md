@@ -1,5 +1,3 @@
-# Capture Spirit
-
 ---
 name:: Capture Spirit
 type:: [[技能牌]]

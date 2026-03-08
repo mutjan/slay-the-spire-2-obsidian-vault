@@ -1,5 +1,3 @@
-# Conflagration
-
 ---
 name:: Conflagration
 type:: [[攻击牌]]

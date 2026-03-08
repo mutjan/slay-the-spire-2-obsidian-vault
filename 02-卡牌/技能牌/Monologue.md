@@ -1,5 +1,3 @@
-# Monologue
-
 ---
 name:: Monologue
 type:: [[技能牌]]

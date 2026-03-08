@@ -1,5 +1,3 @@
-# Brand
-
 ---
 name:: Brand
 type:: [[技能牌]]

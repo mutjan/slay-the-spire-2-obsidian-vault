@@ -1,5 +1,3 @@
-# Pinpoint
-
 ---
 name:: Pinpoint
 type:: [[攻击牌]]

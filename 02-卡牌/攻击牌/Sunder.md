@@ -1,5 +1,3 @@
-# Sunder
-
 ---
 name:: Sunder
 type:: [[攻击牌]]

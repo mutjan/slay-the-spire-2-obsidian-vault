@@ -1,5 +1,3 @@
-# Escape Plan
-
 ---
 name:: Escape Plan
 type:: [[技能牌]]

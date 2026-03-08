@@ -1,5 +1,3 @@
-# Uproar
-
 ---
 name:: Uproar
 type:: [[攻击牌]]

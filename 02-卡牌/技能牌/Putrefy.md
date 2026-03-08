@@ -1,5 +1,3 @@
-# Putrefy
-
 ---
 name:: Putrefy
 type:: [[技能牌]]

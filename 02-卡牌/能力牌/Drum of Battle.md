@@ -1,5 +1,3 @@
-# Drum of Battle
-
 ---
 name:: Drum of Battle
 type:: [[能力牌]]

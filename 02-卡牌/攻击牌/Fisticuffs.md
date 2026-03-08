@@ -1,5 +1,3 @@
-# Fisticuffs
-
 ---
 name:: Fisticuffs
 type:: [[攻击牌]]

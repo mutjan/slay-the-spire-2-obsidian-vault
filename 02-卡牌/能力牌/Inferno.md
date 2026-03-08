@@ -1,5 +1,3 @@
-# Inferno
-
 ---
 name:: Inferno
 type:: [[能力牌]]

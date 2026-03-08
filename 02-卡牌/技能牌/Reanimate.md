@@ -1,5 +1,3 @@
-# Reanimate
-
 ---
 name:: Reanimate
 type:: [[技能牌]]

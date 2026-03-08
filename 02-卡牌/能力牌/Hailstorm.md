@@ -1,5 +1,3 @@
-# Hailstorm
-
 ---
 name:: Hailstorm
 type:: [[能力牌]]

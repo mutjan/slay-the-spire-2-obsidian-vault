@@ -1,5 +1,3 @@
-# Expect a Fight
-
 ---
 name:: Expect a Fight
 type:: [[技能牌]]

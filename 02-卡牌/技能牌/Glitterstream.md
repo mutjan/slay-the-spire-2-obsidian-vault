@@ -1,5 +1,3 @@
-# Glitterstream
-
 ---
 name:: Glitterstream
 type:: [[技能牌]]

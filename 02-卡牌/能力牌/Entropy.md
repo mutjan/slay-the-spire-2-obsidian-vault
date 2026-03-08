@@ -1,5 +1,3 @@
-# Entropy
-
 ---
 name:: Entropy
 type:: [[能力牌]]

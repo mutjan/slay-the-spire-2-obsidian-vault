@@ -1,5 +1,3 @@
-# Subroutine
-
 ---
 name:: Subroutine
 type:: [[能力牌]]

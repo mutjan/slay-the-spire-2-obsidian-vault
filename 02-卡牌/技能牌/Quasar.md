@@ -1,5 +1,3 @@
-# Quasar
-
 ---
 name:: Quasar
 type:: [[技能牌]]

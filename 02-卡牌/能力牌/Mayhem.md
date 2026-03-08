@@ -1,5 +1,3 @@
-# Mayhem
-
 ---
 name:: Mayhem
 type:: [[能力牌]]

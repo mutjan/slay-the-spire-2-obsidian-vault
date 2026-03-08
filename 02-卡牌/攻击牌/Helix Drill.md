@@ -1,5 +1,3 @@
-# Helix Drill
-
 ---
 name:: Helix Drill
 type:: [[攻击牌]]

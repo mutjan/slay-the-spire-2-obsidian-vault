@@ -1,5 +1,3 @@
-# Twin Strike
-
 ---
 name:: Twin Strike
 type:: [[攻击牌]]

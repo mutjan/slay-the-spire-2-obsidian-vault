@@ -1,5 +1,3 @@
-# Corrosive Wave
-
 ---
 name:: Corrosive Wave
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Infernal Blade
-
 ---
 name:: Infernal Blade
 type:: [[技能牌]]

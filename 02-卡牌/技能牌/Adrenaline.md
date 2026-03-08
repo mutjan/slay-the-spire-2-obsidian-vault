@@ -1,5 +1,3 @@
-# Adrenaline
-
 ---
 name:: Adrenaline
 type:: [[技能牌]]

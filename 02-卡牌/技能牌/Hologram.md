@@ -1,5 +1,3 @@
-# Hologram
-
 ---
 name:: Hologram
 type:: [[技能牌]]

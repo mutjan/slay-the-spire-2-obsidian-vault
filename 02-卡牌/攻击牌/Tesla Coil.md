@@ -1,5 +1,3 @@
-# Tesla Coil
-
 ---
 name:: Tesla Coil
 type:: [[攻击牌]]

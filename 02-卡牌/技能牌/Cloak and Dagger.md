@@ -1,5 +1,3 @@
-# Cloak and Dagger
-
 ---
 name:: Cloak and Dagger
 type:: [[技能牌]]

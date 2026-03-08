@@ -1,5 +1,3 @@
-# Poke
-
 ---
 name:: Poke
 type:: [[攻击牌]]

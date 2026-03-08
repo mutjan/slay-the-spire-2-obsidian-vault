@@ -1,5 +1,3 @@
-# Scavenge
-
 ---
 name:: Scavenge
 type:: [[技能牌]]

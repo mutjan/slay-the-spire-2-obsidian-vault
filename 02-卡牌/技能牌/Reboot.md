@@ -1,5 +1,3 @@
-# Reboot
-
 ---
 name:: Reboot
 type:: [[技能牌]]

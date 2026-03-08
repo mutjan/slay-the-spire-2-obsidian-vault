@@ -1,5 +1,3 @@
-# Conqueror
-
 ---
 name:: Conqueror
 type:: [[技能牌]]

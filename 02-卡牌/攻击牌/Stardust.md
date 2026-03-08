@@ -1,5 +1,3 @@
-# Stardust
-
 ---
 name:: Stardust
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Pyre
-
 ---
 name:: Pyre
 type:: [[能力牌]]

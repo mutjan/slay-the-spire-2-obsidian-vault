@@ -1,5 +1,3 @@
-# Tank
-
 ---
 name:: Tank
 type:: [[能力牌]]

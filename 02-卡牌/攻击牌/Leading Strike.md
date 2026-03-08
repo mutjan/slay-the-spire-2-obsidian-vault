@@ -1,5 +1,3 @@
-# Leading Strike
-
 ---
 name:: Leading Strike
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Machine Learning
-
 ---
 name:: Machine Learning
 type:: [[能力牌]]

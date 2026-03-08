@@ -1,5 +1,3 @@
-# Skewer
-
 ---
 name:: Skewer
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Multi-Cast
-
 ---
 name:: Multi-Cast
 type:: [[技能牌]]

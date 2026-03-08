@@ -1,5 +1,3 @@
-# Reave
-
 ---
 name:: Reave
 type:: [[攻击牌]]

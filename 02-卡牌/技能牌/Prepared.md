@@ -1,5 +1,3 @@
-# Prepared
-
 ---
 name:: Prepared
 type:: [[技能牌]]

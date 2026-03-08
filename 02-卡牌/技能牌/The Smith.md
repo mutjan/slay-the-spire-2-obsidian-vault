@@ -1,5 +1,3 @@
-# The Smith
-
 ---
 name:: The Smith
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Molten Fist
-
 ---
 name:: Molten Fist
 type:: [[攻击牌]]

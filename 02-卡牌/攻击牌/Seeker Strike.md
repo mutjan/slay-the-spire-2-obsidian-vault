@@ -1,5 +1,3 @@
-# Seeker Strike
-
 ---
 name:: Seeker Strike
 type:: [[攻击牌]]

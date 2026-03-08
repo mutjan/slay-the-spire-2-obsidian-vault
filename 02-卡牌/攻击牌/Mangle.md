@@ -1,5 +1,3 @@
-# Mangle
-
 ---
 name:: Mangle
 type:: [[攻击牌]]

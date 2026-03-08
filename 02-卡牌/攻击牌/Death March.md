@@ -1,5 +1,3 @@
-# Death March
-
 ---
 name:: Death March
 type:: [[攻击牌]]

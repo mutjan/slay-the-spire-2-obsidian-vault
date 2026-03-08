@@ -1,5 +1,3 @@
-# Demesne
-
 ---
 name:: Demesne
 type:: [[能力牌]]

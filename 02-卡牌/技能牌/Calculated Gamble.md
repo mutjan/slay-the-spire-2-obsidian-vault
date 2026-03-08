@@ -1,5 +1,3 @@
-# Calculated Gamble
-
 ---
 name:: Calculated Gamble
 type:: [[技能牌]]

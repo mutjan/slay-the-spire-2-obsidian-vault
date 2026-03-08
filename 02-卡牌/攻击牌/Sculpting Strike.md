@@ -1,5 +1,3 @@
-# Sculpting Strike
-
 ---
 name:: Sculpting Strike
 type:: [[攻击牌]]

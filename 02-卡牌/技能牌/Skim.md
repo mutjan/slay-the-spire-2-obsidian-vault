@@ -1,5 +1,3 @@
-# Skim
-
 ---
 name:: Skim
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# The Sealed Throne
-
 ---
 name:: The Sealed Throne
 type:: [[能力牌]]

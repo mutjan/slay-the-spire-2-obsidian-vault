@@ -1,5 +1,3 @@
-# Fasten
-
 ---
 name:: Fasten
 type:: [[能力牌]]

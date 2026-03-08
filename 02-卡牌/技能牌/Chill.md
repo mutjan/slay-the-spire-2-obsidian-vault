@@ -1,5 +1,3 @@
-# Chill
-
 ---
 name:: Chill
 type:: [[技能牌]]

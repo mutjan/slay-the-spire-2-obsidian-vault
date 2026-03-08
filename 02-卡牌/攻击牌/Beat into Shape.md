@@ -1,5 +1,3 @@
-# Beat into Shape
-
 ---
 name:: Beat into Shape
 type:: [[攻击牌]]

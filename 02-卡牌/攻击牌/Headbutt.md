@@ -1,5 +1,3 @@
-# Headbutt
-
 ---
 name:: Headbutt
 type:: [[攻击牌]]

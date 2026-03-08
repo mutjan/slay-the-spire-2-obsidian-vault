@@ -1,5 +1,3 @@
-# Mimic
-
 ---
 name:: Mimic
 type:: [[技能牌]]

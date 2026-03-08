@@ -1,5 +1,3 @@
-# Catastrophe
-
 ---
 name:: Catastrophe
 type:: [[技能牌]]

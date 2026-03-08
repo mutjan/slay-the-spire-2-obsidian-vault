@@ -1,5 +1,3 @@
-# Melancholy
-
 ---
 name:: Melancholy
 type:: [[技能牌]]

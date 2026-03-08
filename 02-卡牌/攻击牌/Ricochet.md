@@ -1,5 +1,3 @@
-# Ricochet
-
 ---
 name:: Ricochet
 type:: [[攻击牌]]

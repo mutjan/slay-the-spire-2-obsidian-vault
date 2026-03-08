@@ -1,5 +1,3 @@
-# Anointed
-
 ---
 name:: Anointed
 type:: [[技能牌]]

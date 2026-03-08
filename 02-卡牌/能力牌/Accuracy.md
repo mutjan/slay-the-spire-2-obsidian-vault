@@ -1,5 +1,3 @@
-# Accuracy
-
 ---
 name:: Accuracy
 type:: [[能力牌]]

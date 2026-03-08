@@ -1,5 +1,3 @@
-# Deathbringer
-
 ---
 name:: Deathbringer
 type:: [[技能牌]]

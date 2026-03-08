@@ -1,5 +1,3 @@
-# Genetic Algorithm
-
 ---
 name:: Genetic Algorithm
 type:: [[技能牌]]

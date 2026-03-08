@@ -1,5 +1,3 @@
-# Energy Surge
-
 ---
 name:: Energy Surge
 type:: [[技能牌]]

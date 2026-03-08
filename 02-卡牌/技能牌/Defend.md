@@ -1,5 +1,3 @@
-# Defend
-
 ---
 name:: Defend
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Seeking Edge
-
 ---
 name:: Seeking Edge
 type:: [[能力牌]]

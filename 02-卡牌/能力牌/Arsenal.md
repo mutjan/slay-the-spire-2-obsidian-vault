@@ -1,5 +1,3 @@
-# Arsenal
-
 ---
 name:: Arsenal
 type:: [[能力牌]]

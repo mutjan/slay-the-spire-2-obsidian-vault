@@ -1,5 +1,3 @@
-# Flak Cannon
-
 ---
 name:: Flak Cannon
 type:: [[攻击牌]]

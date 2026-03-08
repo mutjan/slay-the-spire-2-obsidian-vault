@@ -1,5 +1,3 @@
-# Strike
-
 ---
 name:: Strike
 type:: [[攻击牌]]

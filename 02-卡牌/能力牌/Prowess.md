@@ -1,5 +1,3 @@
-# Prowess
-
 ---
 name:: Prowess
 type:: [[能力牌]]

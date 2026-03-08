@@ -1,5 +1,3 @@
-# Legion of Bone
-
 ---
 name:: Legion of Bone
 type:: [[技能牌]]

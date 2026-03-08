@@ -1,5 +1,3 @@
-# Refine Blade
-
 ---
 name:: Refine Blade
 type:: [[技能牌]]

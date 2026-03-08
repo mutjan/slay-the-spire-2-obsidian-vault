@@ -1,5 +1,3 @@
-# All for One
-
 ---
 name:: All for One
 type:: [[攻击牌]]

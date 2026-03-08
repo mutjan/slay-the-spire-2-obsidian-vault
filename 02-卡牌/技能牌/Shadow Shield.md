@@ -1,5 +1,3 @@
-# Shadow Shield
-
 ---
 name:: Shadow Shield
 type:: [[技能牌]]

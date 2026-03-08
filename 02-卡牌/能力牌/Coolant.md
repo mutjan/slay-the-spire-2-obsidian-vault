@@ -1,5 +1,3 @@
-# Coolant
-
 ---
 name:: Coolant
 type:: [[能力牌]]

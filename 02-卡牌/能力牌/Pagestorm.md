@@ -1,5 +1,3 @@
-# Pagestorm
-
 ---
 name:: Pagestorm
 type:: [[能力牌]]

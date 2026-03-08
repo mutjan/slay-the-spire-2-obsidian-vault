@@ -1,5 +1,3 @@
-# Inflame
-
 ---
 name:: Inflame
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Meteor Strike
-
 ---
 name:: Meteor Strike
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Coolheaded
-
 ---
 name:: Coolheaded
 type:: [[技能牌]]

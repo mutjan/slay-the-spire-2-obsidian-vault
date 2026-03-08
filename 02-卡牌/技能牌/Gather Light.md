@@ -1,5 +1,3 @@
-# Gather Light
-
 ---
 name:: Gather Light
 type:: [[技能牌]]

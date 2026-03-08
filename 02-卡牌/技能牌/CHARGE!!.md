@@ -1,5 +1,3 @@
-# CHARGE!!
-
 ---
 name:: CHARGE!!
 type:: [[技能牌]]

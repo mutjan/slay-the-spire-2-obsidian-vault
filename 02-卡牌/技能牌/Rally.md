@@ -1,5 +1,3 @@
-# Rally
-
 ---
 name:: Rally
 type:: [[技能牌]]

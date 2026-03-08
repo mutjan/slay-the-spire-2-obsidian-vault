@@ -1,5 +1,3 @@
-# Havoc
-
 ---
 name:: Havoc
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Storm of Steel
-
 ---
 name:: Storm of Steel
 type:: [[技能牌]]

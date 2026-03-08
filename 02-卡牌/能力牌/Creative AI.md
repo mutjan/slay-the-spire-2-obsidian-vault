@@ -1,5 +1,3 @@
-# Creative AI
-
 ---
 name:: Creative AI
 type:: [[能力牌]]

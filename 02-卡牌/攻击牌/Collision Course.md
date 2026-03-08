@@ -1,5 +1,3 @@
-# Collision Course
-
 ---
 name:: Collision Course
 type:: [[攻击牌]]

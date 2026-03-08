@@ -1,5 +1,3 @@
-# Poisoned Stab
-
 ---
 name:: Poisoned Stab
 type:: [[攻击牌]]

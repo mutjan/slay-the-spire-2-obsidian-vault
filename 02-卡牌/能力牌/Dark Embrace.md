@@ -1,5 +1,3 @@
-# Dark Embrace
-
 ---
 name:: Dark Embrace
 type:: [[能力牌]]

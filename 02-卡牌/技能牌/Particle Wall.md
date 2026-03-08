@@ -1,5 +1,3 @@
-# Particle Wall
-
 ---
 name:: Particle Wall
 type:: [[技能牌]]

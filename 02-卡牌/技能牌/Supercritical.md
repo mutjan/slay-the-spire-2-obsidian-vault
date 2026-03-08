@@ -1,5 +1,3 @@
-# Supercritical
-
 ---
 name:: Supercritical
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Know Thy Place
-
 ---
 name:: Know Thy Place
 type:: [[技能牌]]

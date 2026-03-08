@@ -1,5 +1,3 @@
-# Iteration
-
 ---
 name:: Iteration
 type:: [[能力牌]]

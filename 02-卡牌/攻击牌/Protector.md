@@ -1,5 +1,3 @@
-# Protector
-
 ---
 name:: Protector
 type:: [[攻击牌]]

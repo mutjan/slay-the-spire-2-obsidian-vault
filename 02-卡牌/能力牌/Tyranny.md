@@ -1,5 +1,3 @@
-# Tyranny
-
 ---
 name:: Tyranny
 type:: [[能力牌]]

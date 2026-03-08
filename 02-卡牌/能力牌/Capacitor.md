@@ -1,5 +1,3 @@
-# Capacitor
-
 ---
 name:: Capacitor
 type:: [[能力牌]]

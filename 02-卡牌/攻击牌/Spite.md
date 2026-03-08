@@ -1,5 +1,3 @@
-# Spite
-
 ---
 name:: Spite
 type:: [[攻击牌]]

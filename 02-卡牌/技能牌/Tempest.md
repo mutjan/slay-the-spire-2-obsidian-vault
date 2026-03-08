@@ -1,5 +1,3 @@
-# Tempest
-
 ---
 name:: Tempest
 type:: [[技能牌]]

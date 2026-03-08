@@ -1,5 +1,3 @@
-# Uppercut
-
 ---
 name:: Uppercut
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Rattle
-
 ---
 name:: Rattle
 type:: [[攻击牌]]

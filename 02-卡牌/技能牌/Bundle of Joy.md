@@ -1,5 +1,3 @@
-# Bundle of Joy
-
 ---
 name:: Bundle of Joy
 type:: [[技能牌]]

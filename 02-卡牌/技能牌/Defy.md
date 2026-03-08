@@ -1,5 +1,3 @@
-# Defy
-
 ---
 name:: Defy
 type:: [[技能牌]]

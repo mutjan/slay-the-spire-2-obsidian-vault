@@ -1,5 +1,3 @@
-# Quadcast
-
 ---
 name:: Quadcast
 type:: [[技能牌]]

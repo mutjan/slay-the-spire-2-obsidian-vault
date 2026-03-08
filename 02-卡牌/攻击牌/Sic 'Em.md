@@ -1,5 +1,3 @@
-# Sic 'Em
-
 ---
 name:: Sic 'Em
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Slice
-
 ---
 name:: Slice
 type:: [[攻击牌]]

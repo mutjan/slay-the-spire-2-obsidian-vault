@@ -1,5 +1,3 @@
-# Severance
-
 ---
 name:: Severance
 type:: [[攻击牌]]

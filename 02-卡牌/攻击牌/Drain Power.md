@@ -1,5 +1,3 @@
-# Drain Power
-
 ---
 name:: Drain Power
 type:: [[攻击牌]]

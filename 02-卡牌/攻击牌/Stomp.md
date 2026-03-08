@@ -1,5 +1,3 @@
-# Stomp
-
 ---
 name:: Stomp
 type:: [[攻击牌]]

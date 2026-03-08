@@ -1,5 +1,3 @@
-# Momentum Strike
-
 ---
 name:: Momentum Strike
 type:: [[攻击牌]]

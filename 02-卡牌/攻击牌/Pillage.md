@@ -1,5 +1,3 @@
-# Pillage
-
 ---
 name:: Pillage
 type:: [[攻击牌]]

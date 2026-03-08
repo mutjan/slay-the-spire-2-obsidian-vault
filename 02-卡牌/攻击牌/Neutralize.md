@@ -1,5 +1,3 @@
-# Neutralize
-
 ---
 name:: Neutralize
 type:: [[攻击牌]]

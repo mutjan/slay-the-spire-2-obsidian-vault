@@ -1,5 +1,3 @@
-# Anticipate
-
 ---
 name:: Anticipate
 type:: [[技能牌]]

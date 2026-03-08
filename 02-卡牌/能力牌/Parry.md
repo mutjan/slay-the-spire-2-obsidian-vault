@@ -1,5 +1,3 @@
-# Parry
-
 ---
 name:: Parry
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Cruelty
-
 ---
 name:: Cruelty
 type:: [[能力牌]]

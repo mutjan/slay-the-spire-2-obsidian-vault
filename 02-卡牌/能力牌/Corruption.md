@@ -1,5 +1,3 @@
-# Corruption
-
 ---
 name:: Corruption
 type:: [[能力牌]]

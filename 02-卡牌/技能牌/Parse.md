@@ -1,5 +1,3 @@
-# Parse
-
 ---
 name:: Parse
 type:: [[技能牌]]

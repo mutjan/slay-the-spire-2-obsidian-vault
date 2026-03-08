@@ -1,5 +1,3 @@
-# Hidden Cache
-
 ---
 name:: Hidden Cache
 type:: [[技能牌]]

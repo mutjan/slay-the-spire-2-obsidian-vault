@@ -1,5 +1,3 @@
-# Smokestack
-
 ---
 name:: Smokestack
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Fusion
-
 ---
 name:: Fusion
 type:: [[技能牌]]

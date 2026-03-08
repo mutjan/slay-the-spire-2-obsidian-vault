@@ -1,5 +1,3 @@
-# Enfeebling Touch
-
 ---
 name:: Enfeebling Touch
 type:: [[技能牌]]

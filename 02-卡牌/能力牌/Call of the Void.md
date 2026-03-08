@@ -1,5 +1,3 @@
-# Call of the Void
-
 ---
 name:: Call of the Void
 type:: [[能力牌]]

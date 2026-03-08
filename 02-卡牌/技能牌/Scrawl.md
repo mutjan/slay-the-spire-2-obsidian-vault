@@ -1,5 +1,3 @@
-# Scrawl
-
 ---
 name:: Scrawl
 type:: [[技能牌]]

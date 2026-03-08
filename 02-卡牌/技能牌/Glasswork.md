@@ -1,5 +1,3 @@
-# Glasswork
-
 ---
 name:: Glasswork
 type:: [[技能牌]]

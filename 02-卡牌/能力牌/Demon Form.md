@@ -1,5 +1,3 @@
-# Demon Form
-
 ---
 name:: Demon Form
 type:: [[能力牌]]

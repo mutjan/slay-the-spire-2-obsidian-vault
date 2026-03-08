@@ -1,5 +1,3 @@
-# Sow
-
 ---
 name:: Sow
 type:: [[攻击牌]]

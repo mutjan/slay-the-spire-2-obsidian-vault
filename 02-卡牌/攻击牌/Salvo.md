@@ -1,5 +1,3 @@
-# Salvo
-
 ---
 name:: Salvo
 type:: [[攻击牌]]

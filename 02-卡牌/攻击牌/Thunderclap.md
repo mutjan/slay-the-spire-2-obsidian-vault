@@ -1,5 +1,3 @@
-# Thunderclap
-
 ---
 name:: Thunderclap
 type:: [[攻击牌]]

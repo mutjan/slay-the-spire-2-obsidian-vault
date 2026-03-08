@@ -1,5 +1,3 @@
-# Tracking
-
 ---
 name:: Tracking
 type:: [[能力牌]]

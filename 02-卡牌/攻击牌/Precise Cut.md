@@ -1,5 +1,3 @@
-# Precise Cut
-
 ---
 name:: Precise Cut
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Seven Stars
-
 ---
 name:: Seven Stars
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Sentry Mode
-
 ---
 name:: Sentry Mode
 type:: [[能力牌]]

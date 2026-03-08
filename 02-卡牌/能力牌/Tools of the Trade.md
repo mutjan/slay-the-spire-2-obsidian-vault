@@ -1,5 +1,3 @@
-# Tools of the Trade
-
 ---
 name:: Tools of the Trade
 type:: [[能力牌]]

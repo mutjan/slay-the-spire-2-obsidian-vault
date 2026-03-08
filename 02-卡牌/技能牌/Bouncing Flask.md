@@ -1,5 +1,3 @@
-# Bouncing Flask
-
 ---
 name:: Bouncing Flask
 type:: [[技能牌]]

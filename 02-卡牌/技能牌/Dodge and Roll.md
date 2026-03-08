@@ -1,5 +1,3 @@
-# Dodge and Roll
-
 ---
 name:: Dodge and Roll
 type:: [[技能牌]]

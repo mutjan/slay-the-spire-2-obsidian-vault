@@ -1,5 +1,3 @@
-# Ice Lance
-
 ---
 name:: Ice Lance
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Crash Landing
-
 ---
 name:: Crash Landing
 type:: [[攻击牌]]

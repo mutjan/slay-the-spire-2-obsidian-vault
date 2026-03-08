@@ -1,5 +1,3 @@
-# Signal Boost
-
 ---
 name:: Signal Boost
 type:: [[技能牌]]

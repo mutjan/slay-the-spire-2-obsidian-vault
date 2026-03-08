@@ -1,5 +1,3 @@
-# Bombardment
-
 ---
 name:: Bombardment
 type:: [[攻击牌]]

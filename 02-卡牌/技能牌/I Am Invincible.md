@@ -1,5 +1,3 @@
-# I Am Invincible
-
 ---
 name:: I Am Invincible
 type:: [[技能牌]]

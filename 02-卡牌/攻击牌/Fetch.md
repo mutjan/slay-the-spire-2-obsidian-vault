@@ -1,5 +1,3 @@
-# Fetch
-
 ---
 name:: Fetch
 type:: [[攻击牌]]

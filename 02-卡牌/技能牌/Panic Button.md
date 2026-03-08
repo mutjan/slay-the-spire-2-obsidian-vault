@@ -1,5 +1,3 @@
-# Panic Button
-
 ---
 name:: Panic Button
 type:: [[技能牌]]

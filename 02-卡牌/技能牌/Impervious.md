@@ -1,5 +1,3 @@
-# Impervious
-
 ---
 name:: Impervious
 type:: [[技能牌]]

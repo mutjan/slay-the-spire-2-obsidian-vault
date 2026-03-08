@@ -1,5 +1,3 @@
-# Oblivion
-
 ---
 name:: Oblivion
 type:: [[技能牌]]

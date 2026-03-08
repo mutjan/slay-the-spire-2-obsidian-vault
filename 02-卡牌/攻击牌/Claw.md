@@ -1,5 +1,3 @@
-# Claw
-
 ---
 name:: Claw
 type:: [[攻击牌]]

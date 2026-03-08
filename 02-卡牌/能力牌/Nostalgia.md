@@ -1,5 +1,3 @@
-# Nostalgia
-
 ---
 name:: Nostalgia
 type:: [[能力牌]]

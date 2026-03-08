@@ -1,5 +1,3 @@
-# Echo Form
-
 ---
 name:: Echo Form
 type:: [[能力牌]]

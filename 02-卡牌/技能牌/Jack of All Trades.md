@@ -1,5 +1,3 @@
-# Jack of All Trades
-
 ---
 name:: Jack of All Trades
 type:: [[技能牌]]

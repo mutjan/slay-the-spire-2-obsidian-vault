@@ -1,5 +1,3 @@
-# Solar Strike
-
 ---
 name:: Solar Strike
 type:: [[攻击牌]]

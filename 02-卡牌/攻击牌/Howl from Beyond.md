@@ -1,5 +1,3 @@
-# Howl from Beyond
-
 ---
 name:: Howl from Beyond
 type:: [[攻击牌]]

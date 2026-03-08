@@ -1,5 +1,3 @@
-# Neutron Aegis
-
 ---
 name:: Neutron Aegis
 type:: [[能力牌]]

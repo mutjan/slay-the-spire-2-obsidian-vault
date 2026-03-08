@@ -1,5 +1,3 @@
-# Summon Forth
-
 ---
 name:: Summon Forth
 type:: [[技能牌]]

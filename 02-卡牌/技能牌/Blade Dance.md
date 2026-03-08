@@ -1,5 +1,3 @@
-# Blade Dance
-
 ---
 name:: Blade Dance
 type:: [[技能牌]]

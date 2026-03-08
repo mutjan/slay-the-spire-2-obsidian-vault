@@ -1,5 +1,3 @@
-# Mind Blast
-
 ---
 name:: Mind Blast
 type:: [[攻击牌]]

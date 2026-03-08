@@ -1,5 +1,3 @@
-# Make It So
-
 ---
 name:: Make It So
 type:: [[攻击牌]]

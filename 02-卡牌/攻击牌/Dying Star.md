@@ -1,5 +1,3 @@
-# Dying Star
-
 ---
 name:: Dying Star
 type:: [[攻击牌]]

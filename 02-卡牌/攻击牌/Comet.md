@@ -1,5 +1,3 @@
-# Comet
-
 ---
 name:: Comet
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Backstab
-
 ---
 name:: Backstab
 type:: [[攻击牌]]

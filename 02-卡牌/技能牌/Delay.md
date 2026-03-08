@@ -1,5 +1,3 @@
-# Delay
-
 ---
 name:: Delay
 type:: [[技能牌]]

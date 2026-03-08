@@ -1,5 +1,3 @@
-# Break
-
 ---
 name:: Break
 type:: [[攻击牌]]

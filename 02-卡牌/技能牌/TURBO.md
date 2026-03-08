@@ -1,5 +1,3 @@
-# TURBO
-
 ---
 name:: TURBO
 type:: [[技能牌]]

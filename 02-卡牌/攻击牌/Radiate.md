@@ -1,5 +1,3 @@
-# Radiate
-
 ---
 name:: Radiate
 type:: [[攻击牌]]

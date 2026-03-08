@@ -1,5 +1,3 @@
-# Thunder
-
 ---
 name:: Thunder
 type:: [[能力牌]]

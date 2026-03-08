@@ -1,5 +1,3 @@
-# Fiend Fire
-
 ---
 name:: Fiend Fire
 type:: [[攻击牌]]

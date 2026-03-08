@@ -1,5 +1,3 @@
-# Undeath
-
 ---
 name:: Undeath
 type:: [[技能牌]]

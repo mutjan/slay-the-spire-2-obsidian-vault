@@ -1,5 +1,3 @@
-# Darkness
-
 ---
 name:: Darkness
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Aggression
-
 ---
 name:: Aggression
 type:: [[能力牌]]

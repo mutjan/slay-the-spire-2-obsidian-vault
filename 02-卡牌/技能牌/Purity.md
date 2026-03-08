@@ -1,5 +1,3 @@
-# Purity
-
 ---
 name:: Purity
 type:: [[技能牌]]

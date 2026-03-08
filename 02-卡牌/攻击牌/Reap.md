@@ -1,5 +1,3 @@
-# Reap
-
 ---
 name:: Reap
 type:: [[攻击牌]]

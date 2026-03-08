@@ -1,5 +1,3 @@
-# Transfigure
-
 ---
 name:: Transfigure
 type:: [[技能牌]]

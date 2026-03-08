@@ -1,5 +1,3 @@
-# Prep Time
-
 ---
 name:: Prep Time
 type:: [[能力牌]]

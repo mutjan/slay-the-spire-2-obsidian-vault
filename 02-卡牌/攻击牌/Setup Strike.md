@@ -1,5 +1,3 @@
-# Setup Strike
-
 ---
 name:: Setup Strike
 type:: [[攻击牌]]

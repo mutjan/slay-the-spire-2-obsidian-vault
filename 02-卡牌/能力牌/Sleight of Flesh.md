@@ -1,5 +1,3 @@
-# Sleight of Flesh
-
 ---
 name:: Sleight of Flesh
 type:: [[能力牌]]

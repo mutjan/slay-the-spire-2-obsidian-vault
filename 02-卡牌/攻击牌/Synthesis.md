@@ -1,5 +1,3 @@
-# Synthesis
-
 ---
 name:: Synthesis
 type:: [[攻击牌]]

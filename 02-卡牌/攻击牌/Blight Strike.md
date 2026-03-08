@@ -1,5 +1,3 @@
-# Blight Strike
-
 ---
 name:: Blight Strike
 type:: [[攻击牌]]

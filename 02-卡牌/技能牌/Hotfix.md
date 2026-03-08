@@ -1,5 +1,3 @@
-# Hotfix
-
 ---
 name:: Hotfix
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Shining Strike
-
 ---
 name:: Shining Strike
 type:: [[攻击牌]]

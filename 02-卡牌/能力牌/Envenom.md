@@ -1,5 +1,3 @@
-# Envenom
-
 ---
 name:: Envenom
 type:: [[能力牌]]

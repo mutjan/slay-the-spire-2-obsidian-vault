@@ -1,5 +1,3 @@
-# Bash
-
 ---
 name:: Bash
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Wisp
-
 ---
 name:: Wisp
 type:: [[技能牌]]

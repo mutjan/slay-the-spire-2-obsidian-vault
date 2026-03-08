@@ -1,5 +1,3 @@
-# Graveblast
-
 ---
 name:: Graveblast
 type:: [[攻击牌]]

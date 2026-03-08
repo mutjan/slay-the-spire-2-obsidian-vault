@@ -1,5 +1,3 @@
-# Afterlife
-
 ---
 name:: Afterlife
 type:: [[技能牌]]

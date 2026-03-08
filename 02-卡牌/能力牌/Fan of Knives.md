@@ -1,5 +1,3 @@
-# Fan of Knives
-
 ---
 name:: Fan of Knives
 type:: [[能力牌]]

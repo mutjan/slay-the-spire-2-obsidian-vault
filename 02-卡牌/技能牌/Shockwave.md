@@ -1,5 +1,3 @@
-# Shockwave
-
 ---
 name:: Shockwave
 type:: [[技能牌]]

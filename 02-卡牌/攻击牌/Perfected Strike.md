@@ -1,5 +1,3 @@
-# Perfected Strike
-
 ---
 name:: Perfected Strike
 type:: [[攻击牌]]

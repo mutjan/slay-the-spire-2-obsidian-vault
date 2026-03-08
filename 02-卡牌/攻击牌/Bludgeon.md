@@ -1,5 +1,3 @@
-# Bludgeon
-
 ---
 name:: Bludgeon
 type:: [[攻击牌]]

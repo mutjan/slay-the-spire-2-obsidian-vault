@@ -1,5 +1,3 @@
-# Alchemize
-
 ---
 name:: Alchemize
 type:: [[技能牌]]

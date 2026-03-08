@@ -1,5 +1,3 @@
-# Ashen Strike
-
 ---
 name:: Ashen Strike
 type:: [[攻击牌]]

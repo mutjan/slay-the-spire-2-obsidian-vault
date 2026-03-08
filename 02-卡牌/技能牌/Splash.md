@@ -1,5 +1,3 @@
-# Splash
-
 ---
 name:: Splash
 type:: [[技能牌]]

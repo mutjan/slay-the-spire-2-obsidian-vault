@@ -1,5 +1,3 @@
-# Rage
-
 ---
 name:: Rage
 type:: [[技能牌]]

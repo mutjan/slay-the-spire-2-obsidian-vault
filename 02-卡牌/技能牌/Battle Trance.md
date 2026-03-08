@@ -1,5 +1,3 @@
-# Battle Trance
-
 ---
 name:: Battle Trance
 type:: [[技能牌]]

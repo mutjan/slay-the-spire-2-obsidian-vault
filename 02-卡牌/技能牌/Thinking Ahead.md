@@ -1,5 +1,3 @@
-# Thinking Ahead
-
 ---
 name:: Thinking Ahead
 type:: [[技能牌]]

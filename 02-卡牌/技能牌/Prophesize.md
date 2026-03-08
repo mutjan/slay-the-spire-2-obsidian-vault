@@ -1,5 +1,3 @@
-# Prophesize
-
 ---
 name:: Prophesize
 type:: [[技能牌]]

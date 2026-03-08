@@ -1,5 +1,3 @@
-# Devour Life
-
 ---
 name:: Devour Life
 type:: [[能力牌]]

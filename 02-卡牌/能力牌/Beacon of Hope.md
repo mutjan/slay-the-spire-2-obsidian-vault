@@ -1,5 +1,3 @@
-# Beacon of Hope
-
 ---
 name:: Beacon of Hope
 type:: [[能力牌]]

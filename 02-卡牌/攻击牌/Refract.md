@@ -1,5 +1,3 @@
-# Refract
-
 ---
 name:: Refract
 type:: [[攻击牌]]

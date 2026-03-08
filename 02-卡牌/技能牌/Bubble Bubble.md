@@ -1,5 +1,3 @@
-# Bubble Bubble
-
 ---
 name:: Bubble Bubble
 type:: [[技能牌]]

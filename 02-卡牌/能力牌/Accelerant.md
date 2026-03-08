@@ -1,5 +1,3 @@
-# Accelerant
-
 ---
 name:: Accelerant
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Biased Cognition
-
 ---
 name:: Biased Cognition
 type:: [[能力牌]]

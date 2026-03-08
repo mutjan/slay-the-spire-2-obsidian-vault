@@ -1,5 +1,3 @@
-# Neurosurge
-
 ---
 name:: Neurosurge
 type:: [[能力牌]]

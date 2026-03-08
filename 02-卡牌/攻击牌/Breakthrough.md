@@ -1,5 +1,3 @@
-# Breakthrough
-
 ---
 name:: Breakthrough
 type:: [[攻击牌]]

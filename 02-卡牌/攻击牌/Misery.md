@@ -1,5 +1,3 @@
-# Misery
-
 ---
 name:: Misery
 type:: [[攻击牌]]

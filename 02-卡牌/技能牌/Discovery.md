@@ -1,5 +1,3 @@
-# Discovery
-
 ---
 name:: Discovery
 type:: [[技能牌]]

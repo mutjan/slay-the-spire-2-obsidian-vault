@@ -1,5 +1,3 @@
-# Calcify
-
 ---
 name:: Calcify
 type:: [[能力牌]]

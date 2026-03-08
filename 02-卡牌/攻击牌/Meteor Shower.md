@@ -1,5 +1,3 @@
-# Meteor Shower
-
 ---
 name:: Meteor Shower
 type:: [[攻击牌]]

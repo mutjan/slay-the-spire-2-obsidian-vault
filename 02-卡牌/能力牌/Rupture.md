@@ -1,5 +1,3 @@
-# Rupture
-
 ---
 name:: Rupture
 type:: [[能力牌]]

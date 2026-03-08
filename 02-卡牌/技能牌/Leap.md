@@ -1,5 +1,3 @@
-# Leap
-
 ---
 name:: Leap
 type:: [[技能牌]]

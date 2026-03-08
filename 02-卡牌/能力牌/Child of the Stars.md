@@ -1,5 +1,3 @@
-# Child of the Stars
-
 ---
 name:: Child of the Stars
 type:: [[能力牌]]

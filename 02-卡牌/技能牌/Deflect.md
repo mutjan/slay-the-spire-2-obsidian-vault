@@ -1,5 +1,3 @@
-# Deflect
-
 ---
 name:: Deflect
 type:: [[技能牌]]

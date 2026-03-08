@@ -1,5 +1,3 @@
-# Lightning Rod
-
 ---
 name:: Lightning Rod
 type:: [[技能牌]]

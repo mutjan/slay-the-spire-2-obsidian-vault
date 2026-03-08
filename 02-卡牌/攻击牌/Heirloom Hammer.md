@@ -1,5 +1,3 @@
-# Heirloom Hammer
-
 ---
 name:: Heirloom Hammer
 type:: [[攻击牌]]

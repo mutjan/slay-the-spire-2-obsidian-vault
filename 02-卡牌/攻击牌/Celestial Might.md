@@ -1,5 +1,3 @@
-# Celestial Might
-
 ---
 name:: Celestial Might
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Eidolon
-
 ---
 name:: Eidolon
 type:: [[技能牌]]

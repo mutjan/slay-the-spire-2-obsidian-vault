@@ -1,5 +1,3 @@
-# Devastate
-
 ---
 name:: Devastate
 type:: [[攻击牌]]

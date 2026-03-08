@@ -1,5 +1,3 @@
-# Hellraiser
-
 ---
 name:: Hellraiser
 type:: [[能力牌]]

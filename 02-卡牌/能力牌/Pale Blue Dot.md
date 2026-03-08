@@ -1,5 +1,3 @@
-# Pale Blue Dot
-
 ---
 name:: Pale Blue Dot
 type:: [[能力牌]]

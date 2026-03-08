@@ -1,5 +1,3 @@
-# Tactician
-
 ---
 name:: Tactician
 type:: [[技能牌]]

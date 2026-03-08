@@ -1,5 +1,3 @@
-# Volley
-
 ---
 name:: Volley
 type:: [[攻击牌]]

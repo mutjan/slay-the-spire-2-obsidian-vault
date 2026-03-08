@@ -1,5 +1,3 @@
-# Predator
-
 ---
 name:: Predator
 type:: [[攻击牌]]

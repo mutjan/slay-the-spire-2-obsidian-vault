@@ -1,5 +1,3 @@
-# Terraforming
-
 ---
 name:: Terraforming
 type:: [[技能牌]]

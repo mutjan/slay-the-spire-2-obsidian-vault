@@ -1,5 +1,3 @@
-# Leg Sweep
-
 ---
 name:: Leg Sweep
 type:: [[技能牌]]

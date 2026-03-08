@@ -1,5 +1,3 @@
-# One-Two Punch
-
 ---
 name:: One-Two Punch
 type:: [[技能牌]]

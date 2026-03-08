@@ -1,5 +1,3 @@
-# Survivor
-
 ---
 name:: Survivor
 type:: [[技能牌]]

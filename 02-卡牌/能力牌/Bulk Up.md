@@ -1,5 +1,3 @@
-# Bulk Up
-
 ---
 name:: Bulk Up
 type:: [[能力牌]]

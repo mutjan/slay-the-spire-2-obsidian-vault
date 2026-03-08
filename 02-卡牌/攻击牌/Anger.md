@@ -1,5 +1,3 @@
-# Anger
-
 ---
 name:: Anger
 type:: [[攻击牌]]

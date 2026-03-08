@@ -1,5 +1,3 @@
-# Jackpot
-
 ---
 name:: Jackpot
 type:: [[攻击牌]]

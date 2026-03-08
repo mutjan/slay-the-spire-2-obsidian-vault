@@ -1,5 +1,3 @@
-# Falling Star
-
 ---
 name:: Falling Star
 type:: [[攻击牌]]

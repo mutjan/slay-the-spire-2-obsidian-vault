@@ -1,5 +1,3 @@
-# Production
-
 ---
 name:: Production
 type:: [[技能牌]]

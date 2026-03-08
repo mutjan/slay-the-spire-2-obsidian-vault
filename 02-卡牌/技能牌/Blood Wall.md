@@ -1,5 +1,3 @@
-# Blood Wall
-
 ---
 name:: Blood Wall
 type:: [[技能牌]]

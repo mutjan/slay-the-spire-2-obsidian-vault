@@ -1,5 +1,3 @@
-# Flame Barrier
-
 ---
 name:: Flame Barrier
 type:: [[技能牌]]

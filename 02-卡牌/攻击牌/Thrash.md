@@ -1,5 +1,3 @@
-# Thrash
-
 ---
 name:: Thrash
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Hidden Daggers
-
 ---
 name:: Hidden Daggers
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Focused Strike
-
 ---
 name:: Focused Strike
 type:: [[攻击牌]]

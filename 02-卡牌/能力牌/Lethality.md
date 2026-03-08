@@ -1,5 +1,3 @@
-# Lethality
-
 ---
 name:: Lethality
 type:: [[能力牌]]

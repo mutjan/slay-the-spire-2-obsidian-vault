@@ -1,5 +1,3 @@
-# Bolas
-
 ---
 name:: Bolas
 type:: [[攻击牌]]

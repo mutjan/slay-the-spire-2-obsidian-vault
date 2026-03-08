@@ -1,5 +1,3 @@
-# Convergence
-
 ---
 name:: Convergence
 type:: [[技能牌]]

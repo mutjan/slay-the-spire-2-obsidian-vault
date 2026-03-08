@@ -1,5 +1,3 @@
-# Trash to Treasure
-
 ---
 name:: Trash to Treasure
 type:: [[能力牌]]

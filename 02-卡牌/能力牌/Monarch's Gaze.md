@@ -1,5 +1,3 @@
-# Monarch's Gaze
-
 ---
 name:: Monarch's Gaze
 type:: [[能力牌]]

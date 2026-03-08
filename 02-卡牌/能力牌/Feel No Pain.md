@@ -1,5 +1,3 @@
-# Feel No Pain
-
 ---
 name:: Feel No Pain
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Genesis
-
 ---
 name:: Genesis
 type:: [[能力牌]]

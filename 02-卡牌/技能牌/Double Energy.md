@@ -1,5 +1,3 @@
-# Double Energy
-
 ---
 name:: Double Energy
 type:: [[技能牌]]

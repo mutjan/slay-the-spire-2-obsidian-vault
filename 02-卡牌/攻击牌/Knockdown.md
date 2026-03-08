@@ -1,5 +1,3 @@
-# Knockdown
-
 ---
 name:: Knockdown
 type:: [[攻击牌]]

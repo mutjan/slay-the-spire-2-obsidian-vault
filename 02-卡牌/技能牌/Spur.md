@@ -1,5 +1,3 @@
-# Spur
-
 ---
 name:: Spur
 type:: [[技能牌]]

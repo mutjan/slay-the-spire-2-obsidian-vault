@@ -1,5 +1,3 @@
-# Footwork
-
 ---
 name:: Footwork
 type:: [[能力牌]]

@@ -1,5 +1,3 @@
-# Royal Gamble
-
 ---
 name:: Royal Gamble
 type:: [[技能牌]]

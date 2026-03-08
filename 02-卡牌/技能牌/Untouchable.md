@@ -1,5 +1,3 @@
-# Untouchable
-
 ---
 name:: Untouchable
 type:: [[技能牌]]

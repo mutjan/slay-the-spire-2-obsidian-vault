@@ -1,5 +1,3 @@
-# Defile
-
 ---
 name:: Defile
 type:: [[攻击牌]]

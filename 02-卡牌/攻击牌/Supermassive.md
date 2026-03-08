@@ -1,5 +1,3 @@
-# Supermassive
-
 ---
 name:: Supermassive
 type:: [[攻击牌]]

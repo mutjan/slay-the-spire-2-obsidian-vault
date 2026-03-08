@@ -1,5 +1,3 @@
-# Wraith Form
-
 ---
 name:: Wraith Form
 type:: [[能力牌]]

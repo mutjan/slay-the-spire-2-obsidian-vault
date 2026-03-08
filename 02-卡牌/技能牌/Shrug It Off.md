@@ -1,5 +1,3 @@
-# Shrug It Off
-
 ---
 name:: Shrug It Off
 type:: [[技能牌]]

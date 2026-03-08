@@ -1,5 +1,3 @@
-# Bully
-
 ---
 name:: Bully
 type:: [[攻击牌]]

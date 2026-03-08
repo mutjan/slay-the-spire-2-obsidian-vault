@@ -1,5 +1,3 @@
-# Dirge
-
 ---
 name:: Dirge
 type:: [[技能牌]]

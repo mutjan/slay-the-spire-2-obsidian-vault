@@ -1,5 +1,3 @@
-# Sacrifice
-
 ---
 name:: Sacrifice
 type:: [[技能牌]]

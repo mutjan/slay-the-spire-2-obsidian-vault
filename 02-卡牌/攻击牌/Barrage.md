@@ -1,5 +1,3 @@
-# Barrage
-
 ---
 name:: Barrage
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Phantom Blades
-
 ---
 name:: Phantom Blades
 type:: [[能力牌]]

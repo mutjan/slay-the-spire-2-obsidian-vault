@@ -1,5 +1,3 @@
-# Assassinate
-
 ---
 name:: Assassinate
 type:: [[攻击牌]]

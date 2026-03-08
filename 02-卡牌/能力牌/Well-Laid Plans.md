@@ -1,5 +1,3 @@
-# Well-Laid Plans
-
 ---
 name:: Well-Laid Plans
 type:: [[能力牌]]

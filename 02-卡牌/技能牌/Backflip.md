@@ -1,5 +1,3 @@
-# Backflip
-
 ---
 name:: Backflip
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Shatter
-
 ---
 name:: Shatter
 type:: [[攻击牌]]

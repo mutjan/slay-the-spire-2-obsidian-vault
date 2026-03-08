@@ -1,5 +1,3 @@
-# Loop
-
 ---
 name:: Loop
 type:: [[能力牌]]

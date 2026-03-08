@@ -1,5 +1,3 @@
-# Knockout Blow
-
 ---
 name:: Knockout Blow
 type:: [[攻击牌]]

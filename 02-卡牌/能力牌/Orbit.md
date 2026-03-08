@@ -1,5 +1,3 @@
-# Orbit
-
 ---
 name:: Orbit
 type:: [[能力牌]]

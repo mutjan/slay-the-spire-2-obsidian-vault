@@ -1,5 +1,3 @@
-# Grapple
-
 ---
 name:: Grapple
 type:: [[攻击牌]]

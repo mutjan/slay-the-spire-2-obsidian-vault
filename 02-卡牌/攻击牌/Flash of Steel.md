@@ -1,5 +1,3 @@
-# Flash of Steel
-
 ---
 name:: Flash of Steel
 type:: [[攻击牌]]

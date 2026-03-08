@@ -1,5 +1,3 @@
-# Countdown
-
 ---
 name:: Countdown
 type:: [[能力牌]]

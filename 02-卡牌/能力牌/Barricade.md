@@ -1,5 +1,3 @@
-# Barricade
-
 ---
 name:: Barricade
 type:: [[能力牌]]

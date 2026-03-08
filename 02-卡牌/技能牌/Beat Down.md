@@ -1,5 +1,3 @@
-# Beat Down
-
 ---
 name:: Beat Down
 type:: [[技能牌]]

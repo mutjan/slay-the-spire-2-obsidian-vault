@@ -1,5 +1,3 @@
-# Gold Axe
-
 ---
 name:: Gold Axe
 type:: [[攻击牌]]

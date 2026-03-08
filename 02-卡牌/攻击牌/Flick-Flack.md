@@ -1,5 +1,3 @@
-# Flick-Flack
-
 ---
 name:: Flick-Flack
 type:: [[攻击牌]]

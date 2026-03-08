@@ -1,5 +1,3 @@
-# Death's Door
-
 ---
 name:: Death's Door
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Vicious
-
 ---
 name:: Vicious
 type:: [[能力牌]]

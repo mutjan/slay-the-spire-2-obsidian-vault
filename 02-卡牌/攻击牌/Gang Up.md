@@ -1,5 +1,3 @@
-# Gang Up
-
 ---
 name:: Gang Up
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Juggling
-
 ---
 name:: Juggling
 type:: [[能力牌]]

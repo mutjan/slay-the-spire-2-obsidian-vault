@@ -1,5 +1,3 @@
-# Stone Armor
-
 ---
 name:: Stone Armor
 type:: [[能力牌]]

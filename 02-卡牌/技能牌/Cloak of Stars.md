@@ -1,5 +1,3 @@
-# Cloak of Stars
-
 ---
 name:: Cloak of Stars
 type:: [[技能牌]]

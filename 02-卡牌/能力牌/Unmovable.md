@@ -1,5 +1,3 @@
-# Unmovable
-
 ---
 name:: Unmovable
 type:: [[能力牌]]

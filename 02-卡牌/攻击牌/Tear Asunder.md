@@ -1,5 +1,3 @@
-# Tear Asunder
-
 ---
 name:: Tear Asunder
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Hemokinesis
-
 ---
 name:: Hemokinesis
 type:: [[攻击牌]]

@@ -1,5 +1,3 @@
-# Expertise
-
 ---
 name:: Expertise
 type:: [[技能牌]]

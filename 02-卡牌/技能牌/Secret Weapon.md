@@ -1,5 +1,3 @@
-# Secret Weapon
-
 ---
 name:: Secret Weapon
 type:: [[技能牌]]

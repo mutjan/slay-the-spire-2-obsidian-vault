@@ -1,5 +1,3 @@
-# Go for the Eyes
-
 ---
 name:: Go for the Eyes
 type:: [[攻击牌]]

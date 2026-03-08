@@ -1,5 +1,3 @@
-# Flatten
-
 ---
 name:: Flatten
 type:: [[攻击牌]]

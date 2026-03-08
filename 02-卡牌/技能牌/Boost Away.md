@@ -1,5 +1,3 @@
-# Boost Away
-
 ---
 name:: Boost Away
 type:: [[技能牌]]

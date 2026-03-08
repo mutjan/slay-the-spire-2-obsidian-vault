@@ -1,5 +1,3 @@
-# Scourge
-
 ---
 name:: Scourge
 type:: [[技能牌]]

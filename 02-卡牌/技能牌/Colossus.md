@@ -1,5 +1,3 @@
-# Colossus
-
 ---
 name:: Colossus
 type:: [[技能牌]]

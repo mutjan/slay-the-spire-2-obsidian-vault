@@ -1,5 +1,3 @@
-# Dark Shackles
-
 ---
 name:: Dark Shackles
 type:: [[技能牌]]

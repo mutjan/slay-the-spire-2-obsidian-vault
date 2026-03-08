@@ -1,5 +1,3 @@
-# Chaos
-
 ---
 name:: Chaos
 type:: [[技能牌]]

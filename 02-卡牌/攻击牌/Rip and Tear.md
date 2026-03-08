@@ -1,5 +1,3 @@
-# Rip and Tear
-
 ---
 name:: Rip and Tear
 type:: [[攻击牌]]

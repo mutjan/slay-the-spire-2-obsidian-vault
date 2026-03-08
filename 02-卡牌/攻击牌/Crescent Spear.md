@@ -1,5 +1,3 @@
-# Crescent Spear
-
 ---
 name:: Crescent Spear
 type:: [[攻击牌]]

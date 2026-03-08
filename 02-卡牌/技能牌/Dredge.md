@@ -1,5 +1,3 @@
-# Dredge
-
 ---
 name:: Dredge
 type:: [[技能牌]]

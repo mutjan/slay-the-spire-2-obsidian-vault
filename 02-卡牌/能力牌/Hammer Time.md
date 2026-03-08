@@ -1,5 +1,3 @@
-# Hammer Time
-
 ---
 name:: Hammer Time
 type:: [[能力牌]]

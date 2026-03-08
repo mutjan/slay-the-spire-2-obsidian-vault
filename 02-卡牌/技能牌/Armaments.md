@@ -1,5 +1,3 @@
-# Armaments
-
 ---
 name:: Armaments
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# Rolling Boulder
-
 ---
 name:: Rolling Boulder
 type:: [[能力牌]]

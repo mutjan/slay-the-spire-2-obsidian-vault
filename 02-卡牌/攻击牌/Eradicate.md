@@ -1,5 +1,3 @@
-# Eradicate
-
 ---
 name:: Eradicate
 type:: [[攻击牌]]

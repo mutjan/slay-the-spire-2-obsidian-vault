@@ -1,5 +1,3 @@
-# Spinner
-
 ---
 name:: Spinner
 type:: [[能力牌]]

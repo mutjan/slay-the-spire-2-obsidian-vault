@@ -1,5 +1,3 @@
-# Soul Storm
-
 ---
 name:: Soul Storm
 type:: [[攻击牌]]

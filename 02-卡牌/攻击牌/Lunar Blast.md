@@ -1,5 +1,3 @@
-# Lunar Blast
-
 ---
 name:: Lunar Blast
 type:: [[攻击牌]]

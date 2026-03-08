@@ -1,5 +1,3 @@
-# Cascade
-
 ---
 name:: Cascade
 type:: [[技能牌]]

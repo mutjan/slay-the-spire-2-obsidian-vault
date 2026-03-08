@@ -1,5 +1,3 @@
-# Astral Pulse
-
 ---
 name:: Astral Pulse
 type:: [[攻击牌]]

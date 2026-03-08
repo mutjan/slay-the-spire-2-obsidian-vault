@@ -1,5 +1,3 @@
-# Resonance
-
 ---
 name:: Resonance
 type:: [[技能牌]]

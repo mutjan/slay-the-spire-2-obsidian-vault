@@ -1,5 +1,3 @@
-# Shadowmeld
-
 ---
 name:: Shadowmeld
 type:: [[技能牌]]

@@ -1,5 +1,3 @@
-# The Hunt
-
 ---
 name:: The Hunt
 type:: [[攻击牌]]

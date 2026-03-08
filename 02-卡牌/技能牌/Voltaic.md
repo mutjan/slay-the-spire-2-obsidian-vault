@@ -1,5 +1,3 @@
-# Voltaic
-
 ---
 name:: Voltaic
 type:: [[技能牌]]

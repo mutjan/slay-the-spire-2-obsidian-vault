@@ -1,5 +1,3 @@
-# The Gambit
-
 ---
 name:: The Gambit
 type:: [[技能牌]]

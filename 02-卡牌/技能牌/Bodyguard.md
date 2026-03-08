@@ -1,5 +1,3 @@
-# Bodyguard
-
 ---
 name:: Bodyguard
 type:: [[技能牌]]

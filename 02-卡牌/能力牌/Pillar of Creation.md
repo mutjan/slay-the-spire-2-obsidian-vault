@@ -1,5 +1,3 @@
-# Pillar of Creation
-
 ---
 name:: Pillar of Creation
 type:: [[能力牌]]

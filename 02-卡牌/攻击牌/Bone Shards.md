@@ -1,5 +1,3 @@
-# Bone Shards
-
 ---
 name:: Bone Shards
 type:: [[攻击牌]]

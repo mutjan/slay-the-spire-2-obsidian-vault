@@ -1,5 +1,3 @@
-# Thrumming Hatchet
-
 ---
 name:: Thrumming Hatchet
 type:: [[攻击牌]]

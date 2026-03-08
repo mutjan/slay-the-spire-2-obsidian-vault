@@ -1,5 +1,3 @@
-# No Escape
-
 ---
 name:: No Escape
 type:: [[技能牌]]

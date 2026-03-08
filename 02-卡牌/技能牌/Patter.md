@@ -1,5 +1,3 @@
-# Patter
-
 ---
 name:: Patter
 type:: [[技能牌]]
