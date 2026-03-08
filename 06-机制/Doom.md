@@ -1,11 +1,11 @@
 ---
-name:: "[[Doom|厄运]]"
+name:: "[[Doom|灾厄]]"
 english_name:: "Doom"
-aliases:: ["厄运"]
+aliases:: ["灾厄"]
 category:: "[[机制]]"
 ---
 
-> **英文**: Doom | **中文**: 厄运
+> **英文**: Doom | **中文**: 灾厄
 
 ## 描述
 

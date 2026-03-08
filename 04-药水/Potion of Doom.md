@@ -1,3 +1,10 @@
+---
+name:: Potion of Doom
+aliases:: ["灾厄药水"]
+character:: "[[死灵契约师]]"
+rarity:: "[[普通]]"
+---
+
 # Potion of Doom
 
 > **稀有度**: [[普通]] | **所属**: [[死灵契约师]]
