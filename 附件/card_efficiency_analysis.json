@@ -1,0 +1,2578 @@
+{
+  "metadata": {
+    "total_cards_analyzed": 376,
+    "analysis_date": "2025-03-08",
+    "model_version": "1.0"
+  },
+  "statistics": {
+    "mean": 0.724623018696793,
+    "median": 0.5857142857142856,
+    "stdev": 0.8544032273313058
+  },
+  "categories": {
+    "super_model": [
+      {
+        "title": "The Smith",
+        "energy": 1,
+        "rarity": "Rare",
+        "type": "Skill",
+        "efficiency_ratio": 9.89,
+        "expected_value": 9.1,
+        "actual_value": 90.0,
+        "damage": 0,
+        "block": 0,
+        "draw": 0,
+        "description": "Forge 30."
+      },
+      {
+        "title": "Spoils of Battle",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Skill",
+        "efficiency_ratio": 4.29,
+        "expected_value": 7.0,
+        "actual_value": 30.0,
+        "damage": 0,
+        "block": 0,
+        "draw": 0,
+        "description": "Forge 10."
+      },
+      {
+        "title": "Devastate",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Attack",
+        "efficiency_ratio": 3.73,
+        "expected_value": 8.0,
+        "actual_value": 30.0,
+        "damage": 30,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 30 damage."
+      },
+      {
+        "title": "Scrape",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Attack",
+        "efficiency_ratio": 3.3,
+        "expected_value": 8.0,
+        "actual_value": 26.6,
+        "damage": 7,
+        "block": 0,
+        "draw": 4,
+        "description": "Deal 7 damage. Draw 4 cards. Discard all cards drawn this way that do not cost 0 ."
+      },
+      {
+        "title": "Wrought in War",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 3.14,
+        "expected_value": 7.0,
+        "actual_value": 22.0,
+        "damage": 7,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 7 damage. Forge 5."
+      },
+      {
+        "title": "Guiding Star",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 3.11,
+        "expected_value": 7.0,
+        "actual_value": 21.8,
+        "damage": 12,
+        "block": 0,
+        "draw": 2,
+        "description": "Deal 12 damage. Next turn, draw 2 cards."
+      },
+      {
+        "title": "Summon Forth",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Skill",
+        "efficiency_ratio": 2.98,
+        "expected_value": 8.0,
+        "actual_value": 24.0,
+        "damage": 0,
+        "block": 0,
+        "draw": 0,
+        "description": "Forge 8. Put Sovereign Blade into your Hand from anywhere."
+      },
+      {
+        "title": "Bulwark",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "type": "Skill",
+        "efficiency_ratio": 2.81,
+        "expected_value": 16.1,
+        "actual_value": 45.2,
+        "damage": 0,
+        "block": 13,
+        "draw": 0,
+        "description": "Gain 13 Block. Forge 10."
+      },
+      {
+        "title": "Refine Blade",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Skill",
+        "efficiency_ratio": 2.57,
+        "expected_value": 7.0,
+        "actual_value": 18.0,
+        "damage": 0,
+        "block": 0,
+        "draw": 0,
+        "description": "Forge 6. Next turn, gain ."
+      },
+      {
+        "title": "The Bomb",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "type": "Skill",
+        "efficiency_ratio": 2.48,
+        "expected_value": 13.7,
+        "actual_value": 34.0,
+        "damage": 40,
+        "block": 0,
+        "draw": 0,
+        "description": "At the end of 3 turns, deal 40 damage to ALL enemies."
+      },
+      {
+        "title": "Reflect",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Skill",
+        "efficiency_ratio": 2.46,
+        "expected_value": 8.0,
+        "actual_value": 19.8,
+        "damage": 0,
+        "block": 17,
+        "draw": 0,
+        "description": "Gain 17 Block. Blocked attack damage is reflected to your attacker this turn."
+      },
+      {
+        "title": "Crash Landing",
+        "energy": 1,
+        "rarity": "Rare",
+        "type": "Attack",
+        "efficiency_ratio": 2.31,
+        "expected_value": 7.7,
+        "actual_value": 17.8,
+        "damage": 21,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 21 damage to ALL enemies. Fill your Hand with Debris."
+      },
+      {
+        "title": "Seeking Edge",
+        "energy": 1,
+        "rarity": "Rare",
+        "type": "Power",
+        "efficiency_ratio": 2.31,
+        "expected_value": 7.7,
+        "actual_value": 17.8,
+        "damage": 0,
+        "block": 0,
+        "draw": 0,
+        "description": "Forge 7. Sovereign Blade now deals damage to ALL enemies."
+      },
+      {
+        "title": "Setup Strike",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 2.29,
+        "expected_value": 7.0,
+        "actual_value": 16.0,
+        "damage": 7,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 7 damage. Gain 2 Strength this turn."
+      },
+      {
+        "title": "Backflip",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Skill",
+        "efficiency_ratio": 2.23,
+        "expected_value": 7.0,
+        "actual_value": 15.6,
+        "damage": 0,
+        "block": 5,
+        "draw": 2,
+        "description": "Gain 5 Block. Draw 2 cards."
+      },
+      {
+        "title": "Beat into Shape",
+        "energy": 1,
+        "rarity": "Rare",
+        "type": "Attack",
+        "efficiency_ratio": 2.2,
+        "expected_value": 9.1,
+        "actual_value": 20.0,
+        "damage": 5,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 5 damage. Forge 5. Forges an additional 5 for every other time you've hit the enemy this turn."
+      },
+      {
+        "title": "Photon Cut",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 2.13,
+        "expected_value": 7.0,
+        "actual_value": 14.9,
+        "damage": 10,
+        "block": 0,
+        "draw": 1,
+        "description": "Deal 10 damage. Draw 1 card. Put 1 card from your Hand on top of your Draw Pile."
+      },
+      {
+        "title": "Acrobatics",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Skill",
+        "efficiency_ratio": 2.1,
+        "expected_value": 7.0,
+        "actual_value": 14.7,
+        "damage": 0,
+        "block": 0,
+        "draw": 3,
+        "description": "Draw 3 cards. Discard 1 card."
+      },
+      {
+        "title": "Impervious",
+        "energy": 2,
+        "rarity": "Rare",
+        "type": "Skill",
+        "efficiency_ratio": 2.09,
+        "expected_value": 18.2,
+        "actual_value": 38.0,
+        "damage": 0,
+        "block": 30,
+        "draw": 0,
+        "description": "Gain 30 Block. Exhaust."
+      },
+      {
+        "title": "Shrug It Off",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Skill",
+        "efficiency_ratio": 2.03,
+        "expected_value": 7.0,
+        "actual_value": 14.2,
+        "damage": 0,
+        "block": 8,
+        "draw": 1,
+        "description": "Gain 8 Block. Draw 1 card."
+      },
+      {
+        "title": "Pommel Strike",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 1.99,
+        "expected_value": 7.0,
+        "actual_value": 13.9,
+        "damage": 9,
+        "block": 0,
+        "draw": 1,
+        "description": "Deal 9 damage. Draw 1 card."
+      },
+      {
+        "title": "Dagger Throw",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 1.99,
+        "expected_value": 7.0,
+        "actual_value": 13.9,
+        "damage": 9,
+        "block": 0,
+        "draw": 1,
+        "description": "Deal 9 damage. Draw 1 card. Discard 1 card."
+      },
+      {
+        "title": "Blade Dance",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Skill",
+        "efficiency_ratio": 1.93,
+        "expected_value": 7.0,
+        "actual_value": 13.5,
+        "damage": 0,
+        "block": 0,
+        "draw": 0,
+        "description": "Add 3 Shivs into your Hand. Exhaust."
+      },
+      {
+        "title": "Fight Through",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Skill",
+        "efficiency_ratio": 1.88,
+        "expected_value": 8.0,
+        "actual_value": 15.2,
+        "damage": 0,
+        "block": 13,
+        "draw": 0,
+        "description": "Gain 13 Block. Add 2 Wounds into your Discard Pile."
+      },
+      {
+        "title": "Grave Warden",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Skill",
+        "efficiency_ratio": 1.83,
+        "expected_value": 7.0,
+        "actual_value": 12.8,
+        "damage": 0,
+        "block": 8,
+        "draw": 0,
+        "description": "Gain 8 Block. Add a Soul into your Draw Pile."
+      },
+      {
+        "title": "Skim",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Skill",
+        "efficiency_ratio": 1.83,
+        "expected_value": 8.0,
+        "actual_value": 14.7,
+        "damage": 0,
+        "block": 0,
+        "draw": 3,
+        "description": "Draw 3 cards."
+      },
+      {
+        "title": "Glimmer",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Skill",
+        "efficiency_ratio": 1.83,
+        "expected_value": 8.0,
+        "actual_value": 14.7,
+        "damage": 0,
+        "block": 0,
+        "draw": 3,
+        "description": "Draw 3 cards. Put 1 card from your Hand on top of your Draw Pile."
+      },
+      {
+        "title": "Prophesize",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "type": "Skill",
+        "efficiency_ratio": 1.83,
+        "expected_value": 16.1,
+        "actual_value": 29.4,
+        "damage": 0,
+        "block": 0,
+        "draw": 6,
+        "description": "Draw 6 cards."
+      },
+      {
+        "title": "Reave",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 1.79,
+        "expected_value": 7.0,
+        "actual_value": 12.5,
+        "damage": 9,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 9 damage. Add a Soul into your Draw Pile."
+      },
+      {
+        "title": "Hemokinesis",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Attack",
+        "efficiency_ratio": 1.74,
+        "expected_value": 8.0,
+        "actual_value": 14.0,
+        "damage": 14,
+        "block": 0,
+        "draw": 0,
+        "description": "Lose 2 HP. Deal 14 damage."
+      },
+      {
+        "title": "Ultimate Strike",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Attack",
+        "efficiency_ratio": 1.74,
+        "expected_value": 8.0,
+        "actual_value": 14.0,
+        "damage": 14,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 14 damage."
+      },
+      {
+        "title": "Molten Fist",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 1.71,
+        "expected_value": 7.0,
+        "actual_value": 12.0,
+        "damage": 10,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 10 damage. Double the enemy's Vulnerable. Exhaust."
+      },
+      {
+        "title": "Afterlife",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Skill",
+        "efficiency_ratio": 1.71,
+        "expected_value": 7.0,
+        "actual_value": 12.0,
+        "damage": 0,
+        "block": 0,
+        "draw": 0,
+        "description": "Summon 6. Exhaust."
+      },
+      {
+        "title": "Salvo",
+        "energy": 1,
+        "rarity": "Rare",
+        "type": "Attack",
+        "efficiency_ratio": 1.7,
+        "expected_value": 9.1,
+        "actual_value": 15.5,
+        "damage": 12,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 12 damage. Retain your Hand this turn."
+      },
+      {
+        "title": "Compile Driver",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 1.7,
+        "expected_value": 7.0,
+        "actual_value": 11.9,
+        "damage": 7,
+        "block": 0,
+        "draw": 1,
+        "description": "Deal 7 damage. Draw 1 card for each unique Orb you have."
+      },
+      {
+        "title": "Sow",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 1.64,
+        "expected_value": 6.0,
+        "actual_value": 9.8,
+        "damage": 8,
+        "block": 0,
+        "draw": 0,
+        "description": "Retain. Deal 8 damage to ALL enemies."
+      },
+      {
+        "title": "Bury",
+        "energy": 4,
+        "rarity": "Uncommon",
+        "type": "Attack",
+        "efficiency_ratio": 1.61,
+        "expected_value": 32.2,
+        "actual_value": 52.0,
+        "damage": 52,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 52 damage."
+      },
+      {
+        "title": "True Grit",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Skill",
+        "efficiency_ratio": 1.6,
+        "expected_value": 7.0,
+        "actual_value": 11.2,
+        "damage": 0,
+        "block": 7,
+        "draw": 0,
+        "description": "Gain 7 Block. Exhaust 1 card ."
+      },
+      {
+        "title": "Ultimate Defend",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Skill",
+        "efficiency_ratio": 1.59,
+        "expected_value": 8.0,
+        "actual_value": 12.8,
+        "damage": 0,
+        "block": 11,
+        "draw": 0,
+        "description": "Gain 11 Block."
+      },
+      {
+        "title": "Burning Pact",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Skill",
+        "efficiency_ratio": 1.59,
+        "expected_value": 8.0,
+        "actual_value": 12.8,
+        "damage": 0,
+        "block": 0,
+        "draw": 2,
+        "description": "Exhaust 1 card. Draw 2 cards."
+      },
+      {
+        "title": "Sweeping Beam",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 1.56,
+        "expected_value": 6.0,
+        "actual_value": 9.3,
+        "damage": 6,
+        "block": 0,
+        "draw": 1,
+        "description": "Deal 6 damage to ALL enemies. Draw 1 card."
+      },
+      {
+        "title": "Iron Wave",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 1.55,
+        "expected_value": 7.0,
+        "actual_value": 10.8,
+        "damage": 5,
+        "block": 5,
+        "draw": 0,
+        "description": "Gain 5 Block. Deal 5 damage."
+      },
+      {
+        "title": "Predator",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "type": "Attack",
+        "efficiency_ratio": 1.54,
+        "expected_value": 16.1,
+        "actual_value": 24.8,
+        "damage": 15,
+        "block": 0,
+        "draw": 2,
+        "description": "Deal 15 damage. Next turn, draw 2 cards."
+      },
+      {
+        "title": "Evil Eye",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Skill",
+        "efficiency_ratio": 1.53,
+        "expected_value": 8.0,
+        "actual_value": 12.3,
+        "damage": 0,
+        "block": 8,
+        "draw": 0,
+        "description": "Gain 8 Block. Gain another 8 Block if you have Exhausted a card this turn."
+      },
+      {
+        "title": "Cloak and Dagger",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Skill",
+        "efficiency_ratio": 1.5,
+        "expected_value": 7.0,
+        "actual_value": 10.5,
+        "damage": 0,
+        "block": 6,
+        "draw": 0,
+        "description": "Gain 6 Block. Add 1 Shiv into your Hand."
+      },
+      {
+        "title": "Leading Strike",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 1.5,
+        "expected_value": 7.0,
+        "actual_value": 10.5,
+        "damage": 7,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 7 damage. Add 1 Shiv into your Hand."
+      },
+      {
+        "title": "Leap",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Skill",
+        "efficiency_ratio": 1.5,
+        "expected_value": 7.0,
+        "actual_value": 10.5,
+        "damage": 0,
+        "block": 9,
+        "draw": 0,
+        "description": "Gain 9 Block."
+      },
+      {
+        "title": "Furnace",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "type": "Power",
+        "efficiency_ratio": 1.49,
+        "expected_value": 8.0,
+        "actual_value": 12.0,
+        "damage": 0,
+        "block": 0,
+        "draw": 0,
+        "description": "At the start of your turn, Forge 4."
+      },
+      {
+        "title": "Glimpse Beyond",
+        "energy": 1,
+        "rarity": "Rare",
+        "type": "Skill",
+        "efficiency_ratio": 1.48,
+        "expected_value": 7.7,
+        "actual_value": 11.5,
+        "damage": 0,
+        "block": 0,
+        "draw": 0,
+        "description": "ALL players add 3 Souls into their Draw Pile. Exhaust."
+      },
+      {
+        "title": "Reap",
+        "energy": 3,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 1.45,
+        "expected_value": 21.0,
+        "actual_value": 30.5,
+        "damage": 27,
+        "block": 0,
+        "draw": 0,
+        "description": "Retain. Deal 27 damage."
+      },
+      {
+        "title": "Hyperbeam",
+        "energy": 2,
+        "rarity": "Rare",
+        "type": "Attack",
+        "efficiency_ratio": 1.43,
+        "expected_value": 15.5,
+        "actual_value": 22.1,
+        "damage": 26,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 26 damage to ALL enemies. Lose 3 Focus."
+      },
+      {
+        "title": "Momentum Strike",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 1.43,
+        "expected_value": 7.0,
+        "actual_value": 10.0,
+        "damage": 10,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 10 damage. Reduce this card's cost to 0 ."
+      },
+      {
+        "title": "Drain Power",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Attack",
+        "efficiency_ratio": 1.43,
+        "expected_value": 7.0,
+        "actual_value": 10.0,
+        "damage": 10,
+        "block": 0,
+        "draw": 0,
+        "description": "Deal 10 damage. Upgrade 2 random cards in your Discard Pile."
+      },
+      {
+        "title": "Glow",
+        "energy": 1,
+        "rarity": "Common",
+        "type": "Skill",
+        "efficiency_ratio": 1.4,
+        "expected_value": 7.0,
+        "actual_value": 9.8,
+        "damage": 0,
+        "block": 0,
+        "draw": 2,
+        "description": "Gain . Draw 2 cards."
+      }
+    ],
+    "good": [
+      {
+        "title": "Parse",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.39
+      },
+      {
+        "title": "Soul Storm",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 1.37
+      },
+      {
+        "title": "Outbreak",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.37
+      },
+      {
+        "title": "Debilitate",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.37
+      },
+      {
+        "title": "Thrumming Hatchet",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.37
+      },
+      {
+        "title": "Defile",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.36
+      },
+      {
+        "title": "Dash",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.35
+      },
+      {
+        "title": "Blood Wall",
+        "energy": 2,
+        "rarity": "Common",
+        "efficiency_ratio": 1.33
+      },
+      {
+        "title": "Patter",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.33
+      },
+      {
+        "title": "Bludgeon",
+        "energy": 3,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.33
+      },
+      {
+        "title": "Bone Shards",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.3
+      },
+      {
+        "title": "Capture Spirit",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.3
+      },
+      {
+        "title": "Intercept",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.3
+      },
+      {
+        "title": "Headbutt",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.29
+      },
+      {
+        "title": "Sucker Punch",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.29
+      },
+      {
+        "title": "Focused Strike",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.29
+      },
+      {
+        "title": "Breakthrough",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.29
+      },
+      {
+        "title": "Dismantle",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.24
+      },
+      {
+        "title": "Knockout Blow",
+        "energy": 3,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.24
+      },
+      {
+        "title": "Iteration",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.22
+      },
+      {
+        "title": "Huddle Up",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.22
+      },
+      {
+        "title": "Cinder",
+        "energy": 2,
+        "rarity": "Common",
+        "efficiency_ratio": 1.21
+      },
+      {
+        "title": "Shatter",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 1.21
+      },
+      {
+        "title": "Reanimate",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 1.21
+      }
+    ],
+    "normal": [
+      {
+        "title": "Charge Battery",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.17
+      },
+      {
+        "title": "Gather Light",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.17
+      },
+      {
+        "title": "Equilibrium",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.16
+      },
+      {
+        "title": "Poisoned Stab",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.16
+      },
+      {
+        "title": "I Am Invincible",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 1.15
+      },
+      {
+        "title": "Blight Strike",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.14
+      },
+      {
+        "title": "Solar Strike",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.14
+      },
+      {
+        "title": "Taunt",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.14
+      },
+      {
+        "title": "Flame Barrier",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.12
+      },
+      {
+        "title": "Rampage",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.12
+      },
+      {
+        "title": "Conqueror",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.12
+      },
+      {
+        "title": "Rocket Punch",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.11
+      },
+      {
+        "title": "Feed",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 1.1
+      },
+      {
+        "title": "Echoing Slash",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 1.1
+      },
+      {
+        "title": "The Hunt",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 1.1
+      },
+      {
+        "title": "Hang",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 1.1
+      },
+      {
+        "title": "Hand of Greed",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 1.1
+      },
+      {
+        "title": "Second Wind",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.1
+      },
+      {
+        "title": "Crimson Mantle",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 1.03
+      },
+      {
+        "title": "Severance",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.02
+      },
+      {
+        "title": "Hand Trick",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.01
+      },
+      {
+        "title": "Manifest Authority",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 1.01
+      },
+      {
+        "title": "Pull Aggro",
+        "energy": 2,
+        "rarity": "Common",
+        "efficiency_ratio": 1.01
+      },
+      {
+        "title": "Flick-Flack",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.0
+      },
+      {
+        "title": "Ball Lightning",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.0
+      },
+      {
+        "title": "Cosmic Indifference",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.0
+      },
+      {
+        "title": "Crush Under",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 1.0
+      },
+      {
+        "title": "Memento Mori",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.99
+      },
+      {
+        "title": "Strangle",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.99
+      },
+      {
+        "title": "Sunder",
+        "energy": 3,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.99
+      },
+      {
+        "title": "Death March",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.99
+      },
+      {
+        "title": "Spur",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.99
+      },
+      {
+        "title": "Kingly Punch",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.99
+      },
+      {
+        "title": "Shining Strike",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.99
+      },
+      {
+        "title": "Blade of Ink",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.99
+      },
+      {
+        "title": "Adaptive Strike",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.99
+      },
+      {
+        "title": "Heirloom Hammer",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.93
+      },
+      {
+        "title": "Uppercut",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.93
+      },
+      {
+        "title": "Cleanse",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.93
+      },
+      {
+        "title": "Hegemony",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.93
+      },
+      {
+        "title": "Leg Sweep",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.92
+      },
+      {
+        "title": "Glitterstream",
+        "energy": 2,
+        "rarity": "Common",
+        "efficiency_ratio": 0.92
+      },
+      {
+        "title": "Jackpot",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.92
+      },
+      {
+        "title": "Conflagration",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.88
+      },
+      {
+        "title": "Follow Through",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.87
+      },
+      {
+        "title": "Fight Me!",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.87
+      },
+      {
+        "title": "Grapple",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.87
+      },
+      {
+        "title": "Phantom Blades",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.87
+      },
+      {
+        "title": "Compact",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.87
+      },
+      {
+        "title": "Rip and Tear",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.87
+      }
+    ],
+    "under_model": [
+      {
+        "title": "Shadow Shield",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.8
+      },
+      {
+        "title": "Delay",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.8
+      },
+      {
+        "title": "Bubble Bubble",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.78
+      },
+      {
+        "title": "Fan of Knives",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.77
+      },
+      {
+        "title": "Rally",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.77
+      },
+      {
+        "title": "Untouchable",
+        "energy": 2,
+        "rarity": "Common",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Ashen Strike",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Inferno",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Pillage",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Unrelenting",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Finisher",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Pounce",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Hailstorm",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Null",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Synthesis",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Thunder",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Legion of Bone",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Kingly Kick",
+        "energy": 4,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Seeker Strike",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.75
+      },
+      {
+        "title": "Blur",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.72
+      },
+      {
+        "title": "Glasswork",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.72
+      },
+      {
+        "title": "Thunderclap",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.71
+      },
+      {
+        "title": "Twin Strike",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.71
+      },
+      {
+        "title": "Barrage",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.71
+      },
+      {
+        "title": "The Scythe",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.71
+      },
+      {
+        "title": "Pinpoint",
+        "energy": 3,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.7
+      },
+      {
+        "title": "Coolheaded",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.7
+      },
+      {
+        "title": "Scourge",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.7
+      },
+      {
+        "title": "Ice Lance",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.7
+      },
+      {
+        "title": "Tag Team",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.68
+      },
+      {
+        "title": "Dodge and Roll",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.67
+      },
+      {
+        "title": "Lightning Rod",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.67
+      },
+      {
+        "title": "Howl from Beyond",
+        "energy": 3,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.66
+      },
+      {
+        "title": "Bombardment",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.66
+      },
+      {
+        "title": "Up My Sleeve",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.65
+      },
+      {
+        "title": "Defy",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.64
+      },
+      {
+        "title": "Fear",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.64
+      },
+      {
+        "title": "Sculpting Strike",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.64
+      },
+      {
+        "title": "Melancholy",
+        "energy": 3,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.63
+      },
+      {
+        "title": "Smokestack",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.62
+      },
+      {
+        "title": "Flechettes",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.62
+      },
+      {
+        "title": "Supermassive",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.62
+      },
+      {
+        "title": "Gang Up",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.62
+      },
+      {
+        "title": "Pale Blue Dot",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.61
+      },
+      {
+        "title": "Dying Star",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.6
+      },
+      {
+        "title": "Snap",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.6
+      },
+      {
+        "title": "Snakebite",
+        "energy": 2,
+        "rarity": "Common",
+        "efficiency_ratio": 0.6
+      },
+      {
+        "title": "Dagger Spray",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.57
+      },
+      {
+        "title": "Gunk Up",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.57
+      },
+      {
+        "title": "Graveblast",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.57
+      },
+      {
+        "title": "BEGONE!",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.57
+      },
+      {
+        "title": "Resonance",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.56
+      },
+      {
+        "title": "All for One",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.55
+      },
+      {
+        "title": "Devour Life",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.55
+      },
+      {
+        "title": "Mangle",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.55
+      },
+      {
+        "title": "Banshee's Cry",
+        "energy": 6,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.54
+      },
+      {
+        "title": "Tools of the Trade",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.54
+      },
+      {
+        "title": "Tyranny",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.54
+      },
+      {
+        "title": "Meteor Strike",
+        "energy": 5,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.53
+      },
+      {
+        "title": "Deadly Poison",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.5
+      },
+      {
+        "title": "Hologram",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.5
+      },
+      {
+        "title": "Shockwave",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.5
+      },
+      {
+        "title": "Stomp",
+        "energy": 3,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.5
+      },
+      {
+        "title": "Genetic Algorithm",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.46
+      },
+      {
+        "title": "Flak Cannon",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.44
+      },
+      {
+        "title": "Thrash",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.44
+      },
+      {
+        "title": "Feel No Pain",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Accuracy",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Infinite Blades",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Well-Laid Plans",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Glacier",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Danse Macabre",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Haunt",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Sic 'Em",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Convergence",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Pillar of Creation",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Mind Blast",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Havoc",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Perfected Strike",
+        "energy": 2,
+        "rarity": "Common",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Sword Boomerang",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Piercing Wail",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Invoke",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Celestial Might",
+        "energy": 2,
+        "rarity": "Common",
+        "efficiency_ratio": 0.43
+      },
+      {
+        "title": "Necro Mastery",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.41
+      },
+      {
+        "title": "Reflex",
+        "energy": 3,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.41
+      },
+      {
+        "title": "Fiend Fire",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.38
+      },
+      {
+        "title": "Storm of Steel",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.38
+      },
+      {
+        "title": "Sacrifice",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.38
+      },
+      {
+        "title": "Seven Stars",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.38
+      },
+      {
+        "title": "Forgotten Ritual",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.37
+      },
+      {
+        "title": "Infernal Blade",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.37
+      },
+      {
+        "title": "Mirage",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.37
+      },
+      {
+        "title": "Double Energy",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.37
+      },
+      {
+        "title": "Energy Surge",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.37
+      },
+      {
+        "title": "Refract",
+        "energy": 3,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.37
+      },
+      {
+        "title": "Scavenge",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.37
+      },
+      {
+        "title": "White Noise",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.37
+      },
+      {
+        "title": "Dredge",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.37
+      },
+      {
+        "title": "Black Hole",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.37
+      },
+      {
+        "title": "Knockdown",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.37
+      },
+      {
+        "title": "Knife Trap",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.36
+      },
+      {
+        "title": "Uproar",
+        "energy": 2,
+        "rarity": "Common",
+        "efficiency_ratio": 0.36
+      },
+      {
+        "title": "Stoke",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.33
+      },
+      {
+        "title": "Signal Boost",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.33
+      },
+      {
+        "title": "Alchemize",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.33
+      },
+      {
+        "title": "Anointed",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.33
+      },
+      {
+        "title": "Scrawl",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.33
+      },
+      {
+        "title": "Shroud",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.29
+      },
+      {
+        "title": "Child of the Stars",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.29
+      },
+      {
+        "title": "Tremble",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.29
+      },
+      {
+        "title": "Juggernaut",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.27
+      },
+      {
+        "title": "Tear Asunder",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.27
+      },
+      {
+        "title": "Dark Embrace",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.27
+      },
+      {
+        "title": "Coolant",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.26
+      },
+      {
+        "title": "Corrosive Wave",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.23
+      },
+      {
+        "title": "Cruelty",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.22
+      },
+      {
+        "title": "Ricochet",
+        "energy": 2,
+        "rarity": "Common",
+        "efficiency_ratio": 0.21
+      },
+      {
+        "title": "High Five",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.19
+      },
+      {
+        "title": "Pull from Below",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.19
+      },
+      {
+        "title": "Rolling Boulder",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.18
+      },
+      {
+        "title": "Pagestorm",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.17
+      },
+      {
+        "title": "Eidolon",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.16
+      },
+      {
+        "title": "Bundle of Joy",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.16
+      },
+      {
+        "title": "GUARDS!!!",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.16
+      },
+      {
+        "title": "Serpent Form",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.15
+      },
+      {
+        "title": "Bouncing Flask",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.13
+      },
+      {
+        "title": "Spirit of Ash",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.13
+      },
+      {
+        "title": "Afterimage",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.13
+      },
+      {
+        "title": "Speedster",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.12
+      },
+      {
+        "title": "Haze",
+        "energy": 3,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.12
+      },
+      {
+        "title": "Nightmare",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.11
+      },
+      {
+        "title": "Tracking",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.11
+      },
+      {
+        "title": "Squeeze",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.09
+      },
+      {
+        "title": "Rattle",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.09
+      },
+      {
+        "title": "Flatten",
+        "energy": 2,
+        "rarity": "Common",
+        "efficiency_ratio": 0.09
+      },
+      {
+        "title": "Sneaky",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.06
+      },
+      {
+        "title": "Deathbringer",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.06
+      },
+      {
+        "title": "Murder",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.04
+      },
+      {
+        "title": "Aggression",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Barricade",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Body Slam",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Demon Form",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Expect a Fight",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Hellraiser",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Inflame",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Juggling",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "One-Two Punch",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Pyre",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Rupture",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Stampede",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Stone Armor",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Tank",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Unmovable",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Abrasive",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Accelerant",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Bullet Time",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Burst",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Envenom",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Expertise",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Flanking",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Footwork",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Master Planner",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Noxious Fumes",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Shadow Step",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Shadowmeld",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Tactician",
+        "energy": 3,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Buffer",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Bulk Up",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Capacitor",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Chaos",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Consuming Shadow",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Creative AI",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Darkness",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Defragment",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Echo Form",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Feral",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Fusion",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Ignition",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Loop",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Machine Learning",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Rainbow",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Spinner",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Storm",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Subroutine",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Synchronize",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Trash to Treasure",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Voltaic",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Calcify",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Countdown",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "End of Days",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Friendship",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "No Escape",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Reaper Form",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Sentry Mode",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Sleight of Flesh",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Time's Up",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Transfigure",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Arsenal",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "CHARGE!!",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Foregone Conclusion",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Genesis",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Hammer Time",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Hidden Cache",
+        "energy": 1,
+        "rarity": "Common",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Monarch's Gaze",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Neutron Aegis",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Orbit",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Royalties",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Spectrum Shift",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Sword Sage",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Terraforming",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Void Form",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Automation",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Beacon of Hope",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Beat Down",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Calamity",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Catastrophe",
+        "energy": 2,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Coordinate",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Discovery",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Entropy",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Eternal Armor",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Fasten",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Gold Axe",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Hidden Gem",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Lift",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Mayhem",
+        "energy": 2,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Mimic",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Nostalgia",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Prep Time",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Prowess",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Splash",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Stratagem",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": 0.0
+      },
+      {
+        "title": "Demesne",
+        "energy": 3,
+        "rarity": "Rare",
+        "efficiency_ratio": -0.13
+      },
+      {
+        "title": "Call of the Void",
+        "energy": 1,
+        "rarity": "Rare",
+        "efficiency_ratio": -0.38
+      },
+      {
+        "title": "Enfeebling Touch",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": -0.43
+      },
+      {
+        "title": "Lethality",
+        "energy": 1,
+        "rarity": "Uncommon",
+        "efficiency_ratio": -0.43
+      }
+    ]
+  }
+}

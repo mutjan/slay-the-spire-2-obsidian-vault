@@ -1,0 +1,5042 @@
+[
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/aggression",
+    "Title": "Aggression",
+    "Description": "At the start of your turn, put a random Attack from your Discard Pile into your Hand and Upgrade it.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/anger",
+    "Title": "Anger",
+    "Description": "Deal 6 damage. Add a copy of this card into your Discard Pile.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/armaments",
+    "Title": "Armaments",
+    "Description": "Gain 5 Block. Upgrade a card in your Hand.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/ashen_strike",
+    "Title": "Ashen Strike",
+    "Description": "Deal 6 damage. Deals 3 additional damage for each card in your Exhaust Pile.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/barricade",
+    "Title": "Barricade",
+    "Description": "Block is not removed at the start of your turn.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bash",
+    "Title": "Bash",
+    "Description": "Deal 8 damage. Apply 2 Vulnerable.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/battle_trance",
+    "Title": "Battle Trance",
+    "Description": "Draw 3 cards. You cannot draw additional cards this turn.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/blood_wall",
+    "Title": "Blood Wall",
+    "Description": "Lose 2 HP. Gain 16 Block.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bloodletting",
+    "Title": "Bloodletting",
+    "Description": "Lose 3 HP. Gain .",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bludgeon",
+    "Title": "Bludgeon",
+    "Description": "Deal 32 damage.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/body_slam",
+    "Title": "Body Slam",
+    "Description": "Deal damage equal to your Block.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/brand",
+    "Title": "Brand",
+    "Description": "Lose 1 HP. Exhaust 1 card. Gain 1 Strength.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/break",
+    "Title": "Break",
+    "Description": "Deal 20 damage. Apply 5 Vulnerable.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/breakthrough",
+    "Title": "Breakthrough",
+    "Description": "Lose 1 HP. Deal 9 damage to ALL enemies.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bully",
+    "Title": "Bully",
+    "Description": "Deal 4 damage. Deals 2 additional damage for each Vulnerable on the enemy.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/burning_pact",
+    "Title": "Burning Pact",
+    "Description": "Exhaust 1 card. Draw 2 cards.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/cascade",
+    "Title": "Cascade",
+    "Description": "Play the top X cards of your Draw Pile.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "X",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/cinder",
+    "Title": "Cinder",
+    "Description": "Deal 17 damage. Exhaust the top card of your Draw Pile.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/colossus",
+    "Title": "Colossus",
+    "Description": "Gain 5 Block. You receive 50% less damage from Vulnerable enemies this turn.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/conflagration",
+    "Title": "Conflagration",
+    "Description": "Deal 8 damage to ALL enemies. Deals 2 additional damage for each other Attack you've played this turn.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/corruption",
+    "Title": "Corruption",
+    "Description": "Skills cost 0 . Whenever you play a Skill, Exhaust it.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/crimson_mantle",
+    "Title": "Crimson Mantle",
+    "Description": "At the start of your turn, lose 1 HP and gain 8 Block.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/cruelty",
+    "Title": "Cruelty",
+    "Description": "Vulnerable enemies take an additional 25% damage.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dark_embrace",
+    "Title": "Dark Embrace",
+    "Description": "Whenever a card is Exhausted, draw 1 card.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/defend_ironclad",
+    "Title": "Defend",
+    "Description": "Gain 5 Block.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/demon_form",
+    "Title": "Demon Form",
+    "Description": "At the start of your turn, gain 2 Strength.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/demonic_shield",
+    "Title": "Demonic Shield",
+    "Description": "Lose 1 HP. Give another player Block equal to your Block.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dismantle",
+    "Title": "Dismantle",
+    "Description": "Deal 8 damage. If the enemy is Vulnerable, hits twice.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dominate",
+    "Title": "Dominate",
+    "Description": "Gain 1 Strength for each Vulnerable on the enemy.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/drum_of_battle",
+    "Title": "Drum of Battle",
+    "Description": "Draw 2 cards. At the start of your turn, Exhaust the top card of your Draw Pile.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/evil_eye",
+    "Title": "Evil Eye",
+    "Description": "Gain 8 Block. Gain another 8 Block if you have Exhausted a card this turn.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/expect_a_fight",
+    "Title": "Expect a Fight",
+    "Description": "Gain  for each Attack in your Hand.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/feed",
+    "Title": "Feed",
+    "Description": "Deal 10 damage. If Fatal, raise your Max HP by 3. Exhaust.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/feel_no_pain",
+    "Title": "Feel No Pain",
+    "Description": "Whenever a card is Exhausted, gain 3 Block.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/fiend_fire",
+    "Title": "Fiend Fire",
+    "Description": "Exhaust your Hand. Deal 7 damage for each card Exhausted. Exhaust.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/fight_me",
+    "Title": "Fight Me!",
+    "Description": "Deal 5 damage twice. Gain 2 Strength. The enemy gains 1 Strength.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/flame_barrier",
+    "Title": "Flame Barrier",
+    "Description": "Gain 12 Block. Whenever you are attacked this turn, deal 4 damage back.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/forgotten_ritual",
+    "Title": "Forgotten Ritual",
+    "Description": "If you Exhausted a card this turn, gain  .",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/grapple",
+    "Title": "Grapple",
+    "Description": "Deal 7 damage. Whenever you gain Block this turn, deal 5 damage to the enemy.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/havoc",
+    "Title": "Havoc",
+    "Description": "Play the top card of your Draw Pile and Exhaust it.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/headbutt",
+    "Title": "Headbutt",
+    "Description": "Deal 9 damage. Put a card from your Discard Pile on top of your Draw Pile.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hellraiser",
+    "Title": "Hellraiser",
+    "Description": "Whenever you draw a card containing “Strike”, it is played against a random enemy.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hemokinesis",
+    "Title": "Hemokinesis",
+    "Description": "Lose 2 HP. Deal 14 damage.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/howl_from_beyond",
+    "Title": "Howl from Beyond",
+    "Description": "Deal 16 damage to ALL enemies. At the start of your turn, plays from the Exhaust Pile.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/impervious",
+    "Title": "Impervious",
+    "Description": "Gain 30 Block. Exhaust.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/infernal_blade",
+    "Title": "Infernal Blade",
+    "Description": "Add a random Attack into your Hand. It's free to play this turn. Exhaust.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/inferno",
+    "Title": "Inferno",
+    "Description": "At the start of your turn, lose 1 HP. Whenever you lose HP on your turn, deal 6 damage to ALL enemies.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/inflame",
+    "Title": "Inflame",
+    "Description": "Gain 2 Strength.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/iron_wave",
+    "Title": "Iron Wave",
+    "Description": "Gain 5 Block. Deal 5 damage.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/juggernaut",
+    "Title": "Juggernaut",
+    "Description": "Whenever you gain Block, deal 5 damage to a random enemy.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/juggling",
+    "Title": "Juggling",
+    "Description": "Add a copy of the third Attack you play each turn into your Hand.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/mangle",
+    "Title": "Mangle",
+    "Description": "Deal 15 damage. Enemy loses 10 Strength this turn.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/molten_fist",
+    "Title": "Molten Fist",
+    "Description": "Deal 10 damage. Double the enemy's Vulnerable. Exhaust.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/offering",
+    "Title": "Offering",
+    "Description": "Lose 6 HP. Gain . Draw 3 cards. Exhaust.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/one_two_punch",
+    "Title": "One-Two Punch",
+    "Description": "This turn, your next Attack is  played an extra time.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/pacts_end",
+    "Title": "Pact's End",
+    "Description": "Can only be played if you have 3 or more cards in your Exhaust Pile. Deal 17 damage to ALL enemies.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/perfected_strike",
+    "Title": "Perfected Strike",
+    "Description": "Deal 6 damage. Deals 2 additional damage for ALL your cards containing “Strike”.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/pillage",
+    "Title": "Pillage",
+    "Description": "Deal 6 damage. Draw cards until you draw a non-Attack card.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/pommel_strike",
+    "Title": "Pommel Strike",
+    "Description": "Deal 9 damage. Draw 1 card.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/primal_force",
+    "Title": "Primal Force",
+    "Description": "Transform all Attacks in your Hand into Giant Rock.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/pyre",
+    "Title": "Pyre",
+    "Description": "Gain  at the start of each turn.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/rage",
+    "Title": "Rage",
+    "Description": "Whenever you play an Attack this turn, gain 3 Block.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/rampage",
+    "Title": "Rampage",
+    "Description": "Deal 9 damage. Increase this card's damage by 5 this combat.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/rupture",
+    "Title": "Rupture",
+    "Description": "Whenever you lose HP on your turn, gain 1 Strength.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/second_wind",
+    "Title": "Second Wind",
+    "Description": "Exhaust all non-Attack cards in your Hand. Gain 5 Block for each card Exhausted.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/setup_strike",
+    "Title": "Setup Strike",
+    "Description": "Deal 7 damage. Gain 2 Strength this turn.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/shrug_it_off",
+    "Title": "Shrug It Off",
+    "Description": "Gain 8 Block. Draw 1 card.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/spite",
+    "Title": "Spite",
+    "Description": "Deal 6 damage. If you lost HP this turn, draw 1 card.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/stampede",
+    "Title": "Stampede",
+    "Description": "At the end of your turn, 1 random Attack in your Hand is played against a random enemy.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/stoke",
+    "Title": "Stoke",
+    "Description": "Exhaust your Hand. Draw a card for each card Exhausted. Exhaust.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/stomp",
+    "Title": "Stomp",
+    "Description": "Deal 12 damage to ALL enemies. Costs 1 less  for each Attack played this turn.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/stone_armor",
+    "Title": "Stone Armor",
+    "Description": "Gain 4 Plating.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/strike_ironclad",
+    "Title": "Strike",
+    "Description": "Deal 6 damage.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/sword_boomerang",
+    "Title": "Sword Boomerang",
+    "Description": "Deal 3 damage to a random enemy 3 times.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/tank",
+    "Title": "Tank",
+    "Description": "Take double damage from enemies. Allies take half damage from enemies.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/taunt",
+    "Title": "Taunt",
+    "Description": "Gain 7 Block. Apply 1 Vulnerable.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/tear_asunder",
+    "Title": "Tear Asunder",
+    "Description": "Deal 5 damage. Hits an additional time for each time you lost HP this combat.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/thrash",
+    "Title": "Thrash",
+    "Description": "Deal 4 damage twice. Exhaust a random Attack in your Hand and add its damage to this card.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/thunderclap",
+    "Title": "Thunderclap",
+    "Description": "Deal 4 damage and apply 1 Vulnerable to ALL enemies.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/tremble",
+    "Title": "Tremble",
+    "Description": "Apply 2 Vulnerable.",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/true_grit",
+    "Title": "True Grit",
+    "Description": "Gain 7 Block. Exhaust 1 card .",
+    "Character": "Ironclad",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/twin_strike",
+    "Title": "Twin Strike",
+    "Description": "Deal 5 damage twice.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/unmovable",
+    "Title": "Unmovable",
+    "Description": "The first time you gain Block from a card each turn, double the amount gained.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/unrelenting",
+    "Title": "Unrelenting",
+    "Description": "Deal 12 damage. The next Attack you play costs 0 .",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/uppercut",
+    "Title": "Uppercut",
+    "Description": "Deal 13 damage. Apply 1 Weak. Apply 1 Vulnerable.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/vicious",
+    "Title": "Vicious",
+    "Description": "Whenever you apply Vulnerable, draw 1 card.",
+    "Character": "Ironclad",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/whirlwind",
+    "Title": "Whirlwind",
+    "Description": "Deal 5 damage to ALL enemies X times.",
+    "Character": "Ironclad",
+    "Type": "Attack",
+    "EnergyCost": "X",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/abrasive",
+    "Title": "Abrasive",
+    "Description": "Sly. Gain 1 Dexterity. Gain 4 Thorns.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/accelerant",
+    "Title": "Accelerant",
+    "Description": "Poison is triggered 1 additional time.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/accuracy",
+    "Title": "Accuracy",
+    "Description": "Shivs deal 4 additional damage.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/acrobatics",
+    "Title": "Acrobatics",
+    "Description": "Draw 3 cards. Discard 1 card.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/adrenaline",
+    "Title": "Adrenaline",
+    "Description": "Gain . Draw 2 cards. Exhaust.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/afterimage",
+    "Title": "Afterimage",
+    "Description": "Whenever you play a card, gain 1 Block.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/anticipate",
+    "Title": "Anticipate",
+    "Description": "Gain 3 Dexterity this turn.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/assassinate",
+    "Title": "Assassinate",
+    "Description": "Innate. Deal 10 damage. Apply 1 Vulnerable. Exhaust.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/backflip",
+    "Title": "Backflip",
+    "Description": "Gain 5 Block. Draw 2 cards.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/backstab",
+    "Title": "Backstab",
+    "Description": "Innate. Deal 11 damage. Exhaust.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/blade_dance",
+    "Title": "Blade Dance",
+    "Description": "Add 3 Shivs into your Hand. Exhaust.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/blade_of_ink",
+    "Title": "Blade of Ink",
+    "Description": "This turn, whenever you play an Attack, gain 2 Strength this turn.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/blur",
+    "Title": "Blur",
+    "Description": "Gain 5 Block. Block is not removed at the start of your next turn.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bouncing_flask",
+    "Title": "Bouncing Flask",
+    "Description": "Apply 3 Poison to a random enemy 3 times.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bubble_bubble",
+    "Title": "Bubble Bubble",
+    "Description": "If the enemy has Poison, apply 9 Poison.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bullet_time",
+    "Title": "Bullet Time",
+    "Description": "You cannot draw additional cards this turn. ALL cards in your Hand are free to play this turn.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/burst",
+    "Title": "Burst",
+    "Description": "This turn, your next Skill is  played an extra time.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/calculated_gamble",
+    "Title": "Calculated Gamble",
+    "Description": "Discard your Hand, then draw that many cards. Exhaust.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/cloak_and_dagger",
+    "Title": "Cloak and Dagger",
+    "Description": "Gain 6 Block. Add 1 Shiv into your Hand.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/corrosive_wave",
+    "Title": "Corrosive Wave",
+    "Description": "Whenever you draw a card this turn, apply 3 Poison to ALL enemies.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dagger_spray",
+    "Title": "Dagger Spray",
+    "Description": "Deal 4 damage to ALL enemies twice.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dagger_throw",
+    "Title": "Dagger Throw",
+    "Description": "Deal 9 damage. Draw 1 card. Discard 1 card.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dash",
+    "Title": "Dash",
+    "Description": "Gain 10 Block. Deal 10 damage.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/deadly_poison",
+    "Title": "Deadly Poison",
+    "Description": "Apply 5 Poison.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/defend_silent",
+    "Title": "Defend",
+    "Description": "Gain 5 Block.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/deflect",
+    "Title": "Deflect",
+    "Description": "Gain 4 Block.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dodge_and_roll",
+    "Title": "Dodge and Roll",
+    "Description": "Gain 4 Block. Next turn, gain 4 Block.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/echoing_slash",
+    "Title": "Echoing Slash",
+    "Description": "Deal 10 damage to ALL enemies. Repeat this effect for each enemy killed.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/envenom",
+    "Title": "Envenom",
+    "Description": "Whenever an Attack deals unblocked damage, apply 1 Poison.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/escape_plan",
+    "Title": "Escape Plan",
+    "Description": "Draw 1 card. If you draw a Skill, gain 3 Block.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/expertise",
+    "Title": "Expertise",
+    "Description": "Draw cards until you have 6 in your Hand.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/expose",
+    "Title": "Expose",
+    "Description": "Remove all Artifact and Block from the enemy. Apply 2 Vulnerable. Exhaust.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/fan_of_knives",
+    "Title": "Fan of Knives",
+    "Description": "Shivs now hit ALL enemies. Add 4 Shivs into your Hand.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/finisher",
+    "Title": "Finisher",
+    "Description": "Deal 6 damage for each Attack already played this turn.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/flanking",
+    "Title": "Flanking",
+    "Description": "The enemy takes double damage from other players this turn.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/flechettes",
+    "Title": "Flechettes",
+    "Description": "Deal 5 damage for each Skill in your Hand.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/flick_flack",
+    "Title": "Flick-Flack",
+    "Description": "Sly. Deal 7 damage to ALL enemies.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/follow_through",
+    "Title": "Follow Through",
+    "Description": "Deal 6 damage to ALL enemies. If the last card you played this turn was a Skill, apply 1 Weak to ALL enemies.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/footwork",
+    "Title": "Footwork",
+    "Description": "Gain 2 Dexterity.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/grand_finale",
+    "Title": "Grand Finale",
+    "Description": "Can only be played if there are no cards in your Draw Pile. Deal 50 damage to ALL enemies.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hand_trick",
+    "Title": "Hand Trick",
+    "Description": "Gain 7 Block. Add Sly to a Skill in your Hand this turn.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/haze",
+    "Title": "Haze",
+    "Description": "Sly. Apply 4 Poison to ALL enemies.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "3",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hidden_daggers",
+    "Title": "Hidden Daggers",
+    "Description": "Discard 2 cards. Add 2 Shivs into your Hand.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/infinite_blades",
+    "Title": "Infinite Blades",
+    "Description": "At the start of your turn, add 1 Shiv into your Hand.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/knife_trap",
+    "Title": "Knife Trap",
+    "Description": "Play  every Shiv in your Exhaust Pile on the enemy.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/leading_strike",
+    "Title": "Leading Strike",
+    "Description": "Deal 7 damage. Add 1 Shiv into your Hand.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/leg_sweep",
+    "Title": "Leg Sweep",
+    "Description": "Apply 2 Weak. Gain 11 Block.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/malaise",
+    "Title": "Malaise",
+    "Description": "Enemy loses X Strength. Apply X Weak. Exhaust.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "X",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/master_planner",
+    "Title": "Master Planner",
+    "Description": "When you play a Skill, it gains Sly.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/memento_mori",
+    "Title": "Memento Mori",
+    "Description": "Deal 8 damage. Deals 4 additional damage for each card discarded this turn.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/mirage",
+    "Title": "Mirage",
+    "Description": "Gain Block equal to Poison on ALL enemies. Exhaust.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/murder",
+    "Title": "Murder",
+    "Description": "Deal 1 damage. Deals 1 additional damage for each card drawn this combat.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/neutralize",
+    "Title": "Neutralize",
+    "Description": "Deal 3 damage. Apply 1 Weak.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/nightmare",
+    "Title": "Nightmare",
+    "Description": "Choose a card. Next turn, add 3 copies of that card into your Hand. Exhaust.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/noxious_fumes",
+    "Title": "Noxious Fumes",
+    "Description": "At the start of your turn, apply 2 Poison to ALL enemies.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/outbreak",
+    "Title": "Outbreak",
+    "Description": "Every 3 times you apply Poison, deal 11 damage to ALL enemies.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/phantom_blades",
+    "Title": "Phantom Blades",
+    "Description": "Shivs gain Retain. The first Shiv you play each turn deals 9 additional damage.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/piercing_wail",
+    "Title": "Piercing Wail",
+    "Description": "ALL enemies lose 6 Strength this turn. Exhaust.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/pinpoint",
+    "Title": "Pinpoint",
+    "Description": "Deal 17 damage. Costs 1 less  for each Skill played this turn.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/poisoned_stab",
+    "Title": "Poisoned Stab",
+    "Description": "Deal 6 damage. Apply 3 Poison.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/pounce",
+    "Title": "Pounce",
+    "Description": "Deal 12 damage. The next Skill you play costs 0 .",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/precise_cut",
+    "Title": "Precise Cut",
+    "Description": "Deal 13 damage. Deals 2 less damage for each other card in your Hand.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/predator",
+    "Title": "Predator",
+    "Description": "Deal 15 damage. Next turn, draw 2 cards.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/prepared",
+    "Title": "Prepared",
+    "Description": "Draw 1 card. Discard 1 card.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/reflex",
+    "Title": "Reflex",
+    "Description": "Sly. Draw 2 cards.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "3",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/ricochet",
+    "Title": "Ricochet",
+    "Description": "Sly. Deal 3 damage to a random enemy 4 times.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/serpent_form",
+    "Title": "Serpent Form",
+    "Description": "Whenever you play a card, deal 4 damage to a random enemy.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/shadow_step",
+    "Title": "Shadow Step",
+    "Description": "Discard your Hand. Next turn, Attacks deal double damage.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/shadowmeld",
+    "Title": "Shadowmeld",
+    "Description": "Double your Block gain this turn.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/skewer",
+    "Title": "Skewer",
+    "Description": "Deal 7 damage X times.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "X",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/slice",
+    "Title": "Slice",
+    "Description": "Deal 6 damage.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/snakebite",
+    "Title": "Snakebite",
+    "Description": "Retain. Apply 7 Poison.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/sneaky",
+    "Title": "Sneaky",
+    "Description": "Sly. Whenever another player attacks an enemy, gain 1 Block.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/speedster",
+    "Title": "Speedster",
+    "Description": "Whenever you draw a card during your turn, deal 2 damage to ALL enemies.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/storm_of_steel",
+    "Title": "Storm of Steel",
+    "Description": "Discard your Hand. Add 1 Shiv into your Hand for each card discarded.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/strangle",
+    "Title": "Strangle",
+    "Description": "Deal 8 damage. Whenever you play a card this turn, the enemy loses 2 HP.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/strike_silent",
+    "Title": "Strike",
+    "Description": "Deal 6 damage.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/sucker_punch",
+    "Title": "Sucker Punch",
+    "Description": "Deal 8 damage. Apply 1 Weak.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/suppress",
+    "Title": "Suppress",
+    "Description": "Innate. Deal 11 damage. Apply 3 Weak.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/survivor",
+    "Title": "Survivor",
+    "Description": "Gain 8 Block. Discard 1 card.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/tactician",
+    "Title": "Tactician",
+    "Description": "Sly. Gain .",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "3",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/the_hunt",
+    "Title": "The Hunt",
+    "Description": "Deal 10 damage. If Fatal, gain an additional card reward. Exhaust.",
+    "Character": "Silent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/tools_of_the_trade",
+    "Title": "Tools of the Trade",
+    "Description": "At the start of your turn, draw 1 card and discard 1 card.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/tracking",
+    "Title": "Tracking",
+    "Description": "Weak enemies take double damage from Attacks.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/untouchable",
+    "Title": "Untouchable",
+    "Description": "Sly. Gain 9 Block.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/up_my_sleeve",
+    "Title": "Up My Sleeve",
+    "Description": "Add 3 Shivs into your Hand. Reduce this card's cost by 1.",
+    "Character": "Silent",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/well_laid_plans",
+    "Title": "Well-Laid Plans",
+    "Description": "At the end of your turn, Retain up to 1 card.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/wraith_form",
+    "Title": "Wraith Form",
+    "Description": "Gain 2 Intangible. At the start of your turn, lose 1 Dexterity.",
+    "Character": "Silent",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/adaptive_strike",
+    "Title": "Adaptive Strike",
+    "Description": "Deal 18 damage. Add a 0 copy of this card into your Discard Pile.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/all_for_one",
+    "Title": "All for One",
+    "Description": "Deal 10 damage. Put ALL 0 cards from your Discard Pile into your Hand.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/ball_lightning",
+    "Title": "Ball Lightning",
+    "Description": "Deal 7 damage. Channel 1 Lightning.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/barrage",
+    "Title": "Barrage",
+    "Description": "Deal 5 damage for each Channeled Orb.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/beam_cell",
+    "Title": "Beam Cell",
+    "Description": "Deal 3 damage. Apply 1 Vulnerable.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/biased_cognition",
+    "Title": "Biased Cognition",
+    "Description": "Gain 4 Focus. At the start of your turn, lose 1 Focus.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/boost_away",
+    "Title": "Boost Away",
+    "Description": "Gain 6 Block. Add a Dazed into your Discard Pile.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/boot_sequence",
+    "Title": "Boot Sequence",
+    "Description": "Innate. Gain 10 Block. Exhaust.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/buffer",
+    "Title": "Buffer",
+    "Description": "Prevent the next time  you would lose HP.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bulk_up",
+    "Title": "Bulk Up",
+    "Description": "Lose 1 Orb Slot. Gain 2 Strength. Gain 2 Dexterity.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/capacitor",
+    "Title": "Capacitor",
+    "Description": "Gain 2 Orb Slots.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/chaos",
+    "Title": "Chaos",
+    "Description": "Channel 1 random Orb.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/charge_battery",
+    "Title": "Charge Battery",
+    "Description": "Gain 7 Block. Next turn, gain .",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/chill",
+    "Title": "Chill",
+    "Description": "Channel 1 Frost for each enemy.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/claw",
+    "Title": "Claw",
+    "Description": "Deal 3 damage. Increase the damage of ALL Claw cards by 2 this combat.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/cold_snap",
+    "Title": "Cold Snap",
+    "Description": "Deal 6 damage. Channel 1 Frost.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/compact",
+    "Title": "Compact",
+    "Description": "Gain 6 Block. Transform all Status cards in your Hand into Fuel.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/compile_driver",
+    "Title": "Compile Driver",
+    "Description": "Deal 7 damage. Draw 1 card for each unique Orb you have.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/consuming_shadow",
+    "Title": "Consuming Shadow",
+    "Description": "Channel 2 Dark. At the end of your turn, Evoke your leftmost Orb.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/coolant",
+    "Title": "Coolant",
+    "Description": "At the start of your turn, gain 2 Block for each unique Orb you have.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/coolheaded",
+    "Title": "Coolheaded",
+    "Description": "Channel 1 Frost. Draw 1 card.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/creative_ai",
+    "Title": "Creative AI",
+    "Description": "At the start of your turn, add a random Power into your Hand.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/darkness",
+    "Title": "Darkness",
+    "Description": "Channel 1 Dark. Trigger the passive ability of all Dark Orbs.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/defend_defect",
+    "Title": "Defend",
+    "Description": "Gain 5 Block.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/defragment",
+    "Title": "Defragment",
+    "Description": "Gain 1 Focus.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/double_energy",
+    "Title": "Double Energy",
+    "Description": "Double your Energy. Exhaust.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dualcast",
+    "Title": "Dualcast",
+    "Description": "Evoke your rightmost Orb twice.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/echo_form",
+    "Title": "Echo Form",
+    "Description": "The first card you play each turn is played an extra time.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/energy_surge",
+    "Title": "Energy Surge",
+    "Description": "ALL players gain . Exhaust.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/feral",
+    "Title": "Feral",
+    "Description": "The first time you play a 0 Attack each turn, return it to your Hand.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/fight_through",
+    "Title": "Fight Through",
+    "Description": "Gain 13 Block. Add 2 Wounds into your Discard Pile.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/flak_cannon",
+    "Title": "Flak Cannon",
+    "Description": "Exhaust ALL your Status cards. Deal 8 damage to a random enemy for each card Exhausted.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/focused_strike",
+    "Title": "Focused Strike",
+    "Description": "Deal 9 damage. Gain 1 Focus this turn.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/ftl",
+    "Title": "FTL",
+    "Description": "Deal 5 damage. If you have played fewer than 3 cards this turn, draw 1 card.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/fusion",
+    "Title": "Fusion",
+    "Description": "Channel 1 Plasma.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/genetic_algorithm",
+    "Title": "Genetic Algorithm",
+    "Description": "Gain 1 Block. Permanently increase this card's Block by 3. Exhaust.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/glacier",
+    "Title": "Glacier",
+    "Description": "Gain 6 Block. Channel 2 Frost.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/glasswork",
+    "Title": "Glasswork",
+    "Description": "Gain 5 Block. Channel 1 Glass.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/go_for_the_eyes",
+    "Title": "Go for the Eyes",
+    "Description": "Deal 3 damage. If the enemy intends to attack, apply 1 Weak.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/gunk_up",
+    "Title": "Gunk Up",
+    "Description": "Deal 4 damage 3 times. Add a Slimed into your Discard Pile.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hailstorm",
+    "Title": "Hailstorm",
+    "Description": "At the end of your turn, if you have Frost, deal 6 damage to ALL enemies.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/helix_drill",
+    "Title": "Helix Drill",
+    "Description": "Deal 3 damage for each  previously spent this turn.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hologram",
+    "Title": "Hologram",
+    "Description": "Gain 3 Block. Put a card from your Discard Pile into your Hand.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hotfix",
+    "Title": "Hotfix",
+    "Description": "Gain 2 Focus this turn.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hyperbeam",
+    "Title": "Hyperbeam",
+    "Description": "Deal 26 damage to ALL enemies. Lose 3 Focus.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/ice_lance",
+    "Title": "Ice Lance",
+    "Description": "Deal 19 damage. Channel 3 Frost.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/ignition",
+    "Title": "Ignition",
+    "Description": "Another player Channels Plasma.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/iteration",
+    "Title": "Iteration",
+    "Description": "The first time you draw a Status card each turn, draw 2 cards.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/leap",
+    "Title": "Leap",
+    "Description": "Gain 9 Block.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/lightning_rod",
+    "Title": "Lightning Rod",
+    "Description": "Gain 4 Block. At the start of the next 2 turns, Channel 1 Lightning.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/loop",
+    "Title": "Loop",
+    "Description": "At the start of your turn, trigger the passive ability of your rightmost Orb.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/machine_learning",
+    "Title": "Machine Learning",
+    "Description": "At the start of your turn, draw 1 additional card.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/meteor_strike",
+    "Title": "Meteor Strike",
+    "Description": "Deal 24 damage. Channel 3 Plasma.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "5",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/modded",
+    "Title": "Modded",
+    "Description": "Gain 1 Orb Slot. Draw 1 card. Increase this card's cost by 1.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/momentum_strike",
+    "Title": "Momentum Strike",
+    "Description": "Deal 10 damage. Reduce this card's cost to 0 .",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/multi_cast",
+    "Title": "Multi-Cast",
+    "Description": "Evoke your rightmost Orb X times.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "X",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/null",
+    "Title": "Null",
+    "Description": "Deal 10 damage. Apply 2 Weak. Channel 1 Dark.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/overclock",
+    "Title": "Overclock",
+    "Description": "Draw 2 cards. Add a Burn into your Discard Pile.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/quadcast",
+    "Title": "Quadcast",
+    "Description": "Evoke your rightmost Orb 4 times.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/rainbow",
+    "Title": "Rainbow",
+    "Description": "Channel 1 Lightning. Channel 1 Frost. Channel 1 Dark.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/reboot",
+    "Title": "Reboot",
+    "Description": "Shuffle ALL your cards into your Draw Pile. Draw 4 cards. Exhaust.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/refract",
+    "Title": "Refract",
+    "Description": "Deal 9 damage twice. Channel 2 Glass.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/rip_and_tear",
+    "Title": "Rip and Tear",
+    "Description": "Deal 7 damage to a random enemy twice.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/rocket_punch",
+    "Title": "Rocket Punch",
+    "Description": "Deal 13 damage. Draw 1 card. When a Status card is created, reduce this card's cost to 0  this turn.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/scavenge",
+    "Title": "Scavenge",
+    "Description": "Exhaust a card. Next turn, gain .",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/scrape",
+    "Title": "Scrape",
+    "Description": "Deal 7 damage. Draw 4 cards. Discard all cards drawn this way that do not cost 0 .",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/shadow_shield",
+    "Title": "Shadow Shield",
+    "Description": "Gain 11 Block. Channel 1 Dark.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/shatter",
+    "Title": "Shatter",
+    "Description": "Deal 11 damage to ALL enemies. Evoke all of your Orbs.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/signal_boost",
+    "Title": "Signal Boost",
+    "Description": "The next Power you play is played an additional time. Exhaust.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/skim",
+    "Title": "Skim",
+    "Description": "Draw 3 cards.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/smokestack",
+    "Title": "Smokestack",
+    "Description": "Whenever you create a Status, deal 5 damage to ALL enemies.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/spinner",
+    "Title": "Spinner",
+    "Description": "At the start of your turn, Channel 1 Glass.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/storm",
+    "Title": "Storm",
+    "Description": "Whenever you play a Power, Channel 1 Lightning.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/strike_defect",
+    "Title": "Strike",
+    "Description": "Deal 6 damage.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/subroutine",
+    "Title": "Subroutine",
+    "Description": "Whenever you play a Power, gain .",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/sunder",
+    "Title": "Sunder",
+    "Description": "Deal 24 damage. If this kills an enemy, gain .",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/supercritical",
+    "Title": "Supercritical",
+    "Description": "Gain 4. Exhaust.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/sweeping_beam",
+    "Title": "Sweeping Beam",
+    "Description": "Deal 6 damage to ALL enemies. Draw 1 card.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/synchronize",
+    "Title": "Synchronize",
+    "Description": "Gain 2 Focus this turn for each unique Orb you have.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/synthesis",
+    "Title": "Synthesis",
+    "Description": "Deal 12 damage. The next Power you play costs 0 .",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/tempest",
+    "Title": "Tempest",
+    "Description": "Channel X Lightning.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "X",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/tesla_coil",
+    "Title": "Tesla Coil",
+    "Description": "Deal 3 damage. Trigger all Lightning against the enemy.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/thunder",
+    "Title": "Thunder",
+    "Description": "Whenever you Evoke Lightning, deal 6 damage to each enemy hit.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/trash_to_treasure",
+    "Title": "Trash to Treasure",
+    "Description": "Whenever you create a Status card, Channel 1 random Orb.",
+    "Character": "Defect",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/turbo",
+    "Title": "TURBO",
+    "Description": "Gain . Add a Void into your Discard Pile.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/uproar",
+    "Title": "Uproar",
+    "Description": "Deal 5 damage twice. Play a random Attack from your Draw Pile.",
+    "Character": "Defect",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/voltaic",
+    "Title": "Voltaic",
+    "Description": "Channel Lightning equal to the Lightning already Channeled this combat.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/white_noise",
+    "Title": "White Noise",
+    "Description": "Add a random Power into your Hand. It's free to play this turn. Exhaust.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/zap",
+    "Title": "Zap",
+    "Description": "Channel 1 Lightning.",
+    "Character": "Defect",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/afterlife",
+    "Title": "Afterlife",
+    "Description": "Summon 6. Exhaust.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/banshees_cry",
+    "Title": "Banshee's Cry",
+    "Description": "Deal 33 damage to ALL enemies. Costs  less for each Ethereal card played this combat.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "6",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/blight_strike",
+    "Title": "Blight Strike",
+    "Description": "Deal 8 damage. Apply Doom equal to damage dealt.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bodyguard",
+    "Title": "Bodyguard",
+    "Description": "Summon 5.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bone_shards",
+    "Title": "Bone Shards",
+    "Description": "If Osty is alive, he deals 9 damage to ALL enemies and you gain 9 Block. Osty dies.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/borrowed_time",
+    "Title": "Borrowed Time",
+    "Description": "Apply 3 Doom to yourself. Gain .",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bury",
+    "Title": "Bury",
+    "Description": "Deal 52 damage.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "4",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/calcify",
+    "Title": "Calcify",
+    "Description": "Osty's attacks deal 4 additional damage.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/call_of_the_void",
+    "Title": "Call of the Void",
+    "Description": "At the start of your turn, add 1 random card into your Hand. It gains Ethereal.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/capture_spirit",
+    "Title": "Capture Spirit",
+    "Description": "Enemy loses 3 HP. Add 3 Souls into your Draw Pile.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/cleanse",
+    "Title": "Cleanse",
+    "Description": "Summon 3. Exhaust 1 card from your Draw Pile.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/countdown",
+    "Title": "Countdown",
+    "Description": "At the start of your turn, apply 6 Doom to a random enemy.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/danse_macabre",
+    "Title": "Danse Macabre",
+    "Description": "Whenever you play a card that costs  or more, gain 3 Block.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/death_march",
+    "Title": "Death March",
+    "Description": "Deal 8 damage. Deals 3 additional damage for each card drawn during your turn.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/deaths_door",
+    "Title": "Death's Door",
+    "Description": "Gain 6 Block. If you applied Doom this turn, gain Block 2 additional times.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/deathbringer",
+    "Title": "Deathbringer",
+    "Description": "Apply 21 Doom and 1 Weak to ALL enemies.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/debilitate",
+    "Title": "Debilitate",
+    "Description": "Deal 7 damage. Vulnerable and Weak are twice as effective against the enemy for the next 3 turns.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/defend_necrobinder",
+    "Title": "Defend",
+    "Description": "Gain 5 Block.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/defile",
+    "Title": "Defile",
+    "Description": "Ethereal. Deal 13 damage.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/defy",
+    "Title": "Defy",
+    "Description": "Ethereal. Gain 6 Block. Apply 1 Weak.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/delay",
+    "Title": "Delay",
+    "Description": "Gain 11 Block. Next turn, gain .",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/demesne",
+    "Title": "Demesne",
+    "Description": "Ethereal. At the start of your turn, gain  and draw 1 additional card.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/devour_life",
+    "Title": "Devour Life",
+    "Description": "Whenever you play a Soul, Summon 1.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dirge",
+    "Title": "Dirge",
+    "Description": "Summon 3 X times. Add X Souls into your Draw Pile.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "X",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/drain_power",
+    "Title": "Drain Power",
+    "Description": "Deal 10 damage. Upgrade 2 random cards in your Discard Pile.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dredge",
+    "Title": "Dredge",
+    "Description": "Put 3 cards from your Discard Pile into your Hand. Exhaust.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/eidolon",
+    "Title": "Eidolon",
+    "Description": "Exhaust your Hand. If 9 cards were Exhausted this way, gain 1 Intangible.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/end_of_days",
+    "Title": "End of Days",
+    "Description": "Apply 29 Doom to ALL enemies. Kill enemies with at least as much Doom as HP.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/enfeebling_touch",
+    "Title": "Enfeebling Touch",
+    "Description": "Ethereal. Enemy loses 8 Strength this turn.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/eradicate",
+    "Title": "Eradicate",
+    "Description": "Retain. Deal 11 damage X times.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "X",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/fear",
+    "Title": "Fear",
+    "Description": "Ethereal. Deal 7 damage. Apply 1 Vulnerable.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/fetch",
+    "Title": "Fetch",
+    "Description": "Osty deals 3 damage. If this is the first time this card has been played this turn, draw 1 card.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/flatten",
+    "Title": "Flatten",
+    "Description": "Osty deals 12 damage. This card costs 0  if Osty has attacked this turn.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/forbidden_grimoire",
+    "Title": "Forbidden Grimoire",
+    "Description": "At the end of combat, you may remove a card from your Deck. Eternal.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/friendship",
+    "Title": "Friendship",
+    "Description": "Lose 2 Strength. Gain  at the start of each turn.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/glimpse_beyond",
+    "Title": "Glimpse Beyond",
+    "Description": "ALL players add 3 Souls into their Draw Pile. Exhaust.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/grave_warden",
+    "Title": "Grave Warden",
+    "Description": "Gain 8 Block. Add a Soul into your Draw Pile.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/graveblast",
+    "Title": "Graveblast",
+    "Description": "Deal 4 damage. Put a card from your Discard Pile into your Hand.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hang",
+    "Title": "Hang",
+    "Description": "Deal 10 damage. Double the damage ALL Hang cards deal to this enemy.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/haunt",
+    "Title": "Haunt",
+    "Description": "Whenever you play a Soul, a random enemy loses 6 HP.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/high_five",
+    "Title": "High Five",
+    "Description": "Osty deals 11 damage and applies 2 Vulnerable to ALL enemies.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/invoke",
+    "Title": "Invoke",
+    "Description": "Next turn, Summon 2 and gain .",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/legion_of_bone",
+    "Title": "Legion of Bone",
+    "Description": "ALL players Summon 6. Exhaust.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/lethality",
+    "Title": "Lethality",
+    "Description": "Ethereal. The first Attack each turn deals 50% additional damage.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/melancholy",
+    "Title": "Melancholy",
+    "Description": "Gain 13 Block. Reduce this card's cost by  whenever ANYONE dies.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "3",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/misery",
+    "Title": "Misery",
+    "Description": "Deal 7 damage. Apply any debuffs on the enemy to ALL other enemies.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/necro_mastery",
+    "Title": "Necro Mastery",
+    "Description": "Summon 5. Whenever Osty loses HP, ALL enemies lose that much HP as well.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/negative_pulse",
+    "Title": "Negative Pulse",
+    "Description": "Gain 5 Block. Apply 7 Doom to ALL enemies.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/neurosurge",
+    "Title": "Neurosurge",
+    "Description": "Gain  . Draw 2 cards. At the start of your turn, apply 3 Doom to yourself.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/no_escape",
+    "Title": "No Escape",
+    "Description": "Apply 10 Doom, plus an additional 5 Doom for every 10 Doom already on this enemy.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/oblivion",
+    "Title": "Oblivion",
+    "Description": "Whenever you play a card this turn, apply 3 Doom to the enemy.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/pagestorm",
+    "Title": "Pagestorm",
+    "Description": "Whenever you draw an Ethereal card, draw 1 card.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/parse",
+    "Title": "Parse",
+    "Description": "Ethereal. Draw 3 cards.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/poke",
+    "Title": "Poke",
+    "Description": "Osty deals 6 damage.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/protector",
+    "Title": "Protector",
+    "Description": "Osty deals 10 damage. Deals additional damage equal to Osty's Max HP.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/pull_aggro",
+    "Title": "Pull Aggro",
+    "Description": "Summon 4. Gain 7 Block.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/pull_from_below",
+    "Title": "Pull from Below",
+    "Description": "Deal 5 damage for each Ethereal card played this combat.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/putrefy",
+    "Title": "Putrefy",
+    "Description": "Apply 2 Weak. Apply 2 Vulnerable. Exhaust.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/rattle",
+    "Title": "Rattle",
+    "Description": "Osty deals 7 damage. Hits an additional time for each other time he has attacked this turn.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/reanimate",
+    "Title": "Reanimate",
+    "Description": "Summon 20. Exhaust.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/reap",
+    "Title": "Reap",
+    "Description": "Retain. Deal 27 damage.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/reaper_form",
+    "Title": "Reaper Form",
+    "Description": "Whenever Attacks deal damage, they also apply that much Doom.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/reave",
+    "Title": "Reave",
+    "Description": "Deal 9 damage. Add a Soul into your Draw Pile.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/right_hand_hand",
+    "Title": "Right Hand Hand",
+    "Description": "Osty deals 4 damage. Whenever you play a card that costs  or more, return this to your Hand from the Discard Pile.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/sacrifice",
+    "Title": "Sacrifice",
+    "Description": "Retain. If Osty is alive, he dies and you gain Block equal to double his Max HP.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/scourge",
+    "Title": "Scourge",
+    "Description": "Apply 13 Doom. Draw 1 card.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/sculpting_strike",
+    "Title": "Sculpting Strike",
+    "Description": "Deal 8 damage. Add Ethereal to a card in your Hand.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/seance",
+    "Title": "Seance",
+    "Description": "Ethereal. Transform a card in your Draw Pile into Soul.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/sentry_mode",
+    "Title": "Sentry Mode",
+    "Description": "At the start of your turn, add 1 Sweeping Gaze into your Hand.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/severance",
+    "Title": "Severance",
+    "Description": "Deal 13 damage. Add a Soul into your Draw Pile, Hand, and Discard Pile.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/shared_fate",
+    "Title": "Shared Fate",
+    "Description": "Lose 2 Strength. Enemy loses 2 Strength. Exhaust.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/shroud",
+    "Title": "Shroud",
+    "Description": "Whenever you apply Doom, gain 2 Block.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/sic_em",
+    "Title": "Sic 'Em",
+    "Description": "Osty deals 5 damage. Whenever Osty hits this enemy this turn, Summon 2.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/sleight_of_flesh",
+    "Title": "Sleight of Flesh",
+    "Description": "Whenever you apply a debuff to an enemy, they take 9 damage.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/snap",
+    "Title": "Snap",
+    "Description": "Osty deals 7 damage. Add Retain to a card in your Hand.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/soul_storm",
+    "Title": "Soul Storm",
+    "Description": "Deal 9 damage. Deals 2 additional damage for each Soul in your Exhaust Pile.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/sow",
+    "Title": "Sow",
+    "Description": "Retain. Deal 8 damage to ALL enemies.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/spirit_of_ash",
+    "Title": "Spirit of Ash",
+    "Description": "Whenever you play an Ethereal card, gain 4 Block.",
+    "Character": "Necrobinder",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/spur",
+    "Title": "Spur",
+    "Description": "Retain. Summon 3. Osty heals 5 HP.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/squeeze",
+    "Title": "Squeeze",
+    "Description": "Osty deals 25 damage. Deals 5 additional damage for ALL your other Osty Attacks.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/strike_necrobinder",
+    "Title": "Strike",
+    "Description": "Deal 6 damage.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/the_scythe",
+    "Title": "The Scythe",
+    "Description": "Deal 13 damage. Permanently increase this card's damage by 3. Exhaust.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/times_up",
+    "Title": "Time's Up",
+    "Description": "Deal damage equal to the enemy's Doom. Exhaust.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/transfigure",
+    "Title": "Transfigure",
+    "Description": "Add Replay to a card in your Hand. It costs an extra .",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/undeath",
+    "Title": "Undeath",
+    "Description": "Gain 7 Block. Add a copy of this card into your Discard Pile.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/unleash",
+    "Title": "Unleash",
+    "Description": "Osty deals 6 damage. Deals additional damage equal to Osty's current HP.",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/veilpiercer",
+    "Title": "Veilpiercer",
+    "Description": "Deal 10 damage. The next Ethereal card you play costs 0 .",
+    "Character": "Necrobinder",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/wisp",
+    "Title": "Wisp",
+    "Description": "Gain . Exhaust.",
+    "Character": "Necrobinder",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/alignment",
+    "Title": "Alignment",
+    "Description": "Gain .",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/arsenal",
+    "Title": "Arsenal",
+    "Description": "Whenever you play a Colorless card, gain 1 Strength.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/astral_pulse",
+    "Title": "Astral Pulse",
+    "Description": "Deal 14 damage to ALL enemies.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/beat_into_shape",
+    "Title": "Beat into Shape",
+    "Description": "Deal 5 damage. Forge 5. Forges an additional 5 for every other time you've hit the enemy this turn.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/begone",
+    "Title": "BEGONE!",
+    "Description": "Deal 4 damage. Choose a card in your Hand to Transform into Minion Dive Bomb.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/big_bang",
+    "Title": "Big Bang",
+    "Description": "Draw 1 card. Gain . Gain . Forge 5. Exhaust.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/black_hole",
+    "Title": "Black Hole",
+    "Description": "Whenever you spend or gain , deal 3 damage to ALL enemies.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bombardment",
+    "Title": "Bombardment",
+    "Description": "Deal 18 damage. At the start of your turn, plays from the Exhaust Pile. Exhaust.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bulwark",
+    "Title": "Bulwark",
+    "Description": "Gain 13 Block. Forge 10.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bundle_of_joy",
+    "Title": "Bundle of Joy",
+    "Description": "Add 3 random Colorless cards into your Hand. Exhaust.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/celestial_might",
+    "Title": "Celestial Might",
+    "Description": "Deal 6 damage 3 times.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/charge",
+    "Title": "CHARGE!!",
+    "Description": "Choose 2 cards in your Draw Pile to Transform into Minion Strikes.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/child_of_the_stars",
+    "Title": "Child of the Stars",
+    "Description": "Whenever you spend , gain 2 Block for each  spent.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/cloak_of_stars",
+    "Title": "Cloak of Stars",
+    "Description": "Gain 7 Block.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/collision_course",
+    "Title": "Collision Course",
+    "Description": "Deal 9 damage. Add a Debris into your Hand.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/comet",
+    "Title": "Comet",
+    "Description": "Deal 33 damage. Apply 3 Weak. Apply 3 Vulnerable.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/conqueror",
+    "Title": "Conqueror",
+    "Description": "Forge 3. Sovereign Blade deals double damage to the enemy this turn.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/convergence",
+    "Title": "Convergence",
+    "Description": "Next turn, gain  and . Retain your Hand this turn.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/cosmic_indifference",
+    "Title": "Cosmic Indifference",
+    "Description": "Gain 6 Block. Put a card from your Discard Pile on top of your Draw Pile.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/crash_landing",
+    "Title": "Crash Landing",
+    "Description": "Deal 21 damage to ALL enemies. Fill your Hand with Debris.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/crescent_spear",
+    "Title": "Crescent Spear",
+    "Description": "Deal 6 damage. Deals 2 additional damage for ALL your cards that have a  cost.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/crush_under",
+    "Title": "Crush Under",
+    "Description": "Deal 7 damage to ALL enemies. All enemies lose 1 Strength this turn.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/decisions_decisions",
+    "Title": "Decisions, Decisions",
+    "Description": "Draw 3 cards. Choose a Skill in your Hand and play it 3 times. Exhaust.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/defend_regent",
+    "Title": "Defend",
+    "Description": "Gain 5 Block.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/devastate",
+    "Title": "Devastate",
+    "Description": "Deal 30 damage.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dying_star",
+    "Title": "Dying Star",
+    "Description": "Ethereal. Deal 9 damage to ALL enemies. ALL enemies lose 9 Strength this turn.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/falling_star",
+    "Title": "Falling Star",
+    "Description": "Deal 7 damage. Apply 1 Weak. Apply 1 Vulnerable.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/foregone_conclusion",
+    "Title": "Foregone Conclusion",
+    "Description": "Next turn, put 2 cards from your Draw Pile into your Hand.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/furnace",
+    "Title": "Furnace",
+    "Description": "At the start of your turn, Forge 4.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/gamma_blast",
+    "Title": "Gamma Blast",
+    "Description": "Deal 13 damage. Apply 2 Weak. Apply 2 Vulnerable.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/gather_light",
+    "Title": "Gather Light",
+    "Description": "Gain 7 Block. Gain .",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/genesis",
+    "Title": "Genesis",
+    "Description": "At the start of your turn, gain .",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/glimmer",
+    "Title": "Glimmer",
+    "Description": "Draw 3 cards. Put 1 card from your Hand on top of your Draw Pile.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/glitterstream",
+    "Title": "Glitterstream",
+    "Description": "Gain 11 Block. Next turn, gain 4 Block.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/glow",
+    "Title": "Glow",
+    "Description": "Gain . Draw 2 cards.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/guards",
+    "Title": "GUARDS!!!",
+    "Description": "Transform any number of cards in your Hand into Minion Sacrifice.  Exhaust.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/guiding_star",
+    "Title": "Guiding Star",
+    "Description": "Deal 12 damage. Next turn, draw 2 cards.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hammer_time",
+    "Title": "Hammer Time",
+    "Description": "Whenever you Forge, all allies Forge as well.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/heavenly_drill",
+    "Title": "Heavenly Drill",
+    "Description": "Deal 8 damage X times. Double X if it's 4 or more.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "X",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hegemony",
+    "Title": "Hegemony",
+    "Description": "Deal 15 damage. Next turn, gain .",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/heirloom_hammer",
+    "Title": "Heirloom Hammer",
+    "Description": "Deal 17 damage. Choose a Colorless card in your Hand. Add a copy of that card into your Hand.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hidden_cache",
+    "Title": "Hidden Cache",
+    "Description": "Gain . Next turn, gain .",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/i_am_invincible",
+    "Title": "I Am Invincible",
+    "Description": "Gain 9 Block. At the end of your turn, if this is on top of your Draw Pile, play it.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/kingly_kick",
+    "Title": "Kingly Kick",
+    "Description": "Deal 24 damage. Whenever you draw this card, reduce its cost by 1.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "4",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/kingly_punch",
+    "Title": "Kingly Punch",
+    "Description": "Deal 8 damage. Whenever you draw this card, increase its damage by 3 this combat.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/knockout_blow",
+    "Title": "Knockout Blow",
+    "Description": "Deal 30 damage. If this kills an enemy, gain .",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/know_thy_place",
+    "Title": "Know Thy Place",
+    "Description": "Apply 1 Weak. Apply 1 Vulnerable.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/largesse",
+    "Title": "Largesse",
+    "Description": "Another player adds 1 random  Colorless card to their Hand.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/lunar_blast",
+    "Title": "Lunar Blast",
+    "Description": "Deal 4 damage for each Skill already played this turn.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/make_it_so",
+    "Title": "Make It So",
+    "Description": "Deal 6 damage. Every 3 Skills you play in a turn, put this into your Hand.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/manifest_authority",
+    "Title": "Manifest Authority",
+    "Description": "Gain 7 Block. Add 1 random  Colorless card into your Hand.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/meteor_shower",
+    "Title": "Meteor Shower",
+    "Description": "Deal 14 damage to ALL enemies. Apply 2 Weak and Vulnerable to ALL enemies.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/monarchs_gaze",
+    "Title": "Monarch's Gaze",
+    "Description": "Whenever you attack an enemy, it loses 1 Strength this turn.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/monologue",
+    "Title": "Monologue",
+    "Description": "Whenever you play a card this turn, gain 1 Strength this turn.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/neutron_aegis",
+    "Title": "Neutron Aegis",
+    "Description": "Gain 8 Plating.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/orbit",
+    "Title": "Orbit",
+    "Description": "Every 4 you spend, gain .",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/pale_blue_dot",
+    "Title": "Pale Blue Dot",
+    "Description": "If you play 5 or more cards in a turn, draw 1 card at the start of your next turn.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/parry",
+    "Title": "Parry",
+    "Description": "Whenever you play Sovereign Blade, gain 6 Block.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/particle_wall",
+    "Title": "Particle Wall",
+    "Description": "Gain 9 Block. Return this card to your Hand.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/patter",
+    "Title": "Patter",
+    "Description": "Gain 8 Block. Gain 2 Vigor.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/photon_cut",
+    "Title": "Photon Cut",
+    "Description": "Deal 10 damage. Draw 1 card. Put 1 card from your Hand on top of your Draw Pile.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/pillar_of_creation",
+    "Title": "Pillar of Creation",
+    "Description": "Whenever you create a card, gain 3 Block.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/prophesize",
+    "Title": "Prophesize",
+    "Description": "Draw 6 cards.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/quasar",
+    "Title": "Quasar",
+    "Description": "Choose 1 of 3 random  Colorless cards to add into your Hand.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/radiate",
+    "Title": "Radiate",
+    "Description": "Deal 3 damage to ALL enemies for each  gained this turn.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/refine_blade",
+    "Title": "Refine Blade",
+    "Description": "Forge 6. Next turn, gain .",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/reflect",
+    "Title": "Reflect",
+    "Description": "Gain 17 Block. Blocked attack damage is reflected to your attacker this turn.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/resonance",
+    "Title": "Resonance",
+    "Description": "Gain 1 Strength. ALL enemies lose 1 Strength.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/royal_gamble",
+    "Title": "Royal Gamble",
+    "Description": "Gain 9 . Exhaust.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/royalties",
+    "Title": "Royalties",
+    "Description": "At the end of combat, gain 30 Gold.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/seeking_edge",
+    "Title": "Seeking Edge",
+    "Description": "Forge 7. Sovereign Blade now deals damage to ALL enemies.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/seven_stars",
+    "Title": "Seven Stars",
+    "Description": "Deal 7 damage to ALL enemies 7 times.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/shining_strike",
+    "Title": "Shining Strike",
+    "Description": "Deal 8 damage. Gain . Put this card on top of your Draw Pile.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/solar_strike",
+    "Title": "Solar Strike",
+    "Description": "Deal 8 damage. Gain .",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/spectrum_shift",
+    "Title": "Spectrum Shift",
+    "Description": "At the start of your turn, add 1 random Colorless card into your Hand.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/spoils_of_battle",
+    "Title": "Spoils of Battle",
+    "Description": "Forge 10.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/stardust",
+    "Title": "Stardust",
+    "Description": "Deal 5 damage to a random enemy X times.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/strike_regent",
+    "Title": "Strike",
+    "Description": "Deal 6 damage.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/summon_forth",
+    "Title": "Summon Forth",
+    "Description": "Forge 8. Put Sovereign Blade into your Hand from anywhere.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/supermassive",
+    "Title": "Supermassive",
+    "Description": "Deal 5 damage. Deals 3 additional damage for each card you created this combat.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/sword_sage",
+    "Title": "Sword Sage",
+    "Description": "Increase the cost of Sovereign Blade by 1. Sovereign Blade now hits an additional time.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/terraforming",
+    "Title": "Terraforming",
+    "Description": "Gain 6 Vigor.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/the_sealed_throne",
+    "Title": "The Sealed Throne",
+    "Description": "Whenever you play a card, gain .",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/the_smith",
+    "Title": "The Smith",
+    "Description": "Forge 30.",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/tyranny",
+    "Title": "Tyranny",
+    "Description": "At the start of your turn, draw 1 card and Exhaust 1 card from your Hand.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/venerate",
+    "Title": "Venerate",
+    "Description": "Gain .",
+    "Character": "Regent",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/void_form",
+    "Title": "Void Form",
+    "Description": "End your turn. The first 2 cards you play each turn are free to play.",
+    "Character": "Regent",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/wrought_in_war",
+    "Title": "Wrought in War",
+    "Description": "Deal 7 damage. Forge 5.",
+    "Character": "Regent",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Common",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/alchemize",
+    "Title": "Alchemize",
+    "Description": "Procure a random potion. Exhaust.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/anointed",
+    "Title": "Anointed",
+    "Description": "Put every Rare card from your Draw Pile into your Hand. Exhaust.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/automation",
+    "Title": "Automation",
+    "Description": "Every 10 cards you draw, gain .",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/beacon_of_hope",
+    "Title": "Beacon of Hope",
+    "Description": "Whenever you gain Block on your turn, other players gain half that much Block.",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/beat_down",
+    "Title": "Beat Down",
+    "Description": "Play 3 random Attacks from your Discard Pile.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/believe_in_you",
+    "Title": "Believe in You",
+    "Description": "Another player gains  .",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/bolas",
+    "Title": "Bolas",
+    "Description": "Deal 3 damage. At the start of your next turn, return this to your Hand.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/calamity",
+    "Title": "Calamity",
+    "Description": "Whenever you play an Attack, add a random Attack into your Hand.",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/catastrophe",
+    "Title": "Catastrophe",
+    "Description": "Play 2 random cards from your Draw Pile.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/coordinate",
+    "Title": "Coordinate",
+    "Description": "Give another player 5 Strength this turn.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dark_shackles",
+    "Title": "Dark Shackles",
+    "Description": "Enemy loses 9 Strength this turn. Exhaust.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/discovery",
+    "Title": "Discovery",
+    "Description": "Choose 1 of 3 random cards to add into your Hand. It costs 0  this turn.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/dramatic_entrance",
+    "Title": "Dramatic Entrance",
+    "Description": "Innate. Deal 11 damage to ALL enemies. Exhaust.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/entropy",
+    "Title": "Entropy",
+    "Description": "At the start of your turn, Transform 1 card in your Hand.",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/equilibrium",
+    "Title": "Equilibrium",
+    "Description": "Gain 13 Block. Retain your Hand this turn.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/eternal_armor",
+    "Title": "Eternal Armor",
+    "Description": "Gain 7 Plating.",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/fasten",
+    "Title": "Fasten",
+    "Description": "Gain an additional 5 Block from Defend cards.",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/finesse",
+    "Title": "Finesse",
+    "Description": "Gain 4 Block. Draw 1 card.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/fisticuffs",
+    "Title": "Fisticuffs",
+    "Description": "Deal 7 damage. Gain Block equal to damage dealt.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/flash_of_steel",
+    "Title": "Flash of Steel",
+    "Description": "Deal 5 damage. Draw 1 card.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/gang_up",
+    "Title": "Gang Up",
+    "Description": "Deal 5 damage. Deals 5 additional damage for each time another player has attacked the enemy this turn.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/gold_axe",
+    "Title": "Gold Axe",
+    "Description": "Deal damage equal to the number of cards played this combat.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hand_of_greed",
+    "Title": "Hand of Greed",
+    "Description": "Deal 20 damage. If Fatal, gain 20 Gold.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/hidden_gem",
+    "Title": "Hidden Gem",
+    "Description": "A random card in your Draw Pile gains Replay 2.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/huddle_up",
+    "Title": "Huddle Up",
+    "Description": "ALL allies draw 2 cards.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/impatience",
+    "Title": "Impatience",
+    "Description": "If you have no Attacks in your Hand, draw 2 cards.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/intercept",
+    "Title": "Intercept",
+    "Description": "Gain 9 Block. Redirect all incoming attacks that would be dealt to another player this turn to you.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/jack_of_all_trades",
+    "Title": "Jack of All Trades",
+    "Description": "Add 1 random Colorless card into your Hand. Exhaust.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/jackpot",
+    "Title": "Jackpot",
+    "Description": "Deal 25 damage. Add 3 random  0 cards into your Hand.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/knockdown",
+    "Title": "Knockdown",
+    "Description": "Deal 10 damage. The enemy takes double damage from other players this turn.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/lift",
+    "Title": "Lift",
+    "Description": "Give another player 11 Block.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/master_of_strategy",
+    "Title": "Master of Strategy",
+    "Description": "Draw 3 cards. Exhaust.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/mayhem",
+    "Title": "Mayhem",
+    "Description": "At the start of your turn, play the top card of your Draw Pile.",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/mimic",
+    "Title": "Mimic",
+    "Description": "Gain Block equal to the Block on another player.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/mind_blast",
+    "Title": "Mind Blast",
+    "Description": "Innate. Deal damage equal to the number of cards in your Draw Pile.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/nostalgia",
+    "Title": "Nostalgia",
+    "Description": "The first Attack or Skill you play each turn is placed on top of your Draw Pile.",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/omnislice",
+    "Title": "Omnislice",
+    "Description": "Deal 8 damage. Damage ALL other enemies equal to the damage dealt.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/panache",
+    "Title": "Panache",
+    "Description": "Every time you play 5 cards in a single turn, deal 10 damage to ALL enemies.",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/panic_button",
+    "Title": "Panic Button",
+    "Description": "Gain 30 Block. You cannot gain Block from cards for 2 turns. Exhaust.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/prep_time",
+    "Title": "Prep Time",
+    "Description": "At the start of your turn, gain 4 Vigor.",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/production",
+    "Title": "Production",
+    "Description": "Gain .",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/prolong",
+    "Title": "Prolong",
+    "Description": "Next turn, gain Block equal to your current Block.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/prowess",
+    "Title": "Prowess",
+    "Description": "Gain 1 Strength. Gain 1 Dexterity.",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/purity",
+    "Title": "Purity",
+    "Description": "Retain. Exhaust up to 3 cards in your Hand. Exhaust.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/rally",
+    "Title": "Rally",
+    "Description": "ALL players gain 12 Block.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/rend",
+    "Title": "Rend",
+    "Description": "Deal 15 damage. Deals 5 additional damage for each unique debuff on the enemy.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/restlessness",
+    "Title": "Restlessness",
+    "Description": "Retain. If your Hand is empty, draw 2 cards and gain .",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/rolling_boulder",
+    "Title": "Rolling Boulder",
+    "Description": "At the start of your turn, deal 5 damage to ALL enemies and increase this damage by 5.",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "3",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/salvo",
+    "Title": "Salvo",
+    "Description": "Deal 12 damage. Retain your Hand this turn.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/scrawl",
+    "Title": "Scrawl",
+    "Description": "Draw cards until your Hand is full. Exhaust.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/secret_technique",
+    "Title": "Secret Technique",
+    "Description": "Put a Skill from your Draw Pile into your Hand.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/secret_weapon",
+    "Title": "Secret Weapon",
+    "Description": "Put an Attack from your Draw Pile into your Hand.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/seeker_strike",
+    "Title": "Seeker Strike",
+    "Description": "Deal 6 damage. Choose 1 of 3 cards in your Draw Pile to add into your Hand.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/shockwave",
+    "Title": "Shockwave",
+    "Description": "Apply 3 Weak and Vulnerable to ALL enemies. Exhaust.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/splash",
+    "Title": "Splash",
+    "Description": "Choose 1 of 3 random  Attacks from another character to add into your Hand. It's free to play this turn.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/stratagem",
+    "Title": "Stratagem",
+    "Description": "Whenever you shuffle your Draw Pile, choose a card from it to put into your Hand.",
+    "Character": "Colorless",
+    "Type": "Power",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/tag_team",
+    "Title": "Tag Team",
+    "Description": "Deal 11 damage. The next Attack another player plays on the enemy is played an extra time.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/the_bomb",
+    "Title": "The Bomb",
+    "Description": "At the end of 3 turns, deal 40 damage to ALL enemies.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "2",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/the_gambit",
+    "Title": "The Gambit",
+    "Description": "Gain 50 Block. If you take unblocked attack damage this combat, die.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Rare",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/thinking_ahead",
+    "Title": "Thinking Ahead",
+    "Description": "Draw 2 cards. Put 1 card from your Hand on top of your Draw Pile.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "0",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/thrumming_hatchet",
+    "Title": "Thrumming Hatchet",
+    "Description": "Deal 11 damage. At the start of your next turn, return this to your Hand.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/ultimate_defend",
+    "Title": "Ultimate Defend",
+    "Description": "Gain 11 Block.",
+    "Character": "Colorless",
+    "Type": "Skill",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/ultimate_strike",
+    "Title": "Ultimate Strike",
+    "Description": "Deal 14 damage.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "1",
+    "Rarity": "Uncommon",
+    "Img": ""
+  },
+  {
+    "URL": "https://sts2.untapped.gg/en/cards/volley",
+    "Title": "Volley",
+    "Description": "Deal 10 damage to a random enemy X times.",
+    "Character": "Colorless",
+    "Type": "Attack",
+    "EnergyCost": "X",
+    "Rarity": "Uncommon",
+    "Img": ""
+  }
+]
